@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<title>捏果糖 · 真3D版 🐻🍬</title>
+<style>
+  html,body{margin:0;height:100%;overflow:hidden;background:#f3e9dc;font-family:system-ui,-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;touch-action:none;-webkit-user-select:none;user-select:none}
+  #hud{position:fixed;top:14px;left:16px;z-index:2;color:#7a5b3f}
+  #hud h1{margin:0;font-size:20px;letter-spacing:1px}
+  #hud p{margin:4px 0 10px;font-size:13px;opacity:.75}
+  #hud .row{display:flex;gap:10px;align-items:center;font-size:13px;flex-wrap:wrap}
+  button{border:0;background:#fff;color:#7a5b3f;padding:8px 14px;border-radius:999px;box-shadow:0 2px 8px rgba(120,80,40,.15);cursor:pointer;font-size:13px}
+  button:active{transform:scale(.95)}
+  input[type=range]{accent-color:#e2557b;width:120px}
+  #err{position:fixed;bottom:12px;left:16px;right:16px;z-index:3;color:#a33;font-size:12px;white-space:pre-wrap}
+  a{color:#a05570}
+</style>
+</head>
+<body>
+<div id="hud">
+  <h1>捏果糖 · 真3D 🐻🍬</h1>
+  <p>左键拖糖 · 右键转视角 · 滚轮缩放 · 双击加一颗 · 折射果冻材质</p>
+  <div class="row">
+    <button id="add">＋加一颗</button>
+    <button id="squish">捏爆一下</button>
+    <label>弹性 <input id="bounce" type="range" min="0" max="95" value="60"></label>
+    <button id="reset">重置</button>
+    <a href="index-2d.html">← 2D版</a>
+  </div>
+</div>
+<div id="err"></div>
+<script type="importmap">
+{"imports": {"three": "./three.module.js", "three/addons/": "./addons/"}}
+</script>
+<script type="module">
+import * as THREE from 'three';
+import { OrbitControls } from 'three/addons/OrbitControls.js';
+import { MarchingCubes } from 'three/addons/MarchingCubes.js';
+import { RoomEnvironment } from 'three/addons/RoomEnvironment.js';
+
+const errBox = document.getElementById('err');
+window.addEventListener('error', e => { errBox.textContent = '渲染出错: ' + e.message; });
+
+// ---------- renderer / scene ----------
+const renderer = new THREE.WebGLRenderer({ antialias: true });
+renderer.setPixelRatio(Math.min(devicePixelRatio, 2));
+renderer.setSize(innerWidth, innerHeight);
+renderer.shadowMap.enabled = true;
+renderer.shadowMap.type = THREE.PCFSoftShadowMap;
+renderer.toneMapping = THREE.ACESFilmicToneMapping;
+document.body.appendChild(renderer.domElement);
+
+const scene = new THREE.Scene();
+scene.background = new THREE.Color(0xf3e9dc);
+
+const pmrem = new THREE.PMREMGenerator(renderer);
+scene.environment = pmrem.fromScene(new RoomEnvironment(), 0.04).texture;
+
+const camera = new THREE.PerspectiveCamera(50, innerWidth / innerHeight, 0.1, 200);
+camera.position.set(0, 4.2, 11);
+
+const controls = new OrbitControls(camera, renderer.domElement);
+controls.target.set(0, 2.2, 0);
+controls.enableDamping = true;
+controls.maxPolarAngle = Math.PI * 0.49;
+controls.minDistance = 4; controls.maxDistance = 30;
+controls.mouseButtons = { LEFT: null, MIDDLE: THREE.MOUSE.DOLLY, RIGHT: THREE.MOUSE.ROTATE };
+controls.touches = { ONE: null, TWO: THREE.TOUCH.DOLLY_ROTATE };
+
+const key = new THREE.DirectionalLight(0xfff2e0, 2.2);
+key.position.set(6, 12, 8);
+key.castShadow = true;
+key.shadow.mapSize.set(2048, 2048);
+key.shadow.camera.left = -14; key.shadow.camera.right = 14;
+key.shadow.camera.top = 14; key.shadow.camera.bottom = -14;
+scene.add(key);
+scene.add(new THREE.AmbientLight(0xffffff, 0.5));
+
+// ground
+const ground = new THREE.Mesh(
+  new THREE.PlaneGeometry(80, 80),
+  new THREE.MeshStandardMaterial({ color: 0xf7ecdd, roughness: 0.95 })
+);
+ground.rotation.x = -Math.PI / 2;
+ground.receiveShadow = true;
+scene.add(ground);
+
+// world bounds (x/z walls, y floor/ceiling)
+const BX = 9, BZ = 6, FLOOR = 0, CEIL = 14;
+
+// ---------- flavors ----------
+const FLAVORS = [
+  { name:'草莓', color:0xff4d70 },
+  { name:'香橙', color:0xff922e },
+  { name:'青提', color:0x67c23a },
+  { name:'葡萄', color:0x8a5cf5 },
+  { name:'可乐', color:0xb4552e },
+  { name:'蓝莓', color:0x4a7de0 },
+];
+
+// ---------- bear metaball skeleton ----------
+// rest offsets in units of candy radius R (y up). local/90.
+const L = {
+  torso: [0, -0.244, 0, 0.422],
+  neck:  [0,  0.133, 0, 0.178],
+  head:  [0,  0.511, 0, 0.300],
+  earL:  [-0.267, 0.733, 0, 0.122],
+  earR:  [ 0.267, 0.733, 0, 0.122],
+  armL:  [-0.422, 0.044, 0, 0.144],
+  armR:  [ 0.422, 0.044, 0, 0.144],
+  legL:  [-0.222,-0.689, 0, 0.167],
+  legR:  [ 0.222,-0.689, 0, 0.167],
+};
+const NAMES = Object.keys(L);
+const SPRINGS = [
+  ['torso','head'],['torso','neck'],['head','neck'],
+  ['head','earL'],['head','earR'],['earL','earR'],
+  ['torso','armL'],['torso','armR'],['armL','armR'],
+  ['torso','legL'],['torso','legR'],['legL','legR'],
+  ['head','armL'],['head','armR'],['neck','legL'],['neck','legR'],
+  ['head','legL'],['head','legR'],
+];
+const MC_SUB = 20, MC_ISO = 80, MC_SPAN = 1.5; // grid covers ±1.5R around center
+
+class Candy {
+  constructor(x, y, z, R, flavor, bear){
+    this.R = R; this.flavor = flavor; this.bear = bear;
+    this.parts = {};
+    const defs = bear ? L : { blob: [0, 0, 0, 0.8] };
+    for (const n in defs){
+      const [ox, oy, oz, pr] = defs[n];
+      this.parts[n] = {
+        x: x + ox*R, y: y + oy*R, z: z + oz*R,
+        vx: 0, vy: 0, vz: 0,
+        ox, oy, oz, pr,
+      };
+    }
+    this.springs = (bear ? SPRINGS : []).map(([a,b]) => {
+      const pa = this.parts[a], pb = this.parts[b];
+      const rest = Math.hypot((pb.ox-pa.ox)*R, (pb.oy-pa.oy)*R, (pb.oz-pa.oz)*R);
+      return { a, b, rest, k: 900 };
+    });
+    // marching cubes per candy
+    this.mc = new MarchingCubes(48, this.makeMaterial(flavor), false, false, 30000);
+    this.mc.position.set(x, y, z);
+    this.mc.scale.setScalar(R * MC_SPAN);
+    this.mc.castShadow = true;
+    scene.add(this.mc);
+    // invisible pick sphere
+    this.pick = new THREE.Mesh(new THREE.SphereGeometry(R * 1.15, 12, 12),
+      new THREE.MeshBasicMaterial({ visible: false }));
+    this.pick.position.set(x, y, z);
+    this.pick.userData.candy = this;
+    scene.add(this.pick);
+    // eyes
+    if (bear){
+      const eyeMat = new THREE.MeshPhysicalMaterial({ color: 0x2a1414, roughness: 0.15, clearcoat: 1 });
+      this.eyes = [new THREE.Mesh(new THREE.SphereGeometry(R*0.05, 12, 12), eyeMat),
+                   new THREE.Mesh(new THREE.SphereGeometry(R*0.05, 12, 12), eyeMat)];
+      for (const e of this.eyes){ e.castShadow = true; scene.add(e); }
+    }
+    this.grab = null;
+  }
+  makeMaterial(f){
+    return new THREE.MeshPhysicalMaterial({
+      color: f.color,
+      transmission: 0.72,
+      thickness: this.R * 1.4,
+      roughness: 0.22,
+      metalness: 0,
+      ior: 1.42,
+      clearcoat: 1,
+      clearcoatRoughness: 0.25,
+      attenuationColor: new THREE.Color(f.color),
+      attenuationDistance: this.R * 1.2,
+      envMapIntensity: 1.3,
+    });
+  }
+  center(){
+    let x=0,y=0,z=0,n=0;
+    for (const k in this.parts){ const p=this.parts[k]; x+=p.x; y+=p.y; z+=p.z; n++; }
+    return [x/n, y/n, z/n];
+  }
+  step(h, t){
+    const G = 14;
+    // springs
+    for (const s of this.springs){
+      const a = this.parts[s.a], b = this.parts[s.b];
+      let dx = b.x-a.x, dy = b.y-a.y, dz = b.z-a.z;
+      const d = Math.hypot(dx,dy,dz) || 1e-6;
+      const f = s.k * (d - s.rest) / d * h;
+      a.vx += dx*f; a.vy += dy*f; a.vz += dz*f;
+      b.vx -= dx*f; b.vy -= dy*f; b.vz -= dz*f;
+    }
+    // shape memory (weak -> jiggly) + breathing
+    const [cx, cy, cz] = this.center();
+    const br = 1 + 0.02 * Math.sin(t*2 + this.R);
+    for (const k in this.parts){
+      const p = this.parts[k];
+      const tx = cx + p.ox*this.R*br, ty = cy + p.oy*this.R*br, tz = cz + p.oz*this.R*br;
+      const f = 60 * h;
+      p.vx += (tx-p.x)*f; p.vy += (ty-p.y)*f; p.vz += (tz-p.z)*f;
+    }
+    // grab
+    if (this.grab){
+      const p = this.parts[this.grab];
+      const k = 300;
+      p.vx += (this.gx-p.x)*k*h; p.vy += (this.gy-p.y)*k*h; p.vz += (this.gz-p.z)*k*h;
+      p.vx *= 0.86; p.vy *= 0.86; p.vz *= 0.86;
+    }
+    // integrate + collide
+    for (const k in this.parts){
+      const p = this.parts[k];
+      p.vy -= G*h;
+      p.vx *= 0.996; p.vy *= 0.996; p.vz *= 0.996;
+      p.x += p.vx*h; p.y += p.vy*h; p.z += p.vz*h;
+      const r = p.pr*this.R;
+      if (p.y - r < FLOOR){ p.y = FLOOR + r; if (p.vy < 0) p.vy = -p.vy*REST; p.vx *= 0.98; p.vz *= 0.98; }
+      if (p.y + r > CEIL){ p.y = CEIL - r; if (p.vy > 0) p.vy = -p.vy*REST; }
+      if (p.x - r < -BX){ p.x = -BX + r; if (p.vx < 0) p.vx = -p.vx*REST; }
+      if (p.x + r > BX){ p.x = BX - r; if (p.vx > 0) p.vx = -p.vx*REST; }
+      if (p.z - r < -BZ){ p.z = -BZ + r; if (p.vz < 0) p.vz = -p.vz*REST; }
+      if (p.z + r > BZ){ p.z = BZ - r; if (p.vz > 0) p.vz = -p.vz*REST; }
+    }
+  }
+  render(){
+    const [cx, cy, cz] = this.center();
+    this.mc.reset();
+    for (const k in this.parts){
+      const p = this.parts[k];
+      const nx = THREE.MathUtils.clamp((p.x-cx)/this.R, -1.4, 1.4);
+      const ny = THREE.MathUtils.clamp((p.y-cy)/this.R, -1.4, 1.4);
+      const nz = THREE.MathUtils.clamp((p.z-cz)/this.R, -1.4, 1.4);
+      const rn = p.pr;
+      const d = rn / (2*MC_SPAN);
+      const S = d*d*(MC_SUB + MC_ISO);
+      this.mc.addBall(0.5+nx/(2*MC_SPAN), 0.5+ny/(2*MC_SPAN), 0.5+nz/(2*MC_SPAN), S, MC_SUB);
+    }
+    this.mc.update();
+    this.mc.position.set(cx, cy, cz);
+    this.pick.position.set(cx, cy, cz);
+    if (this.eyes){
+      const hd = this.parts.head, to = this.parts.torso;
+      let ux = hd.x-to.x, uy = hd.y-to.y, uz = hd.z-to.z;
+      const ul = Math.hypot(ux,uy,uz) || 1e-6; ux/=ul; uy/=ul; uz/=ul;
+      let fx = camera.position.x-hd.x, fy = camera.position.y-hd.y, fz = camera.position.z-hd.z;
+      const fl = Math.hypot(fx,fy,fz); fx/=fl; fy/=fl; fz/=fl;
+      // right = up x f
+      let rx = uy*fz - uz*fy, ry = uz*fx - ux*fz, rz = ux*fy - uy*fx;
+      const rl = Math.hypot(rx,ry,rz) || 1e-6; rx/=rl; ry/=rl; rz/=rl;
+      // forward2 = right x up
+      const fx2 = ry*uz - rz*uy, fy2 = rz*ux - rx*uz, fz2 = rx*uy - ry*ux;
+      const eo = this.R;
+      for (let i = 0; i < 2; i++){
+        const s = i ? 1 : -1;
+        // sit on the head surface (head radius 0.30R): push forward until outside
+        this.eyes[i].position.set(
+          hd.x + ux*0.10*eo + fx2*0.27*eo + rx*0.13*eo*s,
+          hd.y + uy*0.10*eo + fy2*0.27*eo + ry*0.13*eo*s,
+          hd.z + uz*0.10*eo + fz2*0.27*eo + rz*0.13*eo*s
+        );
+      }
+    }
+  }
+  dispose(){
+    scene.remove(this.mc); this.mc.geometry.dispose(); this.mc.material.dispose();
+    scene.remove(this.pick); this.pick.geometry.dispose();
+    if (this.eyes) for (const e of this.eyes){ scene.remove(e); e.geometry.dispose(); e.material.dispose(); }
+  }
+}
+
+let REST = 0.6;
+document.getElementById('bounce').addEventListener('input', e => REST = e.target.value / 100);
+
+let candies = [], flavorIx = 0;
+function spawn(x, y, z, bear){
+  const f = FLAVORS[flavorIx++ % FLAVORS.length];
+  const useBear = bear !== undefined ? bear : Math.random() < 0.7;
+  const R = useBear ? (1.15 + Math.random()*0.35) : (0.9 + Math.random()*0.35);
+  candies.push(new Candy(x, y, z, R, f, useBear));
+}
+function reset(){
+  for (const c of candies) c.dispose();
+  candies = []; flavorIx = 0;
+  const xs = [-6, -2, 2, 6];
+  xs.forEach((x, i) => spawn(x, 3.5, 0, i !== 2));
+}
+reset();
+document.getElementById('add').onclick = () => spawn((Math.random()*6-3), 6, 0);
+document.getElementById('reset').onclick = reset;
+document.getElementById('squish').onclick = () => {
+  for (const c of candies){
+    const [cx, cy, cz] = c.center();
+    for (const k in c.parts){
+      const p = c.parts[k];
+      let dx = p.x-cx, dy = p.y-cy, dz = p.z-cz;
+      const d = Math.hypot(dx,dy,dz) || 1;
+      p.vx += dx/d*14; p.vy += dy/d*14; p.vz += dz/d*14;
+    }
+  }
+};
+
+// ---------- pointer: pick & drag ----------
+const raycaster = new THREE.Raycaster();
+const ndc = new THREE.Vector2();
+let active = null;
+function ndcFrom(e){ ndc.set(e.clientX / innerWidth * 2 - 1, -(e.clientY / innerHeight * 2 - 1)); }
+function pickCandy(e){
+  ndcFrom(e);
+  raycaster.setFromCamera(ndc, camera);
+  const hits = raycaster.intersectObjects(candies.map(c => c.pick));
+  return hits.length ? hits[0] : null;
+}
+renderer.domElement.addEventListener('pointerdown', e => {
+  if (e.button !== 0) return;
+  const hit = pickCandy(e);
+  if (!hit) return;
+  const c = hit.object.userData.candy;
+  // nearest particle to hit point
+  let best = null, bd = 1e9;
+  const [hx, hy, hz] = [hit.point.x, hit.point.y, hit.point.z];
+  for (const k in c.parts){
+    const p = c.parts[k];
+    const d = Math.hypot(p.x-hx, p.y-hy, p.z-hz);
+    if (d < bd){ bd = d; best = k; }
+  }
+  c.grab = best;
+  c.gx = hx; c.gy = hy; c.gz = hz;
+  active = c;
+  controls.enabled = false;
+  renderer.domElement.setPointerCapture(e.pointerId);
+});
+renderer.domElement.addEventListener('pointermove', e => {
+  if (!active) return;
+  ndcFrom(e);
+  raycaster.setFromCamera(ndc, camera);
+  // drag plane through grabbed particle, facing camera
+  const p = active.parts[active.grab];
+  const n = new THREE.Vector3();
+  camera.getWorldDirection(n);
+  const plane = new THREE.Plane().setFromNormalAndCoplanarPoint(n, new THREE.Vector3(p.x, p.y, p.z));
+  const pt = new THREE.Vector3();
+  if (raycaster.ray.intersectPlane(plane, pt)){
+    active.gx = pt.x; active.gy = pt.y; active.gz = pt.z;
+  }
+});
+function release(){ if (active) active.grab = null; active = null; controls.enabled = true; }
+renderer.domElement.addEventListener('pointerup', release);
+renderer.domElement.addEventListener('pointercancel', release);
+renderer.domElement.addEventListener('dblclick', e => {
+  const hit = pickCandy(e);
+  if (hit) spawn(hit.point.x, Math.max(3, hit.point.y), hit.point.z);
+  else {
+    ndcFrom(e); raycaster.setFromCamera(ndc, camera);
+    const pt = raycaster.ray.at(12, new THREE.Vector3());
+    spawn(THREE.MathUtils.clamp(pt.x, -BX+1, BX-1), Math.max(3, pt.y), THREE.MathUtils.clamp(pt.z, -BZ+1, BZ-1));
+  }
+});
+
+// candy-candy separation
+function separate(){
+  for (let i = 0; i < candies.length; i++){
+    for (let j = i + 1; j < candies.length; j++){
+      const a = candies[i], b = candies[j];
+      const [ax, ay, az] = a.center(), [bx, by, bz] = b.center();
+      let dx = bx-ax, dy = by-ay, dz = bz-az;
+      const d = Math.hypot(dx,dy,dz) || 1e-6;
+      const min = (a.R + b.R) * 1.05;
+      if (d < min){
+        const push = (min - d) * 0.5 / d;
+        for (const k in a.parts){ const p = a.parts[k]; p.x -= dx*push; p.y -= dy*push; p.z -= dz*push; }
+        for (const k in b.parts){ const p = b.parts[k]; p.x += dx*push; p.y += dy*push; p.z += dz*push; }
+      }
+    }
+  }
+}
+
+// ---------- loop ----------
+const clock = new THREE.Clock();
+const SUB = 8;
+renderer.setAnimationLoop(() => {
+  const dt = Math.min(clock.getDelta(), 1/30);
+  const t = clock.elapsedTime;
+  const h = dt / SUB;
+  for (let s = 0; s < SUB; s++){
+    for (const c of candies) c.step(h, t);
+    separate();
+  }
+  for (const c of candies) c.render();
+  controls.update();
+  renderer.render(scene, camera);
+});
+
+addEventListener('resize', () => {
+  camera.aspect = innerWidth / innerHeight;
+  camera.updateProjectionMatrix();
+  renderer.setSize(innerWidth, innerHeight);
+});
+</script>
+</body>
+</html>
