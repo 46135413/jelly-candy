@@ -1,6 +1,3 @@
-{"rounds": 4, "badge_left": 267, "ev": "task_sweep", "t": 1794250715}
-{"tabs_claimed": 1, "badged_first": 1, "retry_tabs": 0, "still_badged": 0, "ev": "mail_sweep", "t": 1794250724}
-{"badged": ["huzhu", "lingdi", "shangdian"], "visited": ["huzhu", "lingdi", "shangdian"], "claimed": 1, "back_town": true, "ev": "alliance_sweep", "t": 1794250749}
 {"opened": 0, "gifts_claimed": 0, "ev": "chat_read", "t": 1794250767}
 {"ev": "chat_read", "t": 1794250767}
 {"at": [581, 122], "ev": "town_dot_click", "t": 1794250771}
@@ -8998,3 +8995,6 @@
 {"explore_claimed": 0, "ev": "idle_sweep", "t": 1794320022, "who": "[AAA]阿黄乐哈"}
 {"tabs_claimed": 2, "badged_first": 1, "retry_tabs": 1, "still_badged": 0, "ev": "mail_sweep", "t": 1794320036, "who": "[AAA]阿黄乐哈"}
 {"tabs_badged": [1, 0], "claims": 4, "ev": "box_claim", "t": 1794320056, "who": "[AAA]阿黄乐哈"}
+{"cycle": 1, "at": [343, 1077], "streak": 1, "ev": "free_claim", "t": 1794320405, "who": "[AAA]阿黄乐哈"}
+{"cycle": 2, "score": 0.819, "at": [689, 121], "needed_back": false, "streak": 1, "ev": "modal_closed", "t": 1794320407, "who": "[AAA]阿黄乐哈"}
+{"cycle": 3, "score": 0.64, "at": [685, 119], "ev": "modal_close_lowconf", "t": 1794320410, "who": "[AAA]阿黄乐哈"}
