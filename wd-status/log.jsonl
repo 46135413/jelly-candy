@@ -1,7 +1,3 @@
-{"cycle": 21, "at": [482, 780], "reason": "no_target_panel", "blacked": 2, "ev": "blacklisted", "t": 1794251075}
-{"cycle": 22, "pins_total": 3, "avatar": 0.203, "ev": "board_clear", "t": 1794251078}
-{"explore_claimed": 0, "ev": "idle_sweep", "t": 1794251085}
-{"rounds": 4, "badge_left": 272, "ev": "task_sweep", "t": 1794251107}
 {"tabs_claimed": 2, "badged_first": 2, "retry_tabs": 0, "still_badged": 0, "ev": "mail_sweep", "t": 1794251118}
 {"badged": ["huzhu", "lingdi", "shangdian", "zhanzheng"], "visited": ["huzhu", "lingdi", "shangdian", "zhanzheng"], "claimed": 0, "back_town": true, "ev": "alliance_sweep", "t": 1794251146}
 {"opened": 0, "gifts_claimed": 0, "ev": "chat_read", "t": 1794251164}
@@ -8998,3 +8994,7 @@
 {"cycle": 2, "score": 0.379, "ev": "entry_blind_wild", "t": 1794321201, "who": "[AAA]阿黄乐哈"}
 {"cycle": 2, "tries": 4, "ev": "not_board", "t": 1794321201, "who": "[AAA]阿黄乐哈"}
 {"cycle": 3, "score": 0.388, "ev": "entry_blind_wild", "t": 1794321224, "who": "[AAA]阿黄乐哈"}
+{"cycle": 1, "score": 0.797, "at": [704, 184], "needed_back": false, "streak": 1, "ev": "modal_closed", "t": 1794321585, "who": "[AAA]阿黄乐哈"}
+{"ev": "stamina_no_meal", "t": 1794321590, "who": "[AAA]阿黄乐哈"}
+{"cycle": 2, "pins_total": 2, "avatar": 0.186, "ev": "board_clear", "t": 1794321592, "who": "[AAA]阿黄乐哈"}
+{"explore_claimed": 1, "ev": "idle_sweep", "t": 1794321605, "who": "[AAA]阿黄乐哈"}
