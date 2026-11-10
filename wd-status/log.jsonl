@@ -1,78 +1,3 @@
-{"cycle": 1, "score": 0.966, "at": [666, 150], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794234965}
-{"cycle": 2, "score": 0.903, "at": [704, 88], "needed_back": true, "streak": 2, "ev": "modal_closed", "t": 1794234969}
-{"cycle": 3, "streak": 3, "view": "town", "ev": "modal_streak_break", "t": 1794234976}
-{"cycle": 3, "score": 0.806, "at": [693, 103], "needed_back": true, "streak": 0, "ev": "modal_closed", "t": 1794234976}
-{"cycle": 4, "pending_before": 0, "ev": "collected", "t": 1794234981}
-{"cycle": 5, "at": [314, 689], "area": 2130, "ev": "pin_pick", "t": 1794234984}
-{"cycle": 5, "at": [359, 932], "attempt": 1, "ev": "goto_tap", "t": 1794234985}
-{"cycle": 5, "at": [359, 627], "ev": "target_btn", "t": 1794234986}
-{"cycle": 5, "at": [314, 689], "wins_so_far": 1, "pending": 1, "ev": "sortie_sent", "t": 1794234987}
-{"cycle": 6, "pending_before": 1, "reason": "pending_marches", "ev": "collected", "t": 1794235006}
-{"cycle": 7, "at": [146, 474], "area": 3713, "ev": "pin_pick", "t": 1794235007}
-{"cycle": 7, "at": [146, 474], "reason": "no_target_panel", "blacked": 1, "ev": "blacklisted", "t": 1794235010}
-{"cycle": 8, "pins_total": 1, "avatar": 0.203, "ev": "board_clear", "t": 1794235014}
-{"explore_claimed": 1, "ev": "idle_sweep", "t": 1794235024}
-{"score": 0.107, "ev": "mail_open_fail", "t": 1794235032}
-{"ev": "alliance_no_badges", "t": 1794235038}
-{"opened": 1, "gifts_claimed": 5, "ev": "chat_read", "t": 1794235065}
-{"ev": "chat_read", "t": 1794235065}
-{"task": 0, "mail": 0, "alliance": 0, "dots_clicked": 1, "ev": "town_reddots_done", "t": 1794235065}
-{"cycle": 8, "arrived": true, "ev": "idle_to_town", "t": 1794235070}
-{"cycle": 9, "frm": "town", "to": "wild", "sw": 0.999, "st": 0.285, "ev": "view_switch", "t": 1794235102}
-{"cycle": 9, "pins_total": 1, "avatar": 0.203, "ev": "board_clear", "t": 1794235106}
-{"explore_claimed": 0, "ev": "idle_sweep", "t": 1794235112}
-{"score": 0.107, "ev": "mail_open_fail", "t": 1794235118}
-{"ev": "alliance_no_badges", "t": 1794235124}
-{"opened": 1, "gifts_claimed": 5, "ev": "chat_read", "t": 1794235153}
-{"ev": "chat_read", "t": 1794235153}
-{"task": 0, "mail": 0, "alliance": 0, "dots_clicked": 1, "ev": "town_reddots_done", "t": 1794235153}
-{"cycle": 9, "arrived": true, "ev": "idle_to_town", "t": 1794235158}
-{"at": [360, 856], "orange_cy": 621, "ev": "rotate_card_tapped", "t": 1794235171}
-{"in_town": true, "ev": "rotate_done", "t": 1794235193}
-{"cycle": 9, "ev": "rotated", "t": 1794235193}
-{"cycle": 10, "frm": "town", "to": "wild", "sw": 0.996, "st": 0.269, "ev": "view_switch", "t": 1794235206}
-{"cycle": 10, "at": [372, 842], "area": 3776, "ev": "pin_pick", "t": 1794235209}
-{"cycle": 10, "at": [359, 932], "attempt": 1, "ev": "goto_tap", "t": 1794235210}
-{"cycle": 10, "at": [359, 627], "ev": "target_btn", "t": 1794235211}
-{"cycle": 10, "at": [372, 842], "wins_so_far": 2, "pending": 1, "ev": "sortie_sent", "t": 1794235212}
-{"cycle": 11, "at": [608, 559], "area": 3095, "ev": "pin_pick", "t": 1794235219}
-{"cycle": 11, "at": [359, 870], "attempt": 1, "ev": "goto_tap", "t": 1794235220}
-{"cycle": 11, "at": [359, 627], "ev": "target_btn", "t": 1794235221}
-{"cycle": 11, "at": [608, 559], "n": 1, "ev": "no_target_confirm", "t": 1794235222}
-{"cycle": 12, "score": 0.903, "at": [703, 89], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794235229}
-{"cycle": 13, "at": [377, 838], "area": 3073, "ev": "pin_pick", "t": 1794235233}
-{"cycle": 13, "at": [359, 932], "attempt": 1, "ev": "goto_tap", "t": 1794235234}
-{"cycle": 13, "at": [359, 627], "ev": "target_btn", "t": 1794235235}
-{"cycle": 13, "at": [377, 838], "n": 1, "ev": "no_target_confirm", "t": 1794235236}
-{"cycle": 14, "score": 0.903, "at": [703, 89], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794235243}
-{"cycle": 15, "score": 0.887, "at": [615, 191], "needed_back": false, "streak": 2, "ev": "modal_closed", "t": 1794235246}
-{"cycle": 16, "at": [450, 617], "area": 3048, "ev": "pin_pick", "t": 1794235249}
-{"cycle": 16, "at": [359, 882], "attempt": 1, "ev": "goto_tap", "t": 1794235251}
-{"cycle": 16, "at": [359, 628], "ev": "target_btn", "t": 1794235252}
-{"cycle": 16, "at": [450, 617], "wins_so_far": 2, "pending": 2, "ev": "sortie_sent", "t": 1794235253}
-{"cycle": 17, "at": [600, 959], "area": 4602, "ev": "pin_pick", "t": 1794235256}
-{"cycle": 17, "at": [600, 959], "reason": "no_target_panel", "blacked": 2, "ev": "blacklisted", "t": 1794235260}
-{"cycle": 18, "at": [148, 657], "area": 4562, "ev": "pin_pick", "t": 1794235263}
-{"cycle": 18, "at": [148, 657], "reason": "no_target_panel", "blacked": 3, "ev": "blacklisted", "t": 1794235266}
-{"cycle": 19, "at": [323, 456], "area": 1708, "ev": "pin_pick", "t": 1794235269}
-{"cycle": 19, "at": [352, 855], "attempt": 1, "ev": "goto_tap", "t": 1794235271}
-{"cycle": 19, "at": [359, 634], "ev": "target_btn", "t": 1794235271}
-{"cycle": 19, "at": [323, 456], "wins_so_far": 2, "pending": 3, "ev": "sortie_sent", "t": 1794235271}
-{"cycle": 20, "score": 0.906, "at": [704, 89], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794235278}
-{"cycle": 21, "pending": 3, "ev": "parallel_wait_timeout", "t": 1794235343}
-{"cycle": 22, "at": [607, 559], "area": 3070, "ev": "pin_pick", "t": 1794235343}
-{"cycle": 22, "at": [359, 870], "attempt": 1, "ev": "goto_tap", "t": 1794235344}
-{"cycle": 22, "at": [359, 627], "ev": "target_btn", "t": 1794235345}
-{"cycle": 22, "at": [607, 559], "wins_so_far": 2, "pending": 1, "ev": "sortie_sent", "t": 1794235346}
-{"cycle": 23, "at": [444, 458], "area": 3035, "ev": "pin_pick", "t": 1794235353}
-{"cycle": 23, "at": [359, 882], "attempt": 1, "ev": "goto_tap", "t": 1794235354}
-{"cycle": 23, "at": [359, 628], "ev": "target_btn", "t": 1794235355}
-{"cycle": 23, "at": [444, 458], "wins_so_far": 2, "pending": 2, "ev": "sortie_sent", "t": 1794235356}
-{"cycle": 24, "at": [147, 233], "area": 1967, "ev": "pin_pick", "t": 1794235359}
-{"cycle": 24, "at": [147, 233], "reason": "no_target_panel", "blacked": 4, "ev": "blacklisted", "t": 1794235363}
-{"cycle": 25, "at": [323, 456], "area": 1708, "ev": "pin_pick", "t": 1794235366}
-{"cycle": 25, "at": [352, 873], "attempt": 1, "ev": "goto_tap", "t": 1794235367}
-{"cycle": 25, "at": [323, 456], "reason": "no_target_panel", "blacked": 5, "ev": "blacklisted", "t": 1794235368}
 {"cycle": 26, "at": [368, 849], "area": 2993, "ev": "pin_pick", "t": 1794235375}
 {"cycle": 26, "at": [368, 849], "reason": "no_target_panel", "blacked": 6, "ev": "blacklisted", "t": 1794235378}
 {"cycle": 27, "at": [607, 560], "area": 3067, "ev": "pin_pick", "t": 1794235382}
@@ -8998,3 +8923,78 @@
 {"at": [360, 924], "orange_cy": 764, "ev": "rotate_card_tapped", "t": 1794299688, "who": "[CHA]领主1198376138"}
 {"in_town": true, "target": null, "ev": "rotate_done", "t": 1794299710, "who": "[CHA]领主1198376138"}
 {"cycle": 113, "ev": "rotated", "t": 1794299710, "who": "[CHA]领主1198376138"}
+{"cycle": 114, "frm": "town", "to": "wild", "sw": 0.999, "st": 0.285, "ev": "view_switch", "t": 1794299723, "who": "[CHA]领主1198376138"}
+{"cycle": 114, "at": [119, 580], "area": 3161, "cls": "other", "yellow_left": 2, "ev": "pin_pick", "t": 1794299726, "who": "[CHA]领主1198376138"}
+{"cycle": 114, "at": [359, 932], "attempt": 1, "ev": "goto_tap", "t": 1794299727, "who": "[CHA]领主1198376138"}
+{"cycle": 114, "at": [359, 628], "ev": "target_btn", "t": 1794299728, "who": "[CHA]领主1198376138"}
+{"cycle": 114, "at": [119, 580], "wins_so_far": 4, "pending": 1, "ev": "sortie_sent", "t": 1794299730, "who": "[CHA]领主1198376138"}
+{"cycle": 115, "at": [379, 590], "area": 1347, "cls": "other", "yellow_left": 0, "ev": "pin_pick", "t": 1794299733, "who": "[CHA]领主1198376138"}
+{"cycle": 115, "at": [379, 590], "reason": "no_target_panel", "blacked": 16, "ev": "blacklisted", "t": 1794299736, "who": "[CHA]领主1198376138"}
+{"cycle": 116, "at": [135, 636], "area": 1530, "cls": "other", "yellow_left": 3, "ev": "pin_pick", "t": 1794299740, "who": "[CHA]领主1198376138"}
+{"cycle": 116, "at": [135, 636], "reason": "no_target_panel", "blacked": 17, "ev": "blacklisted", "t": 1794299743, "who": "[CHA]领主1198376138"}
+{"reached_town": false, "ui_alive": false, "ev": "liveness_probe", "t": 1794299748, "who": "[CHA]领主1198376138"}
+{"cycle": 117, "pending_before": 1, "ev": "collected", "t": 1794299757, "who": "[CHA]领主1198376138"}
+{"cycle": 118, "at": [474, 580], "area": 3044, "cls": "other", "yellow_left": 2, "ev": "pin_pick", "t": 1794299759, "who": "[CHA]领主1198376138"}
+{"cycle": 118, "at": [359, 932], "attempt": 1, "ev": "goto_tap", "t": 1794299760, "who": "[CHA]领主1198376138"}
+{"cycle": 118, "at": [359, 627], "ev": "target_btn", "t": 1794299761, "who": "[CHA]领主1198376138"}
+{"cycle": 118, "at": [474, 580], "wins_so_far": 5, "pending": 1, "ev": "sortie_sent", "t": 1794299762, "who": "[CHA]领主1198376138"}
+{"cycle": 119, "at": [143, 706], "area": 2476, "cls": "other", "yellow_left": 2, "ev": "pin_pick", "t": 1794299769, "who": "[CHA]领主1198376138"}
+{"cycle": 119, "at": [359, 882], "attempt": 1, "ev": "goto_tap", "t": 1794299770, "who": "[CHA]领主1198376138"}
+{"cycle": 119, "at": [143, 706], "ev": "rescue_sent", "t": 1794299771, "who": "[CHA]领主1198376138"}
+{"cycle": 119, "ev": "back_to_board_after_rescue", "t": 1794299781, "who": "[CHA]领主1198376138"}
+{"cycle": 120, "pending_before": 1, "ev": "collected", "t": 1794299787, "who": "[CHA]领主1198376138"}
+{"cycle": 121, "at": [533, 475], "area": 2263, "cls": "other", "yellow_left": 2, "ev": "pin_pick", "t": 1794299789, "who": "[CHA]领主1198376138"}
+{"cycle": 121, "at": [359, 932], "attempt": 1, "ev": "goto_tap", "t": 1794299790, "who": "[CHA]领主1198376138"}
+{"cycle": 121, "at": [359, 627], "ev": "target_btn", "t": 1794299791, "who": "[CHA]领主1198376138"}
+{"cycle": 121, "at": [533, 475], "wins_so_far": 6, "pending": 1, "ev": "sortie_sent", "t": 1794299792, "who": "[CHA]领主1198376138"}
+{"cycle": 122, "at": [524, 696], "area": 2260, "cls": "other", "yellow_left": 2, "ev": "pin_pick", "t": 1794299799, "who": "[CHA]领主1198376138"}
+{"cycle": 122, "at": [359, 932], "attempt": 1, "ev": "goto_tap", "t": 1794299800, "who": "[CHA]领主1198376138"}
+{"cycle": 122, "at": [359, 627], "ev": "target_btn", "t": 1794299801, "who": "[CHA]领主1198376138"}
+{"cycle": 122, "at": [524, 696], "wins_so_far": 6, "pending": 2, "ev": "sortie_sent", "t": 1794299802, "who": "[CHA]领主1198376138"}
+{"cycle": 123, "at": [192, 402], "area": 1523, "cls": "other", "yellow_left": 2, "ev": "pin_pick", "t": 1794299809, "who": "[CHA]领主1198376138"}
+{"cycle": 123, "at": [359, 932], "attempt": 1, "ev": "goto_tap", "t": 1794299810, "who": "[CHA]领主1198376138"}
+{"cycle": 123, "at": [359, 627], "ev": "target_btn", "t": 1794299811, "who": "[CHA]领主1198376138"}
+{"cycle": 123, "at": [192, 402], "wins_so_far": 6, "pending": 3, "ev": "sortie_sent", "t": 1794299812, "who": "[CHA]领主1198376138"}
+{"cycle": 124, "pending_before": 3, "ev": "collected", "t": 1794299821, "who": "[CHA]领主1198376138"}
+{"cycle": 125, "at": [215, 522], "area": 3451, "cls": "yellow", "yellow_left": 3, "ev": "pin_pick", "t": 1794299823, "who": "[CHA]领主1198376138"}
+{"cycle": 125, "at": [359, 870], "attempt": 1, "ev": "goto_tap", "t": 1794299824, "who": "[CHA]领主1198376138"}
+{"cycle": 125, "at": [359, 627], "ev": "target_btn", "t": 1794299825, "who": "[CHA]领主1198376138"}
+{"cycle": 125, "at": [215, 522], "n": 1, "ev": "no_target_confirm", "t": 1794299832, "who": "[CHA]领主1198376138"}
+{"cycle": 126, "score": 0.897, "at": [704, 88], "needed_back": false, "streak": 1, "ev": "modal_closed", "t": 1794299837, "who": "[CHA]领主1198376138"}
+{"cycle": 127, "pending_before": 0, "ev": "collected", "t": 1794299843, "who": "[CHA]领主1198376138"}
+{"cycle": 128, "at": [215, 521], "area": 3500, "cls": "yellow", "yellow_left": 3, "ev": "pin_pick", "t": 1794299845, "who": "[CHA]领主1198376138"}
+{"cycle": 128, "at": [359, 870], "attempt": 1, "ev": "goto_tap", "t": 1794299846, "who": "[CHA]领主1198376138"}
+{"cycle": 128, "at": [359, 627], "ev": "target_btn", "t": 1794299847, "who": "[CHA]领主1198376138"}
+{"cycle": 128, "at": [215, 521], "wins_so_far": 8, "pending": 1, "ev": "sortie_sent", "t": 1794299848, "who": "[CHA]领主1198376138"}
+{"cycle": 129, "at": [183, 595], "area": 1485, "cls": "yellow", "yellow_left": 2, "ev": "pin_pick", "t": 1794299855, "who": "[CHA]领主1198376138"}
+{"cycle": 129, "at": [359, 932], "attempt": 1, "ev": "goto_tap", "t": 1794299856, "who": "[CHA]领主1198376138"}
+{"cycle": 129, "at": [359, 627], "ev": "target_btn", "t": 1794299857, "who": "[CHA]领主1198376138"}
+{"cycle": 129, "at": [183, 595], "wins_so_far": 8, "pending": 2, "ev": "sortie_sent", "t": 1794299858, "who": "[CHA]领主1198376138"}
+{"cycle": 130, "at": [227, 440], "area": 2866, "cls": "yellow", "yellow_left": 1, "ev": "pin_pick", "t": 1794299865, "who": "[CHA]领主1198376138"}
+{"cycle": 130, "at": [359, 932], "attempt": 1, "ev": "goto_tap", "t": 1794299866, "who": "[CHA]领主1198376138"}
+{"cycle": 130, "at": [359, 628], "ev": "target_btn", "t": 1794299867, "who": "[CHA]领主1198376138"}
+{"cycle": 130, "at": [227, 440], "wins_so_far": 8, "pending": 3, "ev": "sortie_sent", "t": 1794299868, "who": "[CHA]领主1198376138"}
+{"ev": "stamina_popup_fail", "t": 1794299876, "who": "[CHA]领主1198376138"}
+{"cycle": 131, "pending": 3, "ev": "parallel_wait_timeout", "t": 1794299936, "who": "[CHA]领主1198376138"}
+{"cycle": 132, "at": [323, 456], "area": 1708, "cls": "yellow", "yellow_left": 3, "ev": "pin_pick", "t": 1794299937, "who": "[CHA]领主1198376138"}
+{"cycle": 132, "at": [342, 873], "attempt": 1, "ev": "goto_tap", "t": 1794299938, "who": "[CHA]领主1198376138"}
+{"cycle": 132, "at": [361, 635], "ev": "target_btn", "t": 1794299938, "who": "[CHA]领主1198376138"}
+{"cycle": 132, "at": [323, 456], "wins_so_far": 8, "pending": 1, "ev": "sortie_sent", "t": 1794299938, "who": "[CHA]领主1198376138"}
+{"cycle": 133, "score": 0.906, "at": [704, 89], "needed_back": false, "streak": 1, "ev": "modal_closed", "t": 1794299944, "who": "[CHA]领主1198376138"}
+{"cycle": 134, "pending_before": 1, "ev": "collected", "t": 1794299949, "who": "[CHA]领主1198376138"}
+{"cycle": 135, "at": [282, 935], "area": 3688, "cls": "other", "yellow_left": 3, "ev": "pin_pick", "t": 1794299952, "who": "[CHA]领主1198376138"}
+{"cycle": 135, "at": [282, 935], "reason": "no_target_panel", "blacked": 18, "ev": "blacklisted", "t": 1794299955, "who": "[CHA]领主1198376138"}
+{"cycle": 136, "at": [448, 932], "area": 3360, "cls": "other", "yellow_left": 3, "ev": "pin_pick", "t": 1794299958, "who": "[CHA]领主1198376138"}
+{"cycle": 136, "at": [448, 932], "reason": "no_target_panel", "blacked": 19, "ev": "blacklisted", "t": 1794299961, "who": "[CHA]领主1198376138"}
+{"reached_town": false, "ui_alive": false, "ev": "liveness_probe", "t": 1794299966, "who": "[CHA]领主1198376138"}
+{"cycle": 137, "at": [242, 783], "area": 4086, "cls": "yellow", "yellow_left": 1, "ev": "pin_pick", "t": 1794299970, "who": "[CHA]领主1198376138"}
+{"cycle": 137, "at": [359, 870], "attempt": 1, "ev": "goto_tap", "t": 1794299971, "who": "[CHA]领主1198376138"}
+{"cycle": 137, "at": [359, 627], "ev": "target_btn", "t": 1794299972, "who": "[CHA]领主1198376138"}
+{"cycle": 137, "at": [242, 783], "wins_so_far": 9, "pending": 1, "ev": "sortie_sent", "t": 1794299973, "who": "[CHA]领主1198376138"}
+{"cycle": 138, "pending_before": 1, "reason": "pending_marches", "ev": "collected", "t": 1794300006, "who": "[CHA]领主1198376138"}
+{"cycle": 139, "at": [603, 270], "area": 766, "cls": "other", "yellow_left": 0, "ev": "pin_pick", "t": 1794300006, "who": "[CHA]领主1198376138"}
+{"cycle": 139, "at": [603, 270], "reason": "no_target_panel", "blacked": 20, "ev": "blacklisted", "t": 1794300009, "who": "[CHA]领主1198376138"}
+{"cycle": 140, "at": [371, 828], "area": 4048, "cls": "yellow", "yellow_left": 1, "ev": "pin_pick", "t": 1794300013, "who": "[CHA]领主1198376138"}
+{"cycle": 140, "at": [359, 870], "attempt": 1, "ev": "goto_tap", "t": 1794300014, "who": "[CHA]领主1198376138"}
+{"cycle": 140, "at": [359, 627], "ev": "target_btn", "t": 1794300015, "who": "[CHA]领主1198376138"}
+{"cycle": 140, "at": [371, 828], "wins_so_far": 10, "pending": 1, "ev": "sortie_sent", "t": 1794300016, "who": "[CHA]领主1198376138"}
