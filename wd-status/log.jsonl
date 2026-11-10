@@ -1,21 +1,3 @@
-{"cycle": 11, "at": [353, 715], "wins_so_far": 3, "pending": 1, "ev": "sortie_sent", "t": 1794250824}
-{"cycle": 12, "pending": 1, "ev": "pending_wait_timeout", "t": 1794250918}
-{"cycle": 13, "pins_total": 4, "avatar": 0.179, "ev": "board_clear", "t": 1794250918}
-{"explore_claimed": 0, "ev": "idle_sweep", "t": 1794250924}
-{"rounds": 4, "badge_left": 273, "ev": "task_sweep", "t": 1794250947}
-{"tabs_claimed": 1, "badged_first": 1, "retry_tabs": 0, "still_badged": 0, "ev": "mail_sweep", "t": 1794250955}
-{"badged": ["huzhu", "lingdi", "shangdian"], "visited": ["huzhu", "lingdi", "shangdian"], "claimed": 1, "back_town": true, "ev": "alliance_sweep", "t": 1794250981}
-{"opened": 0, "gifts_claimed": 0, "ev": "chat_read", "t": 1794251000}
-{"ev": "chat_read", "t": 1794251000}
-{"at": [581, 121], "ev": "town_dot_click", "t": 1794251004}
-{"task": 4, "mail": 1, "alliance": 1, "dots_clicked": 2, "ev": "town_reddots_done", "t": 1794251004}
-{"cycle": 13, "arrived": false, "ev": "idle_to_town", "t": 1794251013}
-{"cycle": 14, "score": 0.779, "at": [704, 185], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794251023}
-{"cycle": 15, "frm": "town", "to": "wild", "sw": 0.999, "st": 0.285, "ev": "view_switch", "t": 1794251025}
-{"cycle": 15, "pending_before": 0, "ev": "collected", "t": 1794251031}
-{"cycle": 16, "at": [206, 690], "area": 2876, "cls": "other", "yellow_left": 1, "ev": "pin_pick", "t": 1794251033}
-{"cycle": 16, "at": [359, 882], "attempt": 1, "ev": "goto_tap", "t": 1794251034}
-{"cycle": 16, "at": [359, 627], "ev": "target_btn", "t": 1794251035}
 {"cycle": 16, "at": [206, 690], "wins_so_far": 4, "pending": 1, "ev": "sortie_sent", "t": 1794251036}
 {"cycle": 17, "at": [516, 670], "area": 2866, "cls": "other", "yellow_left": 1, "ev": "pin_pick", "t": 1794251043}
 {"cycle": 17, "at": [359, 932], "attempt": 1, "ev": "goto_tap", "t": 1794251044}
@@ -8998,3 +8980,21 @@
 {"tabs_claimed": 0, "badged_first": 0, "retry_tabs": 0, "still_badged": 0, "ev": "mail_sweep", "t": 1794320669, "who": "[AAA]阿黄乐哈"}
 {"ev": "stamina_no_meal", "t": 1794320712, "who": "[AAA]阿黄乐哈"}
 {"cycle": 1, "pins_total": 2, "avatar": 0.186, "ev": "board_clear", "t": 1794320714, "who": "[AAA]阿黄乐哈"}
+{"explore_claimed": 0, "ev": "idle_sweep", "t": 1794320723, "who": "[AAA]阿黄乐哈"}
+{"tabs_claimed": 0, "badged_first": 0, "retry_tabs": 0, "still_badged": 0, "ev": "mail_sweep", "t": 1794320732, "who": "[AAA]阿黄乐哈"}
+{"tabs_badged": [1, 0], "claims": 4, "ev": "box_claim", "t": 1794320752, "who": "[AAA]阿黄乐哈"}
+{"badged": ["baoxiang", "huzhu", "lingdi", "shangdian", "zhanzheng"], "visited": ["baoxiang", "huzhu", "lingdi", "shangdian", "zhanzheng"], "claimed": 5, "back_town": true, "ev": "alliance_sweep", "t": 1794320782, "who": "[AAA]阿黄乐哈"}
+{"ev": "stamina_no_meal", "t": 1794320867, "who": "[AAA]阿黄乐哈"}
+{"cycle": 1, "pins_total": 2, "avatar": 0.186, "ev": "board_clear", "t": 1794320869, "who": "[AAA]阿黄乐哈"}
+{"explore_claimed": 0, "ev": "idle_sweep", "t": 1794320878, "who": "[AAA]阿黄乐哈"}
+{"tabs_claimed": 0, "badged_first": 0, "retry_tabs": 0, "still_badged": 0, "ev": "mail_sweep", "t": 1794320887, "who": "[AAA]阿黄乐哈"}
+{"tabs_badged": [1, 0], "claims": 4, "ev": "box_claim", "t": 1794320907, "who": "[AAA]阿黄乐哈"}
+{"cycle": 1, "score": 0.617, "at": [685, 119], "ev": "modal_close_lowconf", "t": 1794320928, "who": "[AAA]阿黄乐哈"}
+{"ev": "stamina_no_meal", "t": 1794320935, "who": "[AAA]阿黄乐哈"}
+{"cycle": 1, "pins_total": 2, "avatar": 0.186, "ev": "board_clear", "t": 1794320937, "who": "[AAA]阿黄乐哈"}
+{"explore_claimed": 0, "ev": "idle_sweep", "t": 1794320946, "who": "[AAA]阿黄乐哈"}
+{"tabs_claimed": 0, "badged_first": 0, "retry_tabs": 0, "still_badged": 0, "ev": "mail_sweep", "t": 1794320955, "who": "[AAA]阿黄乐哈"}
+{"tabs_badged": [1, 0], "claims": 4, "ev": "box_claim", "t": 1794320975, "who": "[AAA]阿黄乐哈"}
+{"ev": "stamina_no_meal", "t": 1794321005, "who": "[AAA]阿黄乐哈"}
+{"cycle": 1, "pins_total": 2, "avatar": 0.186, "ev": "board_clear", "t": 1794321007, "who": "[AAA]阿黄乐哈"}
+{"explore_claimed": 0, "ev": "idle_sweep", "t": 1794321016, "who": "[AAA]阿黄乐哈"}
