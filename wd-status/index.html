@@ -17,13 +17,18 @@ code{font-family:ui-monospace,monospace;font-size:11px;color:#a8c7fa}
 .big{font-size:15px}
 </style></head><body>
 <h1>❄️ 无尽冬日挂机状态</h1>
-<div class=sub>打开时实时拉取 log.jsonl(本机每~5分钟推送) · 页面每5分钟自动刷新 · 生成于 2026-11-10 11:20:17</div>
+<div class=sub>打开时实时拉取 log.jsonl(本机每~5分钟推送) · 页面每5分钟自动刷新 · 生成于 2026-11-10 11:24:31</div>
 <div class="card"><h2>总览</h2><div class=big>
 主循环: <span class=ok>运行中 ✅</span><br>
 最近日志: <span class=ok>刚刚</span> ·
 看守异常(近10小时): <span class="warn">2 次</span><br>
-最后事件: <code>{&quot;tabs_badged&quot;: [0, 1], &quot;claims&quot;: 4, &quot;ev&quot;: &quot;box_claim&quot;, &quot;t&quot;: 1794280803}</code>
+最后事件: <code>{&quot;badged&quot;: [&quot;baoxiang&quot;, &quot;huzhu&quot;, &quot;lingdi&quot;, &quot;shangdian&quot;], &quot;visited&quot;: [&quot;baoxiang&quot;, &quot;huzhu&quot;, &quot;lingdi&quot;, &quot;shangdian&quot;], &quot;claim</code>
 </div></div>
+<div class="card"><h2>实时手机画面（最近一次发布抓取）</h2>
+<button id=shotbtn style="background:#26354f;color:#dfe6f3;border:1px solid #3a4c6e;border-radius:8px;padding:8px 14px;font-size:13px;cursor:pointer">查看当前画面</button>
+<span id=shotmeta style="color:#8b96ad;font-size:12px;margin-left:8px"></span>
+<img id=shotimg alt="" style="display:none;max-width:340px;border-radius:8px;margin-top:10px;border:1px solid #263148">
+</div>
 <div class="card"><h2>今日（本地 00:00 起，实时计算）</h2><div class=grid id=kpi><span style="color:#8b96ad">加载日志…</span></div></div>
 <div class="card"><h2>最近动作（已过滤高频噪声）</h2><table><tr><th>时间</th><th>事件</th><th>详情</th></tr><tbody id=acts></tbody></table></div>
 <div class="card"><h2>说明</h2><div style="font-size:12px;color:#8b96ad">
@@ -46,5 +51,14 @@ const esc=s=>s.replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));
 const rec=rows.filter(j=>!NOISE.has(j.ev)).slice(-15).reverse();
 document.getElementById("acts").innerHTML=rec.map(j=>`<tr><td>${f(j.t)}</td><td>${esc(String(j.ev))}</td><td><code>${esc(JSON.stringify(Object.fromEntries(Object.entries(j).filter(([k])=>k!=="ev"&&k!=="t")))).slice(0,90)}</code></td></tr>`).join("");
 }).catch(e=>{document.getElementById("kpi").innerHTML='<span style="color:#ff7b72">日志加载失败: '+esc(String(e))+'</span>';});
+</script>
+<script>
+document.getElementById("shotbtn").onclick=()=>{
+const img=document.getElementById("shotimg");
+fetch("screen.meta?ts="+Date.now()).then(r=>r.ok?r.text():Promise.reject("HTTP "+r.status)).then(tx=>{
+document.getElementById("shotmeta").textContent="抓取于 "+tx.trim();}).catch(()=>{document.getElementById("shotmeta").textContent="(无时间戳)";});
+img.src="screen.jpg?ts="+Date.now();img.style.display="block";
+img.onerror=()=>{document.getElementById("shotmeta").textContent="画面加载失败(尚未推送或被网络拦截)";};
+};
 </script>
 </body></html>

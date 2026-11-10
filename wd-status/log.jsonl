@@ -8398,3 +8398,30 @@
 {"rounds": 0, "badge_left": 246, "ev": "task_sweep", "t": 1794280778}
 {"tabs_claimed": 0, "badged_first": 0, "retry_tabs": 0, "still_badged": 0, "ev": "mail_sweep", "t": 1794280783}
 {"tabs_badged": [0, 1], "claims": 4, "ev": "box_claim", "t": 1794280803}
+{"badged": ["baoxiang", "huzhu", "lingdi", "shangdian", "zhanzheng"], "visited": ["baoxiang", "huzhu", "lingdi", "shangdian", "zhanzheng"], "claimed": 4, "back_town": true, "ev": "alliance_sweep", "t": 1794280830}
+{"at": [691, 121], "ev": "town_dot_click", "t": 1794280835}
+{"task": 0, "mail": 0, "alliance": 4, "dots_clicked": 1, "build": 0, "ev": "town_reddots_done", "t": 1794280839}
+{"cycle": 16, "arrived": false, "ev": "idle_to_town", "t": 1794280848}
+{"screens": 3, "found": 0, "total": 5, "ev": "roster_scan", "t": 1794280880}
+{"current": "[CHA]领主1197490644", "ev": "roster_cfg_miss", "t": 1794280880}
+{"at": [360, 740], "ev": "rotate_wrap", "t": 1794280901}
+{"in_town": false, "target": null, "ev": "rotate_done", "t": 1794280924}
+{"cycle": 17, "score": 0.545, "at": [694, 179], "needed_back": false, "streak": 1, "ev": "modal_closed", "t": 1794280936}
+{"cycle": 18, "frm": "town", "to": "wild", "sw": 0.999, "st": 0.285, "ev": "view_switch", "t": 1794280939}
+{"cycle": 18, "at": [329, 298], "area": 4027, "cls": "yellow", "yellow_left": 1, "ev": "pin_pick", "t": 1794280942}
+{"cycle": 18, "at": [359, 870], "attempt": 1, "ev": "goto_tap", "t": 1794280943}
+{"cycle": 18, "at": [359, 627], "ev": "target_btn", "t": 1794280945}
+{"cycle": 18, "at": [329, 298], "wins_so_far": 0, "pending": 1, "ev": "sortie_sent", "t": 1794280946}
+{"cycle": 19, "pending_before": 1, "reason": "pending_marches", "ev": "collected", "t": 1794280973}
+{"cycle": 20, "at": [290, 318], "area": 1025, "cls": "other", "yellow_left": 1, "ev": "pin_pick", "t": 1794280973}
+{"cycle": 20, "at": [290, 318], "reason": "no_target_panel", "blacked": 5, "ev": "blacklisted", "t": 1794280977}
+{"cycle": 21, "at": [537, 554], "area": 4059, "cls": "yellow", "yellow_left": 1, "ev": "pin_pick", "t": 1794280980}
+{"cycle": 21, "at": [359, 870], "attempt": 1, "ev": "goto_tap", "t": 1794280982}
+{"cycle": 21, "at": [359, 627], "ev": "target_btn", "t": 1794280983}
+{"cycle": 21, "at": [537, 554], "reason": "red_warning", "blacked": 6, "ev": "blacklisted", "t": 1794280985}
+{"cycle": 22, "ev": "exit_popup_dismissed", "t": 1794280987}
+{"cycle": 23, "pins_total": 1, "avatar": 0.194, "ev": "board_clear", "t": 1794280992}
+{"explore_claimed": 1, "ev": "idle_sweep", "t": 1794281003}
+{"tabs_claimed": 3, "badged_first": 2, "retry_tabs": 1, "still_badged": 0, "ev": "mail_sweep", "t": 1794281022}
+{"tabs_badged": [1, 0], "claims": 4, "ev": "box_claim", "t": 1794281043}
+{"badged": ["baoxiang", "huzhu", "lingdi", "shangdian"], "visited": ["baoxiang", "huzhu", "lingdi", "shangdian"], "claimed": 4, "back_town": true, "ev": "alliance_sweep", "t": 1794281065}
