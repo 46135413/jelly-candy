@@ -1,55 +1,3 @@
-{"cycle": 12, "at": [556, 720], "wins_so_far": 6, "ev": "sortie_sent", "t": 1794223442}
-{"cycle": 12, "at": [556, 720], "ev": "no_checkmark_yet", "t": 1794223490}
-{"cycle": 13, "at": [445, 665], "area": 918, "ev": "pin_pick", "t": 1794223493}
-{"cycle": 13, "at": [445, 665], "reason": "no_target_panel", "blacked": 3, "ev": "blacklisted", "t": 1794223496}
-{"cycle": 14, "at": [380, 453], "area": 869, "ev": "pin_pick", "t": 1794223500}
-{"cycle": 14, "at": [346, 877], "attempt": 1, "ev": "goto_tap", "t": 1794223503}
-{"cycle": 14, "attempt": 1, "ev": "goto_unresponsive", "t": 1794223507}
-{"cycle": 14, "at": [339, 921], "attempt": 2, "ev": "goto_tap", "t": 1794223507}
-{"cycle": 14, "at": [359, 634], "ev": "target_btn", "t": 1794223516}
-{"cycle": 14, "at": [380, 453], "wins_so_far": 6, "ev": "sortie_sent", "t": 1794223521}
-{"cycle": 14, "at": [380, 453], "ev": "no_checkmark_yet", "t": 1794223569}
-{"cycle": 15, "score": 0.906, "at": [704, 89], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794223576}
-{"cycle": 16, "tries": 4, "ev": "not_board", "t": 1794223577}
-{"cycle": 17, "tries": 4, "ev": "not_board", "t": 1794223598}
-{"cycle": 18, "tries": 4, "ev": "not_board", "t": 1794223619}
-{"cycle": 19, "tries": 4, "ev": "not_board", "t": 1794223640}
-{"cycle": 20, "tries": 4, "ev": "not_board", "t": 1794223661}
-{"cycle": 21, "ev": "collected", "t": 1794223687}
-{"cycle": 22, "pins_total": 3, "ev": "board_clear", "t": 1794223689}
-{"explore_claimed": 1, "task_collected": 0, "ev": "idle_sweep", "t": 1794223705}
-{"cycle": 1, "pins_total": 3, "ev": "board_clear", "t": 1794223770}
-{"explore_claimed": 0, "task_collected": 0, "ev": "idle_sweep", "t": 1794223781}
-{"cycle": 2, "pins_total": 3, "ev": "board_clear", "t": 1794223845}
-{"cycle": 3, "pins_total": 3, "ev": "board_clear", "t": 1794223905}
-{"cycle": 4, "pins_total": 3, "ev": "board_clear", "t": 1794223966}
-{"cycle": 5, "pins_total": 3, "ev": "board_clear", "t": 1794224026}
-{"cycle": 6, "pins_total": 3, "ev": "board_clear", "t": 1794224086}
-{"cycle": 7, "pins_total": 3, "ev": "board_clear", "t": 1794224147}
-{"cycle": 8, "pins_total": 3, "ev": "board_clear", "t": 1794224207}
-{"cycle": 1, "at": [156, 660], "area": 3611, "ev": "pin_pick", "t": 1794224240}
-{"cycle": 1, "at": [359, 870], "attempt": 1, "ev": "goto_tap", "t": 1794224242}
-{"cycle": 1, "at": [359, 627], "ev": "target_btn", "t": 1794224243}
-{"cycle": 1, "at": [156, 660], "reason": "red_warning", "blacked": 1, "ev": "blacklisted", "t": 1794224244}
-{"cycle": 2, "ev": "exit_popup_dismissed", "t": 1794224246}
-{"cycle": 3, "at": [315, 419], "area": 2936, "ev": "pin_pick", "t": 1794224252}
-{"cycle": 3, "at": [359, 932], "attempt": 1, "ev": "goto_tap", "t": 1794224253}
-{"cycle": 3, "at": [359, 628], "ev": "target_btn", "t": 1794224254}
-{"cycle": 3, "at": [315, 419], "wins_so_far": 0, "ev": "sortie_sent", "t": 1794224254}
-{"cycle": 3, "at": [315, 419], "ev": "no_checkmark_yet", "t": 1794224277}
-{"cycle": 4, "at": [323, 456], "area": 1708, "ev": "pin_pick", "t": 1794224280}
-{"cycle": 4, "at": [320, 864], "attempt": 1, "ev": "goto_tap", "t": 1794224281}
-{"cycle": 4, "at": [355, 634], "ev": "target_btn", "t": 1794224282}
-{"cycle": 4, "at": [323, 456], "wins_so_far": 0, "ev": "sortie_sent", "t": 1794224282}
-{"cycle": 4, "at": [323, 456], "ev": "no_checkmark_yet", "t": 1794224336}
-{"cycle": 5, "score": 0.906, "at": [704, 89], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794224343}
-{"cycle": 6, "ev": "collected", "t": 1794224349}
-{"cycle": 7, "at": [111, 627], "area": 2078, "ev": "pin_pick", "t": 1794224352}
-{"cycle": 7, "at": [359, 882], "attempt": 1, "ev": "goto_tap", "t": 1794224353}
-{"cycle": 7, "at": [111, 627], "ev": "rescue_sent", "t": 1794224354}
-{"cycle": 7, "ev": "back_to_board_after_rescue", "t": 1794224364}
-{"cycle": 8, "ev": "collected", "t": 1794224369}
-{"cycle": 9, "pins_total": 1, "ev": "board_clear", "t": 1794224372}
 {"explore_claimed": 1, "task_collected": 0, "ev": "idle_sweep", "t": 1794224387}
 {"cycle": 10, "pins_total": 1, "ev": "board_clear", "t": 1794224453}
 {"cycle": 11, "pins_total": 1, "ev": "board_clear", "t": 1794224514}
@@ -8998,3 +8946,55 @@
 {"reason": "still_board", "ev": "idle_sweep_abort", "t": 1794295507, "who": "[CHA]领主1198376138"}
 {"cycle": 17, "arrived": false, "ev": "idle_to_town", "t": 1794295516, "who": "[CHA]领主1198376138"}
 {"reason": "stuck", "ev": "rotate_not_town", "t": 1794295516, "who": "[CHA]领主1198376138"}
+{"cycle": 18, "pins_total": 0, "avatar": 0.0, "ev": "board_clear", "t": 1794295526, "who": "[CHA]领主1198376138"}
+{"reason": "still_board", "ev": "idle_sweep_abort", "t": 1794295530, "who": "[CHA]领主1198376138"}
+{"cycle": 18, "arrived": false, "ev": "idle_to_town", "t": 1794295538, "who": "[CHA]领主1198376138"}
+{"reason": "stuck", "ev": "rotate_not_town", "t": 1794295538, "who": "[CHA]领主1198376138"}
+{"cycle": 19, "pins_total": 0, "avatar": 0.0, "ev": "board_clear", "t": 1794295549, "who": "[CHA]领主1198376138"}
+{"reason": "still_board", "ev": "idle_sweep_abort", "t": 1794295553, "who": "[CHA]领主1198376138"}
+{"cycle": 19, "arrived": false, "ev": "idle_to_town", "t": 1794295561, "who": "[CHA]领主1198376138"}
+{"reason": "stuck", "ev": "rotate_not_town", "t": 1794295561, "who": "[CHA]领主1198376138"}
+{"cycle": 20, "pins_total": 0, "avatar": 0.0, "ev": "board_clear", "t": 1794295571, "who": "[CHA]领主1198376138"}
+{"reason": "still_board", "ev": "idle_sweep_abort", "t": 1794295575, "who": "[CHA]领主1198376138"}
+{"cycle": 20, "arrived": false, "ev": "idle_to_town", "t": 1794295584, "who": "[CHA]领主1198376138"}
+{"reason": "stuck", "ev": "rotate_not_town", "t": 1794295584, "who": "[CHA]领主1198376138"}
+{"cycle": 21, "pins_total": 0, "avatar": 0.0, "ev": "board_clear", "t": 1794295594, "who": "[CHA]领主1198376138"}
+{"reason": "still_board", "ev": "idle_sweep_abort", "t": 1794295598, "who": "[CHA]领主1198376138"}
+{"cycle": 21, "arrived": false, "ev": "idle_to_town", "t": 1794295607, "who": "[CHA]领主1198376138"}
+{"reason": "stuck", "ev": "rotate_not_town", "t": 1794295607, "who": "[CHA]领主1198376138"}
+{"cycle": 22, "pins_total": 0, "avatar": 0.0, "ev": "board_clear", "t": 1794295617, "who": "[CHA]领主1198376138"}
+{"reason": "still_board", "ev": "idle_sweep_abort", "t": 1794295621, "who": "[CHA]领主1198376138"}
+{"cycle": 22, "arrived": false, "ev": "idle_to_town", "t": 1794295629, "who": "[CHA]领主1198376138"}
+{"reason": "stuck", "ev": "rotate_not_town", "t": 1794295629, "who": "[CHA]领主1198376138"}
+{"cycle": 23, "pins_total": 0, "avatar": 0.0, "ev": "board_clear", "t": 1794295640, "who": "[CHA]领主1198376138"}
+{"reason": "still_board", "ev": "idle_sweep_abort", "t": 1794295644, "who": "[CHA]领主1198376138"}
+{"cycle": 23, "arrived": false, "ev": "idle_to_town", "t": 1794295652, "who": "[CHA]领主1198376138"}
+{"reason": "stuck", "ev": "rotate_not_town", "t": 1794295652, "who": "[CHA]领主1198376138"}
+{"cycle": 24, "pins_total": 0, "avatar": 0.0, "ev": "board_clear", "t": 1794295662, "who": "[CHA]领主1198376138"}
+{"reason": "still_board", "ev": "idle_sweep_abort", "t": 1794295667, "who": "[CHA]领主1198376138"}
+{"cycle": 24, "arrived": false, "ev": "idle_to_town", "t": 1794295675, "who": "[CHA]领主1198376138"}
+{"reason": "stuck", "ev": "rotate_not_town", "t": 1794295675, "who": "[CHA]领主1198376138"}
+{"cycle": 25, "pins_total": 0, "avatar": 0.0, "ev": "board_clear", "t": 1794295685, "who": "[CHA]领主1198376138"}
+{"reason": "still_board", "ev": "idle_sweep_abort", "t": 1794295689, "who": "[CHA]领主1198376138"}
+{"cycle": 25, "arrived": false, "ev": "idle_to_town", "t": 1794295698, "who": "[CHA]领主1198376138"}
+{"reason": "stuck", "ev": "rotate_not_town", "t": 1794295698, "who": "[CHA]领主1198376138"}
+{"cycle": 26, "pins_total": 0, "avatar": 0.0, "ev": "board_clear", "t": 1794295708, "who": "[CHA]领主1198376138"}
+{"reason": "still_board", "ev": "idle_sweep_abort", "t": 1794295712, "who": "[CHA]领主1198376138"}
+{"cycle": 26, "arrived": false, "ev": "idle_to_town", "t": 1794295720, "who": "[CHA]领主1198376138"}
+{"reason": "stuck", "ev": "rotate_not_town", "t": 1794295721, "who": "[CHA]领主1198376138"}
+{"cycle": 27, "pins_total": 0, "avatar": 0.0, "ev": "board_clear", "t": 1794295731, "who": "[CHA]领主1198376138"}
+{"reason": "still_board", "ev": "idle_sweep_abort", "t": 1794295735, "who": "[CHA]领主1198376138"}
+{"cycle": 27, "arrived": false, "ev": "idle_to_town", "t": 1794295743, "who": "[CHA]领主1198376138"}
+{"reason": "stuck", "ev": "rotate_not_town", "t": 1794295743, "who": "[CHA]领主1198376138"}
+{"cycle": 28, "pins_total": 0, "avatar": 0.0, "ev": "board_clear", "t": 1794295753, "who": "[CHA]领主1198376138"}
+{"reason": "still_board", "ev": "idle_sweep_abort", "t": 1794295758, "who": "[CHA]领主1198376138"}
+{"cycle": 28, "arrived": false, "ev": "idle_to_town", "t": 1794295766, "who": "[CHA]领主1198376138"}
+{"reason": "stuck", "ev": "rotate_not_town", "t": 1794295766, "who": "[CHA]领主1198376138"}
+{"cycle": 29, "pins_total": 0, "avatar": 0.0, "ev": "board_clear", "t": 1794295776, "who": "[CHA]领主1198376138"}
+{"reason": "still_board", "ev": "idle_sweep_abort", "t": 1794295780, "who": "[CHA]领主1198376138"}
+{"cycle": 29, "arrived": false, "ev": "idle_to_town", "t": 1794295789, "who": "[CHA]领主1198376138"}
+{"reason": "stuck", "ev": "rotate_not_town", "t": 1794295789, "who": "[CHA]领主1198376138"}
+{"cycle": 30, "pins_total": 0, "avatar": 0.0, "ev": "board_clear", "t": 1794295799, "who": "[CHA]领主1198376138"}
+{"reason": "still_board", "ev": "idle_sweep_abort", "t": 1794295803, "who": "[CHA]领主1198376138"}
+{"cycle": 30, "arrived": false, "ev": "idle_to_town", "t": 1794295811, "who": "[CHA]领主1198376138"}
+{"reason": "stuck", "ev": "rotate_not_town", "t": 1794295812, "who": "[CHA]领主1198376138"}
