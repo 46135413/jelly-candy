@@ -8903,3 +8903,33 @@
 {"at": [692, 122], "ev": "town_dot_click", "t": 1794286773, "who": "[CHA]领主1198376138"}
 {"task": 0, "mail": 0, "alliance": 0, "dots_clicked": 1, "build": 0, "ev": "town_reddots_done", "t": 1794286777, "who": "[CHA]领主1198376138"}
 {"cycle": 38, "arrived": false, "ev": "idle_to_town", "t": 1794286786, "who": "[CHA]领主1198376138"}
+{"screens": 3, "found": 4, "total": 5, "ev": "roster_scan", "t": 1794286829, "who": "[CHA]领主1198376138"}
+{"at": [322, 755], "target": "[AAA]阿黄单防", "from_cur": "[CHA]领主1198376138", "ev": "rotate_card_tapped", "t": 1794286836, "who": "[CHA]领主1198376138"}
+{"in_town": false, "target": "[AAA]阿黄单防", "ev": "rotate_done", "t": 1794286858, "who": "[CHA]领主1198376138"}
+{"cycle": 39, "score": 0.542, "at": [675, 117], "needed_back": false, "streak": 1, "ev": "modal_closed", "t": 1794286871, "who": "[CHA]领主1198376138"}
+{"cycle": 40, "frm": "town", "to": "wild", "sw": 0.999, "st": 0.285, "ev": "view_switch", "t": 1794286874, "who": "[CHA]领主1198376138"}
+{"cycle": 40, "at": [366, 630], "area": 3770, "cls": "other", "yellow_left": 0, "ev": "pin_pick", "t": 1794286877, "who": "[CHA]领主1198376138"}
+{"cycle": 40, "at": [353, 641], "ev": "target_btn", "t": 1794286878, "who": "[CHA]领主1198376138"}
+{"cycle": 40, "at": [366, 630], "reason": "target_no_transition", "blacked": 8, "ev": "blacklisted", "t": 1794286887, "who": "[CHA]领主1198376138"}
+{"reached_town": false, "ui_alive": false, "ev": "liveness_probe", "t": 1794286892, "who": "[CHA]领主1198376138"}
+{"cycle": 41, "pins_total": 1, "avatar": 0.201, "ev": "board_clear", "t": 1794286896, "who": "[CHA]领主1198376138"}
+{"explore_claimed": 1, "ev": "idle_sweep", "t": 1794286906, "who": "[CHA]领主1198376138"}
+{"tabs_claimed": 0, "badged_first": 0, "retry_tabs": 0, "still_badged": 0, "ev": "mail_sweep", "t": 1794286917, "who": "[CHA]领主1198376138"}
+{"tabs_badged": [1, 0], "claims": 4, "ev": "box_claim", "t": 1794286939, "who": "[CHA]领主1198376138"}
+{"badged": ["baoxiang", "huzhu", "lingdi", "shangdian"], "visited": ["baoxiang", "huzhu", "lingdi", "shangdian"], "claimed": 4, "back_town": true, "ev": "alliance_sweep", "t": 1794286961, "who": "[CHA]领主1198376138"}
+{"opened": 0, "gifts_claimed": 0, "ev": "chat_read", "t": 1794286979, "who": "[CHA]领主1198376138"}
+{"ev": "chat_read", "t": 1794286979, "who": "[CHA]领主1198376138"}
+{"at": [581, 121], "ev": "town_dot_click", "t": 1794286984, "who": "[CHA]领主1198376138"}
+{"task": 0, "mail": 0, "alliance": 4, "dots_clicked": 2, "build": 0, "ev": "town_reddots_done", "t": 1794286988, "who": "[CHA]领主1198376138"}
+{"cycle": 41, "arrived": false, "ev": "idle_to_town", "t": 1794286997, "who": "[CHA]领主1198376138"}
+{"cycle": 42, "score": 0.779, "at": [704, 185], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794287007, "who": "[CHA]领主1198376138"}
+{"cycle": 43, "frm": "town", "to": "wild", "sw": 0.999, "st": 0.285, "ev": "view_switch", "t": 1794287009, "who": "[CHA]领主1198376138"}
+{"cycle": 43, "pins_total": 1, "avatar": 0.203, "ev": "board_clear", "t": 1794287013, "who": "[CHA]领主1198376138"}
+{"explore_claimed": 0, "ev": "idle_sweep", "t": 1794287019, "who": "[CHA]领主1198376138"}
+{"tabs_claimed": 0, "badged_first": 0, "retry_tabs": 0, "still_badged": 0, "ev": "mail_sweep", "t": 1794287028, "who": "[CHA]领主1198376138"}
+{"badged": ["huzhu", "lingdi", "shangdian", "zhanzheng"], "visited": ["huzhu", "lingdi", "shangdian", "zhanzheng"], "claimed": 0, "back_town": true, "ev": "alliance_sweep", "t": 1794287056, "who": "[CHA]领主1198376138"}
+{"opened": 0, "gifts_claimed": 0, "ev": "chat_read", "t": 1794287074, "who": "[CHA]领主1198376138"}
+{"ev": "chat_read", "t": 1794287074, "who": "[CHA]领主1198376138"}
+{"at": [581, 121], "ev": "town_dot_click", "t": 1794287079, "who": "[CHA]领主1198376138"}
+{"task": 0, "mail": 0, "alliance": 0, "dots_clicked": 2, "build": 0, "ev": "town_reddots_done", "t": 1794287083, "who": "[CHA]领主1198376138"}
+{"cycle": 43, "arrived": false, "ev": "idle_to_town", "t": 1794287092, "who": "[CHA]领主1198376138"}
