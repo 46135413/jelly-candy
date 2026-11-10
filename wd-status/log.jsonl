@@ -8425,3 +8425,11 @@
 {"tabs_claimed": 3, "badged_first": 2, "retry_tabs": 1, "still_badged": 0, "ev": "mail_sweep", "t": 1794281022}
 {"tabs_badged": [1, 0], "claims": 4, "ev": "box_claim", "t": 1794281043}
 {"badged": ["baoxiang", "huzhu", "lingdi", "shangdian"], "visited": ["baoxiang", "huzhu", "lingdi", "shangdian"], "claimed": 4, "back_town": true, "ev": "alliance_sweep", "t": 1794281065}
+{"opened": 0, "gifts_claimed": 0, "ev": "chat_read", "t": 1794281083}
+{"ev": "chat_read", "t": 1794281083}
+{"at": [581, 121], "ev": "town_dot_click", "t": 1794281088}
+{"task": 0, "mail": 3, "alliance": 4, "dots_clicked": 2, "build": 0, "ev": "town_reddots_done", "t": 1794281092}
+{"cycle": 23, "arrived": false, "ev": "idle_to_town", "t": 1794281101}
+{"cycle": 24, "score": 0.779, "at": [704, 185], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794281111}
+{"cycle": 25, "frm": "town", "to": "wild", "sw": 0.999, "st": 0.285, "ev": "view_switch", "t": 1794281113}
+{"cycle": 25, "pins_total": 1, "avatar": 0.203, "ev": "board_clear", "t": 1794281117}
