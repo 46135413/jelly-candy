@@ -1,8 +1,3 @@
-{"cycle": 16, "at": [113, 632], "area": 2625, "cls": "yellow", "yellow_left": 2, "ev": "pin_pick", "t": 1794254225}
-{"cycle": 16, "at": [359, 870], "attempt": 1, "ev": "goto_tap", "t": 1794254226}
-{"cycle": 16, "at": [359, 627], "ev": "target_btn", "t": 1794254227}
-{"cycle": 16, "at": [113, 632], "wins_so_far": 2, "pending": 1, "ev": "sortie_sent", "t": 1794254228}
-{"cycle": 17, "at": [443, 665], "area": 2398, "cls": "yellow", "yellow_left": 1, "ev": "pin_pick", "t": 1794254235}
 {"cycle": 17, "at": [359, 932], "attempt": 1, "ev": "goto_tap", "t": 1794254236}
 {"cycle": 17, "at": [359, 628], "ev": "target_btn", "t": 1794254238}
 {"cycle": 17, "at": [443, 665], "wins_so_far": 2, "pending": 2, "ev": "sortie_sent", "t": 1794254239}
@@ -8998,3 +8993,8 @@
 {"cycle": 3, "pins_total": 0, "avatar": 0.203, "ev": "board_clear", "t": 1794325164, "who": "[AAA]阿黄AAAAA"}
 {"explore_claimed": 0, "ev": "idle_sweep", "t": 1794325170, "who": "[AAA]阿黄AAAAA"}
 {"tabs_claimed": 0, "badged_first": 0, "retry_tabs": 0, "still_badged": 0, "ev": "mail_sweep", "t": 1794325179, "who": "[AAA]阿黄AAAAA"}
+{"cycle": 1, "score": 0.675, "at": [684, 119], "ev": "modal_close_lowconf", "t": 1794325783, "who": "[AAA]阿黄AAAAA"}
+{"ev": "stamina_no_meal", "t": 1794325790, "who": "[AAA]阿黄AAAAA"}
+{"cycle": 1, "pins_total": 2, "avatar": 0.186, "ev": "board_clear", "t": 1794325792, "who": "[AAA]阿黄AAAAA"}
+{"explore_claimed": 1, "ev": "idle_sweep", "t": 1794325805, "who": "[AAA]阿黄AAAAA"}
+{"tabs_claimed": 0, "badged_first": 0, "retry_tabs": 0, "still_badged": 0, "ev": "mail_sweep", "t": 1794325813, "who": "[AAA]阿黄AAAAA"}
