@@ -1,33 +1,3 @@
-{"cycle": 1032, "score": 0.795, "at": [701, 155], "needed_back": true, "streak": 0, "ev": "modal_closed", "t": 1794260369}
-{"cycle": 1033, "score": 0.795, "at": [701, 155], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794260374}
-{"cycle": 1034, "score": 0.795, "at": [701, 155], "needed_back": true, "streak": 2, "ev": "modal_closed", "t": 1794260378}
-{"cycle": 1035, "streak": 3, "view": null, "ev": "modal_streak_break", "t": 1794260382}
-{"cycle": 1035, "score": 0.795, "at": [701, 155], "needed_back": true, "streak": 0, "ev": "modal_closed", "t": 1794260382}
-{"cycle": 1036, "score": 0.795, "at": [701, 155], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794260387}
-{"cycle": 1037, "score": 0.795, "at": [701, 155], "needed_back": true, "streak": 2, "ev": "modal_closed", "t": 1794260391}
-{"cycle": 1038, "streak": 3, "view": null, "ev": "modal_streak_break", "t": 1794260395}
-{"cycle": 1038, "score": 0.795, "at": [701, 155], "needed_back": true, "streak": 0, "ev": "modal_closed", "t": 1794260395}
-{"cycle": 1039, "score": 0.795, "at": [701, 155], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794260400}
-{"cycle": 1040, "score": 0.795, "at": [701, 155], "needed_back": true, "streak": 2, "ev": "modal_closed", "t": 1794260404}
-{"cycle": 1041, "streak": 3, "view": null, "ev": "modal_streak_break", "t": 1794260408}
-{"cycle": 1041, "score": 0.795, "at": [701, 155], "needed_back": true, "streak": 0, "ev": "modal_closed", "t": 1794260408}
-{"cycle": 1042, "score": 0.795, "at": [701, 155], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794260413}
-{"cycle": 1043, "score": 0.795, "at": [701, 155], "needed_back": true, "streak": 2, "ev": "modal_closed", "t": 1794260417}
-{"cycle": 1044, "streak": 3, "view": null, "ev": "modal_streak_break", "t": 1794260422}
-{"cycle": 1044, "score": 0.795, "at": [701, 155], "needed_back": true, "streak": 0, "ev": "modal_closed", "t": 1794260422}
-{"cycle": 1045, "score": 0.795, "at": [701, 155], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794260426}
-{"cycle": 1046, "score": 0.795, "at": [701, 155], "needed_back": true, "streak": 2, "ev": "modal_closed", "t": 1794260430}
-{"cycle": 1047, "streak": 3, "view": null, "ev": "modal_streak_break", "t": 1794260435}
-{"cycle": 1047, "score": 0.795, "at": [701, 155], "needed_back": true, "streak": 0, "ev": "modal_closed", "t": 1794260435}
-{"cycle": 1048, "score": 0.795, "at": [701, 155], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794260439}
-{"cycle": 1049, "score": 0.795, "at": [701, 155], "needed_back": true, "streak": 2, "ev": "modal_closed", "t": 1794260443}
-{"cycle": 1050, "streak": 3, "view": null, "ev": "modal_streak_break", "t": 1794260448}
-{"cycle": 1050, "score": 0.795, "at": [701, 155], "needed_back": true, "streak": 0, "ev": "modal_closed", "t": 1794260448}
-{"cycle": 1051, "score": 0.795, "at": [701, 155], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794260452}
-{"cycle": 1052, "score": 0.795, "at": [701, 155], "needed_back": true, "streak": 2, "ev": "modal_closed", "t": 1794260456}
-{"cycle": 1053, "streak": 3, "view": null, "ev": "modal_streak_break", "t": 1794260461}
-{"cycle": 1053, "score": 0.795, "at": [701, 155], "needed_back": true, "streak": 0, "ev": "modal_closed", "t": 1794260461}
-{"cycle": 1054, "score": 0.795, "at": [701, 155], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794260465}
 {"cycle": 1055, "score": 0.795, "at": [701, 155], "needed_back": true, "streak": 2, "ev": "modal_closed", "t": 1794260469}
 {"cycle": 1056, "streak": 3, "view": null, "ev": "modal_streak_break", "t": 1794260474}
 {"cycle": 1056, "score": 0.795, "at": [701, 155], "needed_back": true, "streak": 0, "ev": "modal_closed", "t": 1794260474}
@@ -8998,3 +8968,33 @@
 {"explore_claimed": 0, "ev": "idle_sweep", "t": 1794342581, "who": "[AAA]阿黄AAAAA"}
 {"tabs_claimed": 0, "badged_first": 0, "retry_tabs": 0, "still_badged": 0, "ev": "mail_sweep", "t": 1794342590, "who": "[AAA]阿黄AAAAA"}
 {"tabs_badged": [1, 0], "claims": 4, "ev": "box_claim", "t": 1794342610, "who": "[AAA]阿黄AAAAA"}
+{"badged": ["baoxiang", "huzhu", "lingdi", "shangdian"], "visited": ["baoxiang", "huzhu", "lingdi", "shangdian"], "claimed": 4, "back_town": true, "ev": "alliance_sweep", "t": 1794342632, "who": "[AAA]阿黄AAAAA"}
+{"opened": 0, "gifts_claimed": 0, "ev": "chat_read", "t": 1794342650, "who": "[AAA]阿黄AAAAA"}
+{"ev": "chat_read", "t": 1794342650, "who": "[AAA]阿黄AAAAA"}
+{"at": [581, 122], "ev": "town_dot_click", "t": 1794342655, "who": "[AAA]阿黄AAAAA"}
+{"ev": "build_no_indicator", "t": 1794342666, "who": "[AAA]阿黄AAAAA"}
+{"ev": "crystal_none", "t": 1794342667, "who": "[AAA]阿黄AAAAA"}
+{"remaining": 5, "ev": "pet_no_chest_dialog", "t": 1794342700, "who": "[AAA]阿黄AAAAA"}
+{"task": 0, "mail": 0, "alliance": 4, "dots_clicked": 2, "build": 0, "crystal": 0, "gather": -1, "hero": -1, "pet": 0, "ev": "town_reddots_done", "t": 1794342700, "who": "[AAA]阿黄AAAAA"}
+{"cycle": 164, "arrived": false, "ev": "idle_to_town", "t": 1794342709, "who": "[AAA]阿黄AAAAA"}
+{"reason": "stuck", "ev": "rotate_not_town", "t": 1794342709, "who": "[AAA]阿黄AAAAA"}
+{"cycle": 165, "score": 0.665, "at": [666, 182], "ev": "modal_close_lowconf", "t": 1794342721, "who": "[AAA]阿黄AAAAA"}
+{"cycle": 165, "ev": "modal_back_fallback", "t": 1794342724, "who": "[AAA]阿黄AAAAA"}
+{"cycle": 165, "frm": "town", "to": "wild", "sw": 0.999, "st": 0.285, "ev": "view_switch", "t": 1794342726, "who": "[AAA]阿黄AAAAA"}
+{"cycle": 165, "pins_total": 0, "avatar": 0.204, "ev": "board_clear", "t": 1794342730, "who": "[AAA]阿黄AAAAA"}
+{"explore_claimed": 0, "ev": "idle_sweep", "t": 1794342736, "who": "[AAA]阿黄AAAAA"}
+{"tabs_claimed": 0, "badged_first": 0, "retry_tabs": 0, "still_badged": 0, "ev": "mail_sweep", "t": 1794342745, "who": "[AAA]阿黄AAAAA"}
+{"tabs_badged": [1, 0], "claims": 4, "ev": "box_claim", "t": 1794342764, "who": "[AAA]阿黄AAAAA"}
+{"badged": ["baoxiang", "huzhu", "lingdi", "shangdian", "zhanzheng"], "visited": ["baoxiang", "huzhu", "lingdi", "shangdian", "zhanzheng"], "claimed": 4, "back_town": true, "ev": "alliance_sweep", "t": 1794342792, "who": "[AAA]阿黄AAAAA"}
+{"opened": 0, "gifts_claimed": 0, "ev": "chat_read", "t": 1794342809, "who": "[AAA]阿黄AAAAA"}
+{"ev": "chat_read", "t": 1794342809, "who": "[AAA]阿黄AAAAA"}
+{"at": [581, 122], "ev": "town_dot_click", "t": 1794342814, "who": "[AAA]阿黄AAAAA"}
+{"ev": "build_no_indicator", "t": 1794342825, "who": "[AAA]阿黄AAAAA"}
+{"ev": "crystal_none", "t": 1794342826, "who": "[AAA]阿黄AAAAA"}
+{"remaining": 5, "ev": "pet_no_chest_dialog", "t": 1794342858, "who": "[AAA]阿黄AAAAA"}
+{"task": 0, "mail": 0, "alliance": 4, "dots_clicked": 2, "build": 0, "crystal": 0, "gather": -1, "hero": -1, "pet": 0, "ev": "town_reddots_done", "t": 1794342858, "who": "[AAA]阿黄AAAAA"}
+{"cycle": 165, "arrived": true, "ev": "idle_to_town", "t": 1794342863, "who": "[AAA]阿黄AAAAA"}
+{"screens": 3, "found": 5, "total": 5, "via": "ocr", "ev": "roster_scan", "t": 1794342888, "who": "[AAA]阿黄AAAAA"}
+{"at": [303, 1031], "target": "[AAA]阿黄乐哈", "from_cur": "[AAA]阿黄AAAAA", "ev": "rotate_card_tapped", "t": 1794342896, "who": "[AAA]阿黄AAAAA"}
+{"in_town": true, "target": "[AAA]阿黄乐哈", "ev": "rotate_done", "t": 1794342923, "who": "[AAA]阿黄乐哈"}
+{"cycle": 165, "ev": "rotated", "t": 1794342923, "who": "[AAA]阿黄乐哈"}
