@@ -1,5 +1,3 @@
-{"cycle": 142, "score": 0.795, "at": [701, 155], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794256491}
-{"cycle": 143, "score": 0.795, "at": [701, 155], "needed_back": true, "streak": 2, "ev": "modal_closed", "t": 1794256495}
 {"cycle": 144, "streak": 3, "view": null, "ev": "modal_streak_break", "t": 1794256499}
 {"cycle": 144, "score": 0.795, "at": [701, 155], "needed_back": true, "streak": 0, "ev": "modal_closed", "t": 1794256499}
 {"cycle": 145, "score": 0.795, "at": [701, 155], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794256504}
@@ -8998,3 +8996,5 @@
 {"res": "木材", "ev": "gather_no_goto", "t": 1794329062, "who": "[CHA]领主1197490644"}
 {"res": "煤矿", "ev": "gather_no_goto", "t": 1794329091, "who": "[CHA]领主1197490644"}
 {"res": "铁矿", "ev": "gather_no_goto", "t": 1794329120, "who": "[CHA]领主1197490644"}
+{"res_ok": 0, "ev": "gather_round_done", "t": 1794329124, "who": "[CHA]领主1197490644"}
+{"drew": 1, "ev": "hero_free_draw", "t": 1794329152, "who": "[CHA]领主1197490644"}
