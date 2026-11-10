@@ -1,5 +1,3 @@
-{"cycle": 20, "at": [359, 932], "attempt": 1, "ev": "goto_tap", "t": 1794219828}
-{"cycle": 20, "at": [359, 627], "ev": "target_btn", "t": 1794219833}
 {"cycle": 20, "at": [356, 281], "wins_so_far": 3, "ev": "sortie_sent", "t": 1794219837}
 {"cycle": 20, "at": [356, 281], "wins": 4, "ev": "win_collected", "t": 1794219887}
 {"cycle": 21, "at": [350, 283], "area": 3313, "ev": "pin_pick", "t": 1794219890}
@@ -8998,3 +8996,5 @@
 {"cycle": 9, "score": 0.342, "ev": "entry_blind_wild", "t": 1794290975, "who": "[CHA]领主1198376138"}
 {"cycle": 9, "tries": 4, "ev": "not_board", "t": 1794290975, "who": "[CHA]领主1198376138"}
 {"cycle": 10, "ev": "screen_frozen", "t": 1794290995, "who": "[CHA]领主1198376138"}
+{"cycle": 11, "score": 0.827, "at": [690, 121], "needed_back": false, "streak": 1, "ev": "modal_closed", "t": 1794291315, "who": "[CHA]领主1198376138"}
+{"cycle": 12, "frm": "town", "to": "wild", "sw": 0.999, "st": 0.285, "ev": "view_switch", "t": 1794291317, "who": "[CHA]领主1198376138"}
