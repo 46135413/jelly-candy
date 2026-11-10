@@ -8451,3 +8451,12 @@
 {"cycle": 26, "at": [355, 641], "ev": "target_btn", "t": 1794281286}
 {"cycle": 26, "at": [367, 630], "reason": "target_no_transition", "blacked": 7, "ev": "blacklisted", "t": 1794281297}
 {"reached_town": false, "ui_alive": false, "ev": "liveness_probe", "t": 1794281301}
+{"cycle": 27, "frm": "town", "to": "wild", "sw": 0.999, "st": 0.285, "ev": "view_switch", "t": 1794281619}
+{"ev": "stamina_no_meal", "t": 1794281623, "who": "[CHA]领主1197490644"}
+{"cycle": 1, "at": [125, 809], "area": 3844, "cls": "other", "yellow_left": 0, "ev": "pin_pick", "t": 1794281625, "who": "[CHA]领主1197490644"}
+{"cycle": 1, "at": [125, 809], "reason": "no_target_panel", "blacked": 1, "ev": "blacklisted", "t": 1794281628, "who": "[CHA]领主1197490644"}
+{"cycle": 2, "score": 0.966, "at": [695, 103], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794281635, "who": "[CHA]领主1197490644"}
+{"cycle": 3, "pins_total": 1, "avatar": 0.192, "ev": "board_clear", "t": 1794281636, "who": "[CHA]领主1197490644"}
+{"explore_claimed": 1, "ev": "idle_sweep", "t": 1794281646, "who": "[CHA]领主1197490644"}
+{"rounds": 1, "badge_left": 231, "ev": "task_sweep", "t": 1794281668, "who": "[CHA]领主1197490644"}
+{"tabs_claimed": 0, "badged_first": 0, "retry_tabs": 0, "still_badged": 0, "ev": "mail_sweep", "t": 1794281674, "who": "[CHA]领主1197490644"}
