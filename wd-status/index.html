@@ -17,7 +17,7 @@ code{font-family:ui-monospace,monospace;font-size:11px;color:#a8c7fa}
 .big{font-size:15px}
 </style></head><body>
 <h1>❄️ 无尽冬日挂机状态</h1>
-<div class=sub>打开时实时拉取 log.jsonl(本机每~5分钟推送) · 页面每5分钟自动刷新 · 生成于 2026-11-10 11:30:17</div>
+<div class=sub>打开时实时拉取 log.jsonl(本机每~5分钟推送) · 页面每5分钟自动刷新 · 生成于 2026-11-10 11:33:28</div>
 <div class="card"><h2>总览</h2><div class=big>
 主循环: <span class=ok>运行中 ✅</span><br>
 最近日志: <span class=ok>刚刚</span> ·
@@ -29,7 +29,7 @@ code{font-family:ui-monospace,monospace;font-size:11px;color:#a8c7fa}
 <span id=shotmeta style="color:#8b96ad;font-size:12px;margin-left:8px"></span>
 <img id=shotimg alt="" style="display:none;max-width:340px;border-radius:8px;margin-top:10px;border:1px solid #263148">
 </div>
-<div class="card"><h2>今日（本地 00:00 起，实时计算）</h2><div class=grid id=kpi><span style="color:#8b96ad">加载日志…</span></div></div>
+<div class="card"><h2>今日（本地 00:00 起，实时计算）</h2><div id=tabs style="margin-bottom:8px"></div><div class=grid id=kpi><span style="color:#8b96ad">加载日志…</span></div></div>
 <div class="card"><h2>最近动作（已过滤高频噪声）</h2><table><tr><th>时间</th><th>事件</th><th>详情</th></tr><tbody id=acts></tbody></table></div>
 <div class="card"><h2>说明</h2><div style="font-size:12px;color:#8b96ad">
 派队/收勾=情报钉打野链 · 板清空=该号情报打完(两轮后自动切下一个角色) · 建筑开工=城建线把可升建筑排进队列 ·
@@ -41,14 +41,27 @@ const KEY=[["sortie_sent","派队"],["collected","收勾"],["rescue_sent","营�
 ["perm_donated","联盟永续"],["screen_white","白屏自修"],["screen_frozen","定帧自修"],
 ["free_claim","免费领取"],["stamina_meal","体力大餐"],["not_board","未进板"]];
 const NOISE=new Set(["modal_closed","view_switch","roster_closed","exit_popup_dismissed"]);
+let ALLROWS=[];   // 按号 tab(用户11:32「统计按号来,搞一个tab」):who 字段由循环自动写入。
+let CURWHO="__all";
+function renderKpi(){
+const d=new Date();d.setHours(0,0,0,0);const d0=Math.floor(d.getTime()/1000);
+const rows=ALLROWS.filter(j=>j.t>=d0&&(CURWHO==="__all"||j.who===CURWHO));
+const C={};for(const j of rows)C[j.ev]=(C[j.ev]||0)+1;
+document.getElementById("kpi").innerHTML=KEY.filter(([k])=>C[k]).map(([k,l])=>`<div class=kpi><b>${C[k]}</b><span>${l}</span></div>`).join("")||"<span style=color:#8b96ad>该号今日暂无计数</span>";}
+function renderTabs(){
+const d=new Date();d.setHours(0,0,0,0);const d0=Math.floor(d.getTime()/1000);
+const W={};for(const j of ALLROWS)if(j.t>=d0&&j.who)W[j.who]=(W[j.who]||0)+1;
+const names=Object.keys(W).sort((a,b)=>W[b]-W[a]);
+if(!names.length){document.getElementById("tabs").innerHTML="";return;}
+const b=(id,lab,n)=>`<button data-w="${id}" style="margin:2px 4px 2px 0;padding:4px 10px;border-radius:6px;font-size:12px;cursor:pointer;border:1px solid ${CURWHO===id?"#5ddc7b":"#3a4c6e"};background:${CURWHO===id?"#1d3a2a":"#26354f"};color:#dfe6f3">${lab}${n?` <span style=color:#8b96ad>${n}</span>`:""}</button>`;
+document.getElementById("tabs").innerHTML=b("__all","全部",Object.values(W).reduce((a,c)=>a+c,0))+names.map(nm=>b(nm,nm,W[nm])).join("");
+document.querySelectorAll("#tabs button").forEach(el=>el.onclick=()=>{CURWHO=el.dataset.w;renderTabs();renderKpi();});}
 fetch("log.jsonl?ts="+Date.now()).then(r=>{if(!r.ok)throw new Error("HTTP "+r.status);return r.text()}).then(tx=>{
 const rows=tx.split("\n").filter(Boolean).map(s=>{try{return JSON.parse(s)}catch(e){return null}}).filter(Boolean);
-const d=new Date();d.setHours(0,0,0,0);const d0=Math.floor(d.getTime()/1000);
-const C={};for(const j of rows)if(j.t>=d0)C[j.ev]=(C[j.ev]||0)+1;
-document.getElementById("kpi").innerHTML=KEY.filter(([k])=>C[k]).map(([k,l])=>`<div class=kpi><b>${C[k]}</b><span>${l}</span></div>`).join("")||"<span style=color:#8b96ad>今日暂无计数</span>";
+ALLROWS=rows;renderTabs();renderKpi();
 const f=t=>{const x=new Date(t*1000);return [x.getHours(),x.getMinutes(),x.getSeconds()].map(v=>String(v).padStart(2,"0")).join(":")};
 const esc=s=>s.replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));
-const rec=rows.filter(j=>!NOISE.has(j.ev)).slice(-15).reverse();
+const rec=rows.filter(j=>!NOISE.has(j.ev)&&(CURWHO==="__all"||j.who===CURWHO)).slice(-15).reverse();
 document.getElementById("acts").innerHTML=rec.map(j=>`<tr><td>${f(j.t)}</td><td>${esc(String(j.ev))}</td><td><code>${esc(JSON.stringify(Object.fromEntries(Object.entries(j).filter(([k])=>k!=="ev"&&k!=="t")))).slice(0,90)}</code></td></tr>`).join("");
 }).catch(e=>{document.getElementById("kpi").innerHTML='<span style="color:#ff7b72">日志加载失败: '+esc(String(e))+'</span>';});
 </script>
