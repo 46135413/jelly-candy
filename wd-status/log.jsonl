@@ -1,38 +1,3 @@
-{"cycle": 15, "pins_total": 3, "avatar": 0.203, "ev": "board_clear", "t": 1794243488}
-{"explore_claimed": 0, "ev": "idle_sweep", "t": 1794243495}
-{"rounds": 4, "badge_left": 253, "ev": "task_sweep", "t": 1794243515}
-{"tabs_claimed": 0, "badged_first": 0, "retry_tabs": 0, "still_badged": 0, "ev": "mail_sweep", "t": 1794243520}
-{"badged": ["huzhu", "lingdi", "shangdian"], "visited": ["huzhu", "lingdi", "shangdian"], "claimed": 0, "back_town": true, "ev": "alliance_sweep", "t": 1794243543}
-{"at": [581, 217], "ev": "town_dot_click", "t": 1794243548}
-{"task": 4, "mail": 0, "alliance": 0, "dots_clicked": 1, "ev": "town_reddots_done", "t": 1794243548}
-{"cycle": 15, "arrived": true, "ev": "idle_to_town", "t": 1794243553}
-{"at": [360, 740], "ev": "rotate_wrap", "t": 1794243573}
-{"in_town": false, "ev": "rotate_done", "t": 1794243596}
-{"cycle": 16, "score": 0.542, "at": [675, 117], "needed_back": false, "streak": 1, "ev": "modal_closed", "t": 1794243608}
-{"cycle": 17, "frm": "town", "to": "wild", "sw": 0.999, "st": 0.285, "ev": "view_switch", "t": 1794243611}
-{"cycle": 17, "at": [259, 598], "area": 3289, "cls": "other", "yellow_left": 2, "ev": "pin_pick", "t": 1794243614}
-{"cycle": 17, "at": [359, 932], "attempt": 1, "ev": "goto_tap", "t": 1794243615}
-{"cycle": 17, "at": [359, 628], "ev": "target_btn", "t": 1794243616}
-{"cycle": 17, "at": [259, 598], "wins_so_far": 0, "pending": 1, "ev": "sortie_sent", "t": 1794243618}
-{"cycle": 18, "at": [600, 960], "area": 4594, "cls": "other", "yellow_left": 0, "ev": "pin_pick", "t": 1794243621}
-{"cycle": 18, "at": [600, 960], "reason": "no_target_panel", "blacked": 1, "ev": "blacklisted", "t": 1794243624}
-{"cycle": 19, "at": [148, 657], "area": 4562, "cls": "other", "yellow_left": 3, "ev": "pin_pick", "t": 1794243628}
-{"cycle": 19, "at": [148, 657], "reason": "no_target_panel", "blacked": 2, "ev": "blacklisted", "t": 1794243631}
-{"cycle": 20, "at": [323, 456], "area": 1709, "cls": "yellow", "yellow_left": 3, "ev": "pin_pick", "t": 1794243634}
-{"cycle": 20, "at": [323, 456], "reason": "no_target_panel", "blacked": 3, "ev": "blacklisted", "t": 1794243638}
-{"cycle": 21, "pending_before": 1, "ev": "collected", "t": 1794243643}
-{"cycle": 22, "at": [127, 503], "area": 3288, "cls": "other", "yellow_left": 1, "ev": "pin_pick", "t": 1794243646}
-{"cycle": 22, "at": [359, 932], "attempt": 1, "ev": "goto_tap", "t": 1794243647}
-{"cycle": 22, "at": [359, 628], "ev": "target_btn", "t": 1794243648}
-{"cycle": 22, "at": [127, 503], "wins_so_far": 1, "pending": 1, "ev": "sortie_sent", "t": 1794243649}
-{"cycle": 23, "at": [146, 726], "area": 2111, "cls": "other", "yellow_left": 0, "ev": "pin_pick", "t": 1794243652}
-{"cycle": 23, "at": [146, 726], "reason": "no_target_panel", "blacked": 4, "ev": "blacklisted", "t": 1794243656}
-{"cycle": 24, "at": [445, 665], "area": 918, "cls": "yellow", "yellow_left": 2, "ev": "pin_pick", "t": 1794243659}
-{"cycle": 24, "at": [445, 665], "reason": "no_target_panel", "blacked": 5, "ev": "blacklisted", "t": 1794243663}
-{"cycle": 25, "at": [380, 453], "area": 869, "cls": "yellow", "yellow_left": 1, "ev": "pin_pick", "t": 1794243666}
-{"cycle": 25, "at": [380, 453], "reason": "no_target_panel", "blacked": 6, "ev": "blacklisted", "t": 1794243670}
-{"cycle": 26, "pending_before": 1, "ev": "collected", "t": 1794243675}
-{"cycle": 27, "at": [377, 691], "area": 3050, "cls": "other", "yellow_left": 0, "ev": "pin_pick", "t": 1794243677}
 {"cycle": 27, "at": [359, 932], "attempt": 1, "ev": "goto_tap", "t": 1794243678}
 {"cycle": 27, "at": [359, 627], "ev": "target_btn", "t": 1794243680}
 {"cycle": 27, "at": [377, 691], "wins_so_far": 2, "pending": 1, "ev": "sortie_sent", "t": 1794243681}
@@ -8998,3 +8963,38 @@
 {"rounds": 0, "badge_left": 246, "ev": "task_sweep", "t": 1794306884, "who": "[CHA]领主1198376138"}
 {"tabs_claimed": 0, "badged_first": 0, "retry_tabs": 0, "still_badged": 0, "ev": "mail_sweep", "t": 1794306889, "who": "[CHA]领主1198376138"}
 {"tabs_badged": [1, 0], "claims": 4, "ev": "box_claim", "t": 1794306909, "who": "[CHA]领主1198376138"}
+{"badged": ["baoxiang", "huzhu", "lingdi", "shangdian"], "visited": ["baoxiang", "huzhu", "lingdi", "shangdian"], "claimed": 4, "back_town": true, "ev": "alliance_sweep", "t": 1794306931, "who": "[CHA]领主1198376138"}
+{"at": [581, 217], "ev": "town_dot_click", "t": 1794306936, "who": "[CHA]领主1198376138"}
+{"at": [581, 408], "ev": "town_dot_click", "t": 1794306940, "who": "[CHA]领主1198376138"}
+{"at": [110, 776], "ev": "build_started", "t": 1794306959, "who": "[CHA]领主1198376138"}
+{"task": 0, "mail": 0, "alliance": 4, "dots_clicked": 2, "build": 1, "ev": "town_reddots_done", "t": 1794306959, "who": "[CHA]领主1198376138"}
+{"cycle": 14, "arrived": false, "ev": "idle_to_town", "t": 1794306968, "who": "[CHA]领主1198376138"}
+{"reason": "stuck", "ev": "rotate_not_town", "t": 1794306968, "who": "[CHA]领主1198376138"}
+{"cycle": 15, "ev": "modal_back_fallback", "t": 1794306980, "who": "[CHA]领主1198376138"}
+{"cycle": 15, "frm": "town", "to": "wild", "sw": 0.995, "st": 0.265, "ev": "view_switch", "t": 1794306983, "who": "[CHA]领主1198376138"}
+{"cycle": 15, "pins_total": 2, "avatar": 0.203, "ev": "board_clear", "t": 1794306986, "who": "[CHA]领主1198376138"}
+{"explore_claimed": 0, "ev": "idle_sweep", "t": 1794306993, "who": "[CHA]领主1198376138"}
+{"rounds": 0, "badge_left": 240, "ev": "task_sweep", "t": 1794307008, "who": "[CHA]领主1198376138"}
+{"tabs_claimed": 0, "badged_first": 0, "retry_tabs": 0, "still_badged": 0, "ev": "mail_sweep", "t": 1794307014, "who": "[CHA]领主1198376138"}
+{"tabs_badged": [1, 0], "claims": 4, "ev": "box_claim", "t": 1794307033, "who": "[CHA]领主1198376138"}
+{"badged": ["baoxiang", "huzhu", "lingdi", "shangdian"], "visited": ["baoxiang", "huzhu", "lingdi", "shangdian"], "claimed": 4, "back_town": true, "ev": "alliance_sweep", "t": 1794307055, "who": "[CHA]领主1198376138"}
+{"at": [691, 121], "ev": "town_dot_click", "t": 1794307060, "who": "[CHA]领主1198376138"}
+{"at": [110, 776], "ev": "build_started", "t": 1794307079, "who": "[CHA]领主1198376138"}
+{"task": 0, "mail": 0, "alliance": 4, "dots_clicked": 1, "build": 1, "ev": "town_reddots_done", "t": 1794307079, "who": "[CHA]领主1198376138"}
+{"cycle": 15, "arrived": false, "ev": "idle_to_town", "t": 1794307088, "who": "[CHA]领主1198376138"}
+{"reason": "stuck", "ev": "rotate_not_town", "t": 1794307088, "who": "[CHA]领主1198376138"}
+{"cycle": 16, "score": 0.599, "at": [670, 152], "ev": "modal_close_lowconf", "t": 1794307100, "who": "[CHA]领主1198376138"}
+{"cycle": 16, "frm": "town", "to": "wild", "sw": 0.988, "st": 0.267, "ev": "view_switch", "t": 1794307103, "who": "[CHA]领主1198376138"}
+{"cycle": 16, "pins_total": 2, "avatar": 0.206, "ev": "board_clear", "t": 1794307106, "who": "[CHA]领主1198376138"}
+{"explore_claimed": 0, "ev": "idle_sweep", "t": 1794307113, "who": "[CHA]领主1198376138"}
+{"rounds": 0, "badge_left": 245, "ev": "task_sweep", "t": 1794307128, "who": "[CHA]领主1198376138"}
+{"tabs_claimed": 0, "badged_first": 0, "retry_tabs": 0, "still_badged": 0, "ev": "mail_sweep", "t": 1794307134, "who": "[CHA]领主1198376138"}
+{"tabs_badged": [1, 0], "claims": 2, "ev": "box_claim", "t": 1794307148, "who": "[CHA]领主1198376138"}
+{"badged": ["baoxiang", "huzhu", "lingdi", "shangdian"], "visited": ["baoxiang", "huzhu", "lingdi", "shangdian"], "claimed": 2, "back_town": true, "ev": "alliance_sweep", "t": 1794307170, "who": "[CHA]领主1198376138"}
+{"at": [691, 121], "ev": "town_dot_click", "t": 1794307175, "who": "[CHA]领主1198376138"}
+{"at": [110, 776], "ev": "build_started", "t": 1794307194, "who": "[CHA]领主1198376138"}
+{"task": 0, "mail": 0, "alliance": 2, "dots_clicked": 1, "build": 1, "ev": "town_reddots_done", "t": 1794307194, "who": "[CHA]领主1198376138"}
+{"cycle": 16, "arrived": false, "ev": "idle_to_town", "t": 1794307203, "who": "[CHA]领主1198376138"}
+{"reason": "stuck", "ev": "rotate_not_town", "t": 1794307203, "who": "[CHA]领主1198376138"}
+{"cycle": 17, "score": 0.557, "at": [648, 132], "ev": "modal_close_lowconf", "t": 1794307215, "who": "[CHA]领主1198376138"}
+{"cycle": 17, "frm": "town", "to": "wild", "sw": 0.996, "st": 0.272, "ev": "view_switch", "t": 1794307218, "who": "[CHA]领主1198376138"}
