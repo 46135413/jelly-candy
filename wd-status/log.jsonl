@@ -8460,3 +8460,5 @@
 {"explore_claimed": 1, "ev": "idle_sweep", "t": 1794281646, "who": "[CHA]领主1197490644"}
 {"rounds": 1, "badge_left": 231, "ev": "task_sweep", "t": 1794281668, "who": "[CHA]领主1197490644"}
 {"tabs_claimed": 0, "badged_first": 0, "retry_tabs": 0, "still_badged": 0, "ev": "mail_sweep", "t": 1794281674, "who": "[CHA]领主1197490644"}
+{"tabs_badged": [1, 0], "claims": 4, "ev": "box_claim", "t": 1794281695, "who": "[CHA]领主1197490644"}
+{"badged": ["baoxiang", "huzhu", "lingdi", "shangdian"], "visited": ["baoxiang", "huzhu", "lingdi", "shangdian"], "claimed": 4, "back_town": true, "ev": "alliance_sweep", "t": 1794281717, "who": "[CHA]领主1197490644"}
