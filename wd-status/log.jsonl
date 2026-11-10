@@ -1,18 +1,3 @@
-{"cycle": 12, "streak": 3, "view": null, "ev": "modal_streak_break", "t": 1794242645}
-{"cycle": 12, "score": 0.897, "at": [699, 88], "needed_back": true, "streak": 0, "ev": "modal_closed", "t": 1794242645}
-{"cycle": 13, "score": 0.897, "at": [699, 88], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794242649}
-{"cycle": 14, "score": 0.897, "at": [699, 88], "needed_back": true, "streak": 2, "ev": "modal_closed", "t": 1794242654}
-{"cycle": 15, "streak": 3, "view": null, "ev": "modal_streak_break", "t": 1794242658}
-{"cycle": 15, "score": 0.897, "at": [699, 88], "needed_back": true, "streak": 0, "ev": "modal_closed", "t": 1794242658}
-{"cycle": 16, "score": 0.897, "at": [699, 88], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794242662}
-{"cycle": 17, "score": 0.897, "at": [699, 88], "needed_back": true, "streak": 2, "ev": "modal_closed", "t": 1794242667}
-{"cycle": 18, "streak": 3, "view": null, "ev": "modal_streak_break", "t": 1794242671}
-{"cycle": 18, "score": 0.897, "at": [699, 88], "needed_back": true, "streak": 0, "ev": "modal_closed", "t": 1794242671}
-{"cycle": 19, "score": 0.897, "at": [699, 88], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794242676}
-{"cycle": 20, "score": 0.897, "at": [699, 88], "needed_back": true, "streak": 2, "ev": "modal_closed", "t": 1794242680}
-{"cycle": 21, "streak": 3, "view": null, "ev": "modal_streak_break", "t": 1794242684}
-{"cycle": 21, "score": 0.897, "at": [699, 88], "needed_back": true, "streak": 0, "ev": "modal_closed", "t": 1794242684}
-{"cycle": 22, "score": 0.897, "at": [699, 88], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794242689}
 {"cycle": 23, "score": 0.897, "at": [699, 88], "needed_back": true, "streak": 2, "ev": "modal_closed", "t": 1794242693}
 {"cycle": 24, "streak": 3, "view": null, "ev": "modal_streak_break", "t": 1794242697}
 {"cycle": 24, "score": 0.897, "at": [699, 88], "needed_back": true, "streak": 0, "ev": "modal_closed", "t": 1794242697}
@@ -8998,3 +8983,18 @@
 {"cycle": 50, "at": [359, 870], "attempt": 1, "ev": "goto_tap", "t": 1794304426, "who": "[CHA]领主1198376138"}
 {"cycle": 50, "at": [359, 627], "ev": "target_btn", "t": 1794304427, "who": "[CHA]领主1198376138"}
 {"cycle": 50, "at": [401, 810], "wins_so_far": 0, "pending": 1, "ev": "sortie_sent", "t": 1794304428, "who": "[CHA]领主1198376138"}
+{"cycle": 51, "pending": 1, "ev": "pending_wait_timeout", "t": 1794304526, "who": "[CHA]领主1198376138"}
+{"cycle": 52, "at": [399, 808], "area": 4069, "cls": "yellow", "yellow_left": 1, "ev": "pin_pick", "t": 1794304526, "who": "[CHA]领主1198376138"}
+{"cycle": 52, "at": [359, 870], "attempt": 1, "ev": "goto_tap", "t": 1794304527, "who": "[CHA]领主1198376138"}
+{"cycle": 52, "at": [359, 627], "ev": "target_btn", "t": 1794304528, "who": "[CHA]领主1198376138"}
+{"cycle": 52, "at": [399, 808], "wins_so_far": 0, "pending": 1, "ev": "sortie_sent", "t": 1794304529, "who": "[CHA]领主1198376138"}
+{"cycle": 53, "pending": 1, "ev": "pending_wait_timeout", "t": 1794304627, "who": "[CHA]领主1198376138"}
+{"cycle": 54, "at": [401, 808], "area": 4173, "cls": "yellow", "yellow_left": 1, "ev": "pin_pick", "t": 1794304627, "who": "[CHA]领主1198376138"}
+{"cycle": 54, "at": [359, 870], "attempt": 1, "ev": "goto_tap", "t": 1794304628, "who": "[CHA]领主1198376138"}
+{"cycle": 54, "at": [359, 627], "ev": "target_btn", "t": 1794304629, "who": "[CHA]领主1198376138"}
+{"cycle": 54, "at": [401, 808], "wins_so_far": 0, "pending": 1, "ev": "sortie_sent", "t": 1794304630, "who": "[CHA]领主1198376138"}
+{"cycle": 55, "pending": 1, "ev": "pending_wait_timeout", "t": 1794304727, "who": "[CHA]领主1198376138"}
+{"cycle": 56, "at": [395, 810], "area": 4019, "cls": "yellow", "yellow_left": 1, "ev": "pin_pick", "t": 1794304727, "who": "[CHA]领主1198376138"}
+{"cycle": 56, "at": [359, 870], "attempt": 1, "ev": "goto_tap", "t": 1794304729, "who": "[CHA]领主1198376138"}
+{"cycle": 56, "at": [359, 627], "ev": "target_btn", "t": 1794304730, "who": "[CHA]领主1198376138"}
+{"cycle": 56, "at": [395, 810], "wins_so_far": 0, "pending": 1, "ev": "sortie_sent", "t": 1794304731, "who": "[CHA]领主1198376138"}
