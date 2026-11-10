@@ -8640,3 +8640,9 @@
 {"cycle": 32, "at": [357, 641], "ev": "target_btn", "t": 1794283726, "who": "[CHA]领主1197490644"}
 {"cycle": 32, "at": [365, 629], "reason": "target_no_transition", "blacked": 6, "ev": "blacklisted", "t": 1794283737, "who": "[CHA]领主1197490644"}
 {"reached_town": false, "ui_alive": false, "ev": "liveness_probe", "t": 1794283742, "who": "[CHA]领主1197490644"}
+{"cycle": 33, "frm": "town", "to": "wild", "sw": 0.999, "st": 0.285, "ev": "view_switch", "t": 1794284059, "who": "[CHA]领主1197490644"}
+{"cycle": 33, "pins_total": 1, "avatar": 0.201, "ev": "board_clear", "t": 1794284063, "who": "[CHA]领主1197490644"}
+{"explore_claimed": 1, "ev": "idle_sweep", "t": 1794284073, "who": "[CHA]领主1197490644"}
+{"rounds": 0, "badge_left": 232, "ev": "task_sweep", "t": 1794284090, "who": "[CHA]领主1197490644"}
+{"tabs_claimed": 0, "badged_first": 0, "retry_tabs": 0, "still_badged": 0, "ev": "mail_sweep", "t": 1794284096, "who": "[CHA]领主1197490644"}
+{"tabs_badged": [0, 0], "claims": 0, "ev": "box_claim", "t": 1794284102, "who": "[CHA]领主1197490644"}
