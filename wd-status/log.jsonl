@@ -8366,3 +8366,10 @@
 {"rounds": 1, "badge_left": 246, "ev": "task_sweep", "t": 1794280389}
 {"tabs_claimed": 3, "badged_first": 2, "retry_tabs": 1, "still_badged": 0, "ev": "mail_sweep", "t": 1794280402}
 {"tabs_badged": [1, 1], "claims": 8, "ev": "box_claim", "t": 1794280438}
+{"at": [315, 989], "ev": "perm_donated", "t": 1794280481}
+{"badged": ["baoxiang", "huzhu", "keji", "lingdi", "shangdian"], "visited": ["baoxiang", "huzhu", "keji", "lingdi", "shangdian"], "claimed": 10, "back_town": true, "ev": "alliance_sweep", "t": 1794280486}
+{"at": [691, 123], "ev": "town_dot_click", "t": 1794280491}
+{"task": 1, "mail": 3, "alliance": 10, "dots_clicked": 1, "build": 0, "ev": "town_reddots_done", "t": 1794280495}
+{"cycle": 12, "arrived": false, "ev": "idle_to_town", "t": 1794280504}
+{"cycle": 13, "score": 0.791, "at": [704, 184], "needed_back": false, "streak": 1, "ev": "modal_closed", "t": 1794280511}
+{"cycle": 14, "frm": "town", "to": "wild", "sw": 0.996, "st": 0.276, "ev": "view_switch", "t": 1794280514}
