@@ -1,24 +1,3 @@
-{"cycle": 24, "frm": "town", "to": "wild", "sw": 0.999, "st": 0.285, "ev": "view_switch", "t": 1794251189}
-{"cycle": 24, "pending_before": 0, "ev": "collected", "t": 1794251195}
-{"cycle": 25, "pins_total": 2, "avatar": 0.203, "ev": "board_clear", "t": 1794251197}
-{"explore_claimed": 0, "ev": "idle_sweep", "t": 1794251204}
-{"rounds": 4, "badge_left": 270, "ev": "task_sweep", "t": 1794251226}
-{"tabs_claimed": 0, "badged_first": 0, "retry_tabs": 0, "still_badged": 0, "ev": "mail_sweep", "t": 1794251231}
-{"tabs_badged": [1, 0], "claims": 4, "ev": "box_claim", "t": 1794251253}
-{"badged": ["baoxiang", "huzhu", "lingdi", "shangdian"], "visited": ["baoxiang", "huzhu", "lingdi", "shangdian"], "claimed": 4, "back_town": true, "ev": "alliance_sweep", "t": 1794251275}
-{"opened": 0, "gifts_claimed": 0, "ev": "chat_read", "t": 1794251292}
-{"ev": "chat_read", "t": 1794251292}
-{"at": [581, 121], "ev": "town_dot_click", "t": 1794251297}
-{"task": 4, "mail": 0, "alliance": 4, "dots_clicked": 2, "ev": "town_reddots_done", "t": 1794251297}
-{"cycle": 25, "arrived": false, "ev": "idle_to_town", "t": 1794251306}
-{"at": [360, 740], "ev": "rotate_wrap", "t": 1794251336}
-{"in_town": false, "ev": "rotate_done", "t": 1794251358}
-{"cycle": 26, "score": 0.542, "at": [675, 117], "needed_back": false, "streak": 1, "ev": "modal_closed", "t": 1794251371}
-{"cycle": 27, "frm": "town", "to": "wild", "sw": 0.999, "st": 0.285, "ev": "view_switch", "t": 1794251373}
-{"cycle": 27, "at": [408, 806], "area": 3227, "cls": "other", "yellow_left": 0, "ev": "pin_pick", "t": 1794251377}
-{"cycle": 27, "at": [359, 882], "attempt": 1, "ev": "goto_tap", "t": 1794251378}
-{"cycle": 27, "at": [408, 806], "ev": "rescue_sent", "t": 1794251379}
-{"cycle": 27, "ev": "back_to_board_after_rescue", "t": 1794251389}
 {"cycle": 28, "pending_before": 0, "ev": "collected", "t": 1794251394}
 {"cycle": 29, "pins_total": 2, "avatar": 0.203, "ev": "board_clear", "t": 1794251397}
 {"explore_claimed": 1, "ev": "idle_sweep", "t": 1794251407}
@@ -8998,3 +8977,24 @@
 {"at": [581, 122], "ev": "town_dot_click", "t": 1794321682, "who": "[AAA]阿黄乐哈"}
 {"ev": "build_no_indicator", "t": 1794321694, "who": "[AAA]阿黄乐哈"}
 {"ev": "crystal_none", "t": 1794321694, "who": "[AAA]阿黄乐哈"}
+{"ev": "stamina_no_meal", "t": 1794322624, "who": "[AAA]阿黄乐哈"}
+{"cycle": 1, "pins_total": 2, "avatar": 0.186, "ev": "board_clear", "t": 1794322626, "who": "[AAA]阿黄乐哈"}
+{"explore_claimed": 1, "ev": "idle_sweep", "t": 1794322639, "who": "[AAA]阿黄乐哈"}
+{"tabs_claimed": 0, "badged_first": 0, "retry_tabs": 0, "still_badged": 0, "ev": "mail_sweep", "t": 1794322650, "who": "[AAA]阿黄乐哈"}
+{"tabs_badged": [1, 0], "claims": 4, "ev": "box_claim", "t": 1794322670, "who": "[AAA]阿黄乐哈"}
+{"badged": ["baoxiang", "huzhu", "lingdi", "shangdian", "zhanzheng"], "visited": ["baoxiang", "huzhu", "lingdi", "shangdian", "zhanzheng"], "claimed": 5, "back_town": true, "ev": "alliance_sweep", "t": 1794322700, "who": "[AAA]阿黄乐哈"}
+{"opened": 0, "gifts_claimed": 0, "ev": "chat_read", "t": 1794322719, "who": "[AAA]阿黄乐哈"}
+{"ev": "chat_read", "t": 1794322719, "who": "[AAA]阿黄乐哈"}
+{"at": [581, 121], "ev": "town_dot_click", "t": 1794322723, "who": "[AAA]阿黄乐哈"}
+{"ev": "build_no_indicator", "t": 1794322735, "who": "[AAA]阿黄乐哈"}
+{"ev": "crystal_none", "t": 1794322735, "who": "[AAA]阿黄乐哈"}
+{"res": "生肉", "ev": "gather_no_goto", "t": 1794322764, "who": "[AAA]阿黄乐哈"}
+{"res": "木材", "ev": "gather_panel_fail", "t": 1794322774, "who": "[AAA]阿黄乐哈"}
+{"res": "煤矿", "ev": "gather_no_card", "t": 1794322781, "who": "[AAA]阿黄乐哈"}
+{"res": "铁矿", "ev": "gather_no_card", "t": 1794322789, "who": "[AAA]阿黄乐哈"}
+{"res_ok": 0, "ev": "gather_round_done", "t": 1794322789, "who": "[AAA]阿黄乐哈"}
+{"task": 0, "mail": 0, "alliance": 5, "dots_clicked": 2, "build": 0, "crystal": 0, "gather": 0, "ev": "town_reddots_done", "t": 1794322789, "who": "[AAA]阿黄乐哈"}
+{"cycle": 1, "arrived": false, "ev": "idle_to_town", "t": 1794322798, "who": "[AAA]阿黄乐哈"}
+{"cycle": 2, "ev": "modal_back_fallback", "t": 1794322805, "who": "[AAA]阿黄乐哈"}
+{"cycle": 2, "pins_total": 0, "avatar": 0.203, "ev": "board_clear", "t": 1794322809, "who": "[AAA]阿黄乐哈"}
+{"explore_claimed": 0, "ev": "idle_sweep", "t": 1794322815, "who": "[AAA]阿黄乐哈"}
