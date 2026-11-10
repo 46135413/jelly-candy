@@ -8373,3 +8373,28 @@
 {"cycle": 12, "arrived": false, "ev": "idle_to_town", "t": 1794280504}
 {"cycle": 13, "score": 0.791, "at": [704, 184], "needed_back": false, "streak": 1, "ev": "modal_closed", "t": 1794280511}
 {"cycle": 14, "frm": "town", "to": "wild", "sw": 0.996, "st": 0.276, "ev": "view_switch", "t": 1794280514}
+{"cycle": 14, "pins_total": 1, "avatar": 0.203, "ev": "board_clear", "t": 1794280518}
+{"explore_claimed": 0, "ev": "idle_sweep", "t": 1794280524}
+{"rounds": 1, "badge_left": 247, "ev": "task_sweep", "t": 1794280544}
+{"tabs_claimed": 0, "badged_first": 0, "retry_tabs": 0, "still_badged": 0, "ev": "mail_sweep", "t": 1794280550}
+{"tabs_badged": [0, 1], "claims": 4, "ev": "box_claim", "t": 1794280569}
+{"badged": ["baoxiang", "huzhu", "lingdi", "shangdian"], "visited": ["baoxiang", "huzhu", "lingdi", "shangdian"], "claimed": 4, "back_town": true, "ev": "alliance_sweep", "t": 1794280591}
+{"at": [691, 122], "ev": "town_dot_click", "t": 1794280596}
+{"task": 1, "mail": 0, "alliance": 4, "dots_clicked": 1, "build": 0, "ev": "town_reddots_done", "t": 1794280600}
+{"cycle": 14, "arrived": false, "ev": "idle_to_town", "t": 1794280609}
+{"ev": "rotate_open_fail", "t": 1794280623}
+{"cycle": 15, "pins_total": 1, "avatar": 0.204, "ev": "board_clear", "t": 1794280637}
+{"explore_claimed": 0, "ev": "idle_sweep", "t": 1794280643}
+{"rounds": 0, "badge_left": 247, "ev": "task_sweep", "t": 1794280659}
+{"tabs_claimed": 0, "badged_first": 0, "retry_tabs": 0, "still_badged": 0, "ev": "mail_sweep", "t": 1794280664}
+{"tabs_badged": [0, 1], "claims": 4, "ev": "box_claim", "t": 1794280684}
+{"badged": ["baoxiang", "huzhu", "lingdi", "shangdian"], "visited": ["baoxiang", "huzhu", "lingdi", "shangdian"], "claimed": 5, "back_town": true, "ev": "alliance_sweep", "t": 1794280710}
+{"at": [692, 122], "ev": "town_dot_click", "t": 1794280715}
+{"task": 0, "mail": 0, "alliance": 5, "dots_clicked": 1, "build": 0, "ev": "town_reddots_done", "t": 1794280719}
+{"cycle": 15, "arrived": false, "ev": "idle_to_town", "t": 1794280728}
+{"ev": "rotate_open_fail", "t": 1794280742}
+{"cycle": 16, "pins_total": 1, "avatar": 0.202, "ev": "board_clear", "t": 1794280756}
+{"explore_claimed": 0, "ev": "idle_sweep", "t": 1794280762}
+{"rounds": 0, "badge_left": 246, "ev": "task_sweep", "t": 1794280778}
+{"tabs_claimed": 0, "badged_first": 0, "retry_tabs": 0, "still_badged": 0, "ev": "mail_sweep", "t": 1794280783}
+{"tabs_badged": [0, 1], "claims": 4, "ev": "box_claim", "t": 1794280803}
