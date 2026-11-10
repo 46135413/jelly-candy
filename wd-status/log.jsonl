@@ -1,11 +1,3 @@
-{"tabs_claimed": 2, "badged_first": 2, "retry_tabs": 0, "still_badged": 0, "ev": "mail_sweep", "t": 1794251118}
-{"badged": ["huzhu", "lingdi", "shangdian", "zhanzheng"], "visited": ["huzhu", "lingdi", "shangdian", "zhanzheng"], "claimed": 0, "back_town": true, "ev": "alliance_sweep", "t": 1794251146}
-{"opened": 0, "gifts_claimed": 0, "ev": "chat_read", "t": 1794251164}
-{"ev": "chat_read", "t": 1794251164}
-{"at": [581, 121], "ev": "town_dot_click", "t": 1794251168}
-{"task": 4, "mail": 2, "alliance": 0, "dots_clicked": 2, "ev": "town_reddots_done", "t": 1794251168}
-{"cycle": 22, "arrived": false, "ev": "idle_to_town", "t": 1794251177}
-{"cycle": 23, "score": 0.779, "at": [704, 185], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794251187}
 {"cycle": 24, "frm": "town", "to": "wild", "sw": 0.999, "st": 0.285, "ev": "view_switch", "t": 1794251189}
 {"cycle": 24, "pending_before": 0, "ev": "collected", "t": 1794251195}
 {"cycle": 25, "pins_total": 2, "avatar": 0.203, "ev": "board_clear", "t": 1794251197}
@@ -8998,3 +8990,11 @@
 {"ev": "stamina_no_meal", "t": 1794321590, "who": "[AAA]阿黄乐哈"}
 {"cycle": 2, "pins_total": 2, "avatar": 0.186, "ev": "board_clear", "t": 1794321592, "who": "[AAA]阿黄乐哈"}
 {"explore_claimed": 1, "ev": "idle_sweep", "t": 1794321605, "who": "[AAA]阿黄乐哈"}
+{"tabs_claimed": 1, "badged_first": 1, "retry_tabs": 0, "still_badged": 0, "ev": "mail_sweep", "t": 1794321618, "who": "[AAA]阿黄乐哈"}
+{"tabs_badged": [1, 0], "claims": 4, "ev": "box_claim", "t": 1794321638, "who": "[AAA]阿黄乐哈"}
+{"badged": ["baoxiang", "huzhu", "lingdi", "shangdian"], "visited": ["baoxiang", "huzhu", "lingdi", "shangdian"], "claimed": 4, "back_town": true, "ev": "alliance_sweep", "t": 1794321660, "who": "[AAA]阿黄乐哈"}
+{"opened": 0, "gifts_claimed": 0, "ev": "chat_read", "t": 1794321678, "who": "[AAA]阿黄乐哈"}
+{"ev": "chat_read", "t": 1794321678, "who": "[AAA]阿黄乐哈"}
+{"at": [581, 122], "ev": "town_dot_click", "t": 1794321682, "who": "[AAA]阿黄乐哈"}
+{"ev": "build_no_indicator", "t": 1794321694, "who": "[AAA]阿黄乐哈"}
+{"ev": "crystal_none", "t": 1794321694, "who": "[AAA]阿黄乐哈"}
