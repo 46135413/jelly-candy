@@ -1,15 +1,3 @@
-{"cycle": 16, "at": [206, 690], "wins_so_far": 4, "pending": 1, "ev": "sortie_sent", "t": 1794251036}
-{"cycle": 17, "at": [516, 670], "area": 2866, "cls": "other", "yellow_left": 1, "ev": "pin_pick", "t": 1794251043}
-{"cycle": 17, "at": [359, 932], "attempt": 1, "ev": "goto_tap", "t": 1794251044}
-{"cycle": 17, "at": [359, 627], "ev": "target_btn", "t": 1794251045}
-{"cycle": 17, "at": [516, 670], "wins_so_far": 4, "pending": 2, "ev": "sortie_sent", "t": 1794251046}
-{"cycle": 18, "at": [482, 806], "area": 3991, "cls": "yellow", "yellow_left": 1, "ev": "pin_pick", "t": 1794251053}
-{"cycle": 18, "at": [359, 870], "attempt": 1, "ev": "goto_tap", "t": 1794251054}
-{"cycle": 18, "at": [359, 627], "ev": "target_btn", "t": 1794251055}
-{"cycle": 18, "at": [482, 806], "wins_so_far": 4, "pending": 3, "ev": "sortie_sent", "t": 1794251056}
-{"cycle": 19, "pending_before": 3, "ev": "collected", "t": 1794251065}
-{"cycle": 20, "pending_before": 0, "ev": "collected", "t": 1794251069}
-{"cycle": 21, "at": [482, 780], "area": 1392, "cls": "yellow", "yellow_left": 1, "ev": "pin_pick", "t": 1794251071}
 {"cycle": 21, "at": [482, 780], "reason": "no_target_panel", "blacked": 2, "ev": "blacklisted", "t": 1794251075}
 {"cycle": 22, "pins_total": 3, "avatar": 0.203, "ev": "board_clear", "t": 1794251078}
 {"explore_claimed": 0, "ev": "idle_sweep", "t": 1794251085}
@@ -8998,3 +8986,15 @@
 {"ev": "stamina_no_meal", "t": 1794321005, "who": "[AAA]阿黄乐哈"}
 {"cycle": 1, "pins_total": 2, "avatar": 0.186, "ev": "board_clear", "t": 1794321007, "who": "[AAA]阿黄乐哈"}
 {"explore_claimed": 0, "ev": "idle_sweep", "t": 1794321016, "who": "[AAA]阿黄乐哈"}
+{"tabs_claimed": 0, "badged_first": 0, "retry_tabs": 0, "still_badged": 0, "ev": "mail_sweep", "t": 1794321024, "who": "[AAA]阿黄乐哈"}
+{"cycle": 1, "score": 0.369, "ev": "entry_blind_wild", "t": 1794321156, "who": "[AAA]阿黄乐哈"}
+{"cycle": 1, "score": 0.377, "ev": "entry_blind_wild", "t": 1794321159, "who": "[AAA]阿黄乐哈"}
+{"cycle": 1, "score": 0.362, "ev": "entry_blind_wild", "t": 1794321163, "who": "[AAA]阿黄乐哈"}
+{"cycle": 1, "score": 0.375, "ev": "entry_blind_wild", "t": 1794321166, "who": "[AAA]阿黄乐哈"}
+{"cycle": 1, "tries": 4, "ev": "not_board", "t": 1794321166, "who": "[AAA]阿黄乐哈"}
+{"cycle": 2, "score": 0.365, "ev": "entry_blind_wild", "t": 1794321190, "who": "[AAA]阿黄乐哈"}
+{"cycle": 2, "score": 0.379, "ev": "entry_blind_wild", "t": 1794321194, "who": "[AAA]阿黄乐哈"}
+{"cycle": 2, "score": 0.376, "ev": "entry_blind_wild", "t": 1794321197, "who": "[AAA]阿黄乐哈"}
+{"cycle": 2, "score": 0.379, "ev": "entry_blind_wild", "t": 1794321201, "who": "[AAA]阿黄乐哈"}
+{"cycle": 2, "tries": 4, "ev": "not_board", "t": 1794321201, "who": "[AAA]阿黄乐哈"}
+{"cycle": 3, "score": 0.388, "ev": "entry_blind_wild", "t": 1794321224, "who": "[AAA]阿黄乐哈"}
