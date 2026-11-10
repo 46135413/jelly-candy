@@ -8747,3 +8747,39 @@
 {"cycle": 13, "pins_total": 1, "avatar": 0.208, "ev": "board_clear", "t": 1794285281, "who": "[CHA]领主1198376138"}
 {"explore_claimed": 1, "ev": "idle_sweep", "t": 1794285292, "who": "[CHA]领主1198376138"}
 {"tabs_claimed": 0, "badged_first": 0, "retry_tabs": 0, "still_badged": 0, "ev": "mail_sweep", "t": 1794285303, "who": "[CHA]领主1198376138"}
+{"tabs_badged": [1, 0], "claims": 4, "ev": "box_claim", "t": 1794285324, "who": "[CHA]领主1198376138"}
+{"badged": ["baoxiang", "huzhu", "lingdi", "shangdian"], "visited": ["baoxiang", "huzhu", "lingdi", "shangdian"], "claimed": 4, "back_town": true, "ev": "alliance_sweep", "t": 1794285346, "who": "[CHA]领主1198376138"}
+{"opened": 0, "gifts_claimed": 0, "ev": "chat_read", "t": 1794285365, "who": "[CHA]领主1198376138"}
+{"ev": "chat_read", "t": 1794285365, "who": "[CHA]领主1198376138"}
+{"at": [581, 121], "ev": "town_dot_click", "t": 1794285370, "who": "[CHA]领主1198376138"}
+{"task": 0, "mail": 0, "alliance": 4, "dots_clicked": 2, "build": 0, "ev": "town_reddots_done", "t": 1794285374, "who": "[CHA]领主1198376138"}
+{"cycle": 13, "arrived": false, "ev": "idle_to_town", "t": 1794285383, "who": "[CHA]领主1198376138"}
+{"screens": 3, "found": 4, "total": 5, "ev": "roster_scan", "t": 1794285426, "who": "[CHA]领主1198376138"}
+{"at": [360, 856], "orange_cy": 621, "ev": "rotate_card_tapped", "t": 1794285436, "who": "[CHA]领主1198376138"}
+{"in_town": true, "target": null, "ev": "rotate_done", "t": 1794285458, "who": "[CHA]领主1198376138"}
+{"cycle": 13, "ev": "rotated", "t": 1794285458, "who": "[CHA]领主1198376138"}
+{"cycle": 14, "frm": "town", "to": "wild", "sw": 0.99, "st": 0.255, "ev": "view_switch", "t": 1794285471, "who": "[CHA]领主1198376138"}
+{"cycle": 14, "at": [396, 791], "area": 2482, "cls": "yellow", "yellow_left": 1, "ev": "pin_pick", "t": 1794285474, "who": "[CHA]领主1198376138"}
+{"cycle": 14, "at": [359, 870], "attempt": 1, "ev": "goto_tap", "t": 1794285475, "who": "[CHA]领主1198376138"}
+{"cycle": 14, "at": [359, 627], "ev": "target_btn", "t": 1794285476, "who": "[CHA]领主1198376138"}
+{"cycle": 14, "at": [396, 791], "reason": "red_warning", "blacked": 3, "ev": "blacklisted", "t": 1794285478, "who": "[CHA]领主1198376138"}
+{"cycle": 15, "ev": "exit_popup_dismissed", "t": 1794285480, "who": "[CHA]领主1198376138"}
+{"cycle": 16, "pins_total": 1, "avatar": 0.197, "ev": "board_clear", "t": 1794285486, "who": "[CHA]领主1198376138"}
+{"explore_claimed": 1, "ev": "idle_sweep", "t": 1794285497, "who": "[CHA]领主1198376138"}
+{"rounds": 0, "badge_left": 212, "ev": "task_sweep", "t": 1794285512, "who": "[CHA]领主1198376138"}
+{"score": 0.107, "ev": "mail_open_fail", "t": 1794285515, "who": "[CHA]领主1198376138"}
+{"ev": "alliance_no_badges", "t": 1794285521, "who": "[CHA]领主1198376138"}
+{"at": [581, 217], "ev": "town_dot_click", "t": 1794285526, "who": "[CHA]领主1198376138"}
+{"at": [692, 122], "ev": "town_dot_click", "t": 1794285531, "who": "[CHA]领主1198376138"}
+{"task": 0, "mail": 0, "alliance": 0, "dots_clicked": 2, "build": 0, "ev": "town_reddots_done", "t": 1794285535, "who": "[CHA]领主1198376138"}
+{"cycle": 16, "arrived": false, "ev": "idle_to_town", "t": 1794285544, "who": "[CHA]领主1198376138"}
+{"cycle": 17, "score": 0.791, "at": [704, 184], "needed_back": false, "streak": 1, "ev": "modal_closed", "t": 1794285551, "who": "[CHA]领主1198376138"}
+{"cycle": 18, "frm": "town", "to": "wild", "sw": 0.985, "st": 0.264, "ev": "view_switch", "t": 1794285554, "who": "[CHA]领主1198376138"}
+{"cycle": 18, "pins_total": 1, "avatar": 0.203, "ev": "board_clear", "t": 1794285557, "who": "[CHA]领主1198376138"}
+{"explore_claimed": 0, "ev": "idle_sweep", "t": 1794285563, "who": "[CHA]领主1198376138"}
+{"rounds": 0, "badge_left": 249, "ev": "task_sweep", "t": 1794285579, "who": "[CHA]领主1198376138"}
+{"score": 0.107, "ev": "mail_open_fail", "t": 1794285582, "who": "[CHA]领主1198376138"}
+{"ev": "alliance_no_badges", "t": 1794285588, "who": "[CHA]领主1198376138"}
+{"at": [692, 121], "ev": "town_dot_click", "t": 1794285593, "who": "[CHA]领主1198376138"}
+{"task": 0, "mail": 0, "alliance": 0, "dots_clicked": 1, "build": 0, "ev": "town_reddots_done", "t": 1794285597, "who": "[CHA]领主1198376138"}
+{"cycle": 18, "arrived": false, "ev": "idle_to_town", "t": 1794285606, "who": "[CHA]领主1198376138"}
