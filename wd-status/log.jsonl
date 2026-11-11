@@ -1,11 +1,3 @@
-{"ev": "crystal_none", "t": 1794332531, "who": "[AAA]阿黄单防"}
-{"res": "生肉", "ev": "gather_no_result", "t": 1794332558, "who": "[AAA]阿黄单防"}
-{"res": "木材", "ev": "gather_no_result", "t": 1794332579, "who": "[AAA]阿黄单防"}
-{"res": "煤矿", "ev": "gather_no_goto", "t": 1794332604, "who": "[AAA]阿黄单防"}
-{"res": "铁矿", "ev": "gather_no_goto", "t": 1794332633, "who": "[AAA]阿黄单防"}
-{"res_ok": 0, "ev": "gather_round_done", "t": 1794332637, "who": "[AAA]阿黄单防"}
-{"drew": 2, "ev": "hero_free_draw", "t": 1794332679, "who": "[AAA]阿黄单防"}
-{"remaining_before": 5, "ev": "pet_treasure_sent", "t": 1794332718, "who": "[AAA]阿黄单防"}
 {"task": 1, "mail": 5, "alliance": 4, "dots_clicked": 2, "build": 0, "crystal": 0, "gather": 0, "hero": 2, "pet": 1, "ev": "town_reddots_done", "t": 1794332718, "who": "[AAA]阿黄单防"}
 {"cycle": 35, "arrived": true, "ev": "idle_to_town", "t": 1794332723, "who": "[AAA]阿黄单防"}
 {"cycle": 36, "score": 0.81, "at": [621, 117], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794332729, "who": "[AAA]阿黄单防"}
@@ -8998,3 +8990,11 @@
 {"cycle": 5, "arrived": true, "ev": "idle_to_town", "t": 1794410087, "who": "[AAA]阿黄乐哈"}
 {"screens": 2, "found": 5, "total": 5, "via": "ocr", "ev": "roster_scan", "t": 1794410111, "who": "[AAA]阿黄乐哈"}
 {"at": [351, 813], "target": "[CHA]领主1197490644", "from_cur": "[AAA]阿黄乐哈", "ev": "rotate_card_tapped", "t": 1794410121, "who": "[AAA]阿黄乐哈"}
+{"reason": "rotate", "ev": "blacklist_cleared", "t": 1794410148, "who": "[CHA]领主1197490644"}
+{"in_town": true, "target": "[CHA]领主1197490644", "ev": "rotate_done", "t": 1794410148, "who": "[CHA]领主1197490644"}
+{"cycle": 5, "ev": "rotated", "t": 1794410148, "who": "[CHA]领主1197490644"}
+{"cycle": 6, "frm": "town", "to": "wild", "sw": 0.993, "st": 0.27, "ev": "view_switch", "t": 1794410160, "who": "[CHA]领主1197490644"}
+{"cycle": 6, "at": [401, 808], "area": 4109, "cls": "yellow", "yellow_left": 1, "ev": "pin_pick", "t": 1794410164, "who": "[CHA]领主1197490644"}
+{"cycle": 6, "at": [359, 870], "attempt": 1, "ev": "goto_tap", "t": 1794410165, "who": "[CHA]领主1197490644"}
+{"cycle": 6, "at": [359, 627], "ev": "target_btn", "t": 1794410166, "who": "[CHA]领主1197490644"}
+{"cycle": 6, "at": [401, 808], "wins_so_far": 0, "pending": 1, "ev": "sortie_sent", "t": 1794410167, "who": "[CHA]领主1197490644"}
