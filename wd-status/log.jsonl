@@ -1,33 +1,3 @@
-{"cycle": 212, "at": [359, 870], "attempt": 1, "ev": "goto_tap", "t": 1794301887, "who": "[CHA]领主1198376138"}
-{"cycle": 212, "at": [359, 627], "ev": "target_btn", "t": 1794301888, "who": "[CHA]领主1198376138"}
-{"cycle": 212, "at": [400, 809], "wins_so_far": 23, "pending": 1, "ev": "sortie_sent", "t": 1794301889, "who": "[CHA]领主1198376138"}
-{"cycle": 213, "at": [251, 475], "area": 1319, "cls": "yellow", "yellow_left": 1, "ev": "pin_pick", "t": 1794301896, "who": "[CHA]领主1198376138"}
-{"cycle": 213, "at": [251, 475], "reason": "no_target_panel", "blacked": 34, "ev": "blacklisted", "t": 1794301900, "who": "[CHA]领主1198376138"}
-{"cycle": 1, "score": 0.835, "at": [622, 115], "needed_back": false, "streak": 1, "ev": "modal_closed", "t": 1794302171, "who": "[CHA]领主1198376138"}
-{"cycle": 2, "frm": "town", "to": "wild", "sw": 0.991, "st": 0.264, "ev": "view_switch", "t": 1794302173, "who": "[CHA]领主1198376138"}
-{"ev": "stamina_no_meal", "t": 1794302178, "who": "[CHA]领主1198376138"}
-{"cycle": 2, "at": [118, 343], "area": 777, "cls": "other", "yellow_left": 1, "ev": "pin_pick", "t": 1794302180, "who": "[CHA]领主1198376138"}
-{"cycle": 2, "at": [118, 343], "reason": "no_target_panel", "blacked": 1, "ev": "blacklisted", "t": 1794302183, "who": "[CHA]领主1198376138"}
-{"cycle": 3, "score": 0.966, "at": [695, 103], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794302191, "who": "[CHA]领主1198376138"}
-{"cycle": 4, "at": [400, 810], "area": 3973, "cls": "yellow", "yellow_left": 1, "ev": "pin_pick", "t": 1794302191, "who": "[CHA]领主1198376138"}
-{"cycle": 4, "at": [359, 870], "attempt": 1, "ev": "goto_tap", "t": 1794302192, "who": "[CHA]领主1198376138"}
-{"cycle": 4, "at": [359, 627], "ev": "target_btn", "t": 1794302193, "who": "[CHA]领主1198376138"}
-{"cycle": 4, "at": [400, 810], "wins_so_far": 0, "pending": 1, "ev": "sortie_sent", "t": 1794302195, "who": "[CHA]领主1198376138"}
-{"cycle": 5, "pending": 1, "ev": "pending_wait_timeout", "t": 1794302291, "who": "[CHA]领主1198376138"}
-{"cycle": 6, "at": [401, 808], "area": 4137, "cls": "yellow", "yellow_left": 1, "ev": "pin_pick", "t": 1794302292, "who": "[CHA]领主1198376138"}
-{"cycle": 6, "at": [359, 870], "attempt": 1, "ev": "goto_tap", "t": 1794302293, "who": "[CHA]领主1198376138"}
-{"cycle": 6, "at": [359, 627], "ev": "target_btn", "t": 1794302294, "who": "[CHA]领主1198376138"}
-{"cycle": 6, "at": [401, 808], "wins_so_far": 0, "pending": 1, "ev": "sortie_sent", "t": 1794302295, "who": "[CHA]领主1198376138"}
-{"cycle": 7, "pending": 1, "ev": "pending_wait_timeout", "t": 1794302392, "who": "[CHA]领主1198376138"}
-{"cycle": 8, "at": [401, 808], "area": 4162, "cls": "yellow", "yellow_left": 1, "ev": "pin_pick", "t": 1794302393, "who": "[CHA]领主1198376138"}
-{"cycle": 8, "at": [359, 870], "attempt": 1, "ev": "goto_tap", "t": 1794302394, "who": "[CHA]领主1198376138"}
-{"cycle": 8, "at": [359, 627], "ev": "target_btn", "t": 1794302395, "who": "[CHA]领主1198376138"}
-{"cycle": 8, "at": [401, 808], "wins_so_far": 0, "pending": 1, "ev": "sortie_sent", "t": 1794302396, "who": "[CHA]领主1198376138"}
-{"cycle": 9, "pending": 1, "ev": "pending_wait_timeout", "t": 1794302494, "who": "[CHA]领主1198376138"}
-{"cycle": 10, "at": [400, 809], "area": 4047, "cls": "yellow", "yellow_left": 1, "ev": "pin_pick", "t": 1794302494, "who": "[CHA]领主1198376138"}
-{"cycle": 10, "at": [359, 870], "attempt": 1, "ev": "goto_tap", "t": 1794302495, "who": "[CHA]领主1198376138"}
-{"cycle": 10, "at": [359, 627], "ev": "target_btn", "t": 1794302496, "who": "[CHA]领主1198376138"}
-{"cycle": 10, "at": [400, 809], "wins_so_far": 0, "pending": 1, "ev": "sortie_sent", "t": 1794302497, "who": "[CHA]领主1198376138"}
 {"cycle": 11, "pending": 1, "ev": "pending_wait_timeout", "t": 1794302594, "who": "[CHA]领主1198376138"}
 {"cycle": 12, "at": [401, 808], "area": 4173, "cls": "yellow", "yellow_left": 1, "ev": "pin_pick", "t": 1794302594, "who": "[CHA]领主1198376138"}
 {"cycle": 12, "at": [359, 870], "attempt": 1, "ev": "goto_tap", "t": 1794302595, "who": "[CHA]领主1198376138"}
@@ -8998,3 +8968,33 @@
 {"cycle": 109, "at": [359, 932], "attempt": 1, "ev": "goto_tap", "t": 1794390588, "who": "[AAA]阿黄单防"}
 {"cycle": 109, "at": [359, 628], "ev": "target_btn", "t": 1794390589, "who": "[AAA]阿黄单防"}
 {"cycle": 109, "at": [539, 585], "wins_so_far": 21, "pending": 2, "ev": "sortie_sent", "t": 1794390591, "who": "[AAA]阿黄单防"}
+{"cycle": 110, "pending": 2, "blacked": 2, "ev": "pending_wait_timeout", "t": 1794390685, "who": "[AAA]阿黄单防"}
+{"cycle": 111, "at": [380, 453], "area": 869, "cls": "yellow", "yellow_left": 1, "ev": "pin_pick", "t": 1794390687, "who": "[AAA]阿黄单防"}
+{"cycle": 111, "at": [380, 453], "reason": "no_target_panel", "blacked": 27, "ev": "blacklisted", "t": 1794390690, "who": "[AAA]阿黄单防"}
+{"cycle": 112, "pending_before": 0, "ev": "collected", "t": 1794390697, "who": "[AAA]阿黄单防"}
+{"cycle": 113, "at": [568, 389], "area": 4170, "cls": "yellow", "yellow_left": 1, "ev": "pin_pick", "t": 1794390700, "who": "[AAA]阿黄单防"}
+{"cycle": 113, "at": [359, 870], "attempt": 1, "ev": "goto_tap", "t": 1794390701, "who": "[AAA]阿黄单防"}
+{"cycle": 113, "at": [359, 627], "ev": "target_btn", "t": 1794390702, "who": "[AAA]阿黄单防"}
+{"cycle": 113, "at": [568, 389], "wins_so_far": 22, "pending": 1, "ev": "sortie_sent", "t": 1794390704, "who": "[AAA]阿黄单防"}
+{"cycle": 114, "pending_before": 1, "reason": "pending_marches", "ev": "collected", "t": 1794390732, "who": "[AAA]阿黄单防"}
+{"cycle": 115, "at": [290, 317], "area": 742, "cls": "other", "yellow_left": 0, "ev": "pin_pick", "t": 1794390733, "who": "[AAA]阿黄单防"}
+{"cycle": 115, "at": [290, 317], "reason": "no_target_panel", "blacked": 28, "ev": "blacklisted", "t": 1794390737, "who": "[AAA]阿黄单防"}
+{"cycle": 116, "pins_total": 3, "avatar": 0.203, "ev": "board_clear", "t": 1794390741, "who": "[AAA]阿黄单防"}
+{"explore_claimed": 1, "ev": "idle_sweep", "t": 1794390752, "who": "[AAA]阿黄单防"}
+{"tabs_claimed": 4, "badged_first": 2, "retry_tabs": 2, "still_badged": 1, "ev": "mail_sweep", "t": 1794390773, "who": "[AAA]阿黄单防"}
+{"tabs_badged": [1, 0], "claims": 4, "ev": "box_claim", "t": 1794390793, "who": "[AAA]阿黄单防"}
+{"at": [315, 989], "ev": "perm_donated", "t": 1794390837, "who": "[AAA]阿黄单防"}
+{"badged": ["baoxiang", "huzhu", "keji", "lingdi", "shangdian"], "visited": ["baoxiang", "huzhu", "keji", "lingdi", "shangdian"], "claimed": 6, "back_town": true, "ev": "alliance_sweep", "t": 1794390842, "who": "[AAA]阿黄单防"}
+{"opened": 0, "gifts_claimed": 0, "ev": "chat_read", "t": 1794390863, "who": "[AAA]阿黄单防"}
+{"ev": "chat_read", "t": 1794390863, "who": "[AAA]阿黄单防"}
+{"at": [581, 121], "ev": "town_dot_click", "t": 1794390868, "who": "[AAA]阿黄单防"}
+{"ev": "build_no_indicator", "t": 1794390880, "who": "[AAA]阿黄单防"}
+{"ev": "crystal_none", "t": 1794390880, "who": "[AAA]阿黄单防"}
+{"ev": "academy_no_entry", "t": 1794390881, "who": "[AAA]阿黄单防"}
+{"ev": "dixin_no_entry", "t": 1794390881, "who": "[AAA]阿黄单防"}
+{"task": 0, "mail": 4, "alliance": 6, "dots_clicked": 2, "build": 0, "crystal": 0, "gather": -1, "hero": -1, "pet": -1, "ev": "town_reddots_done", "t": 1794390881, "who": "[AAA]阿黄单防"}
+{"cycle": 116, "arrived": true, "ev": "idle_to_town", "t": 1794390882, "who": "[AAA]阿黄单防"}
+{"cycle": 117, "frm": "town", "to": "wild", "sw": 0.999, "st": 0.285, "ev": "view_switch", "t": 1794390886, "who": "[AAA]阿黄单防"}
+{"cycle": 117, "pins_total": 3, "avatar": 0.199, "ev": "board_clear", "t": 1794390890, "who": "[AAA]阿黄单防"}
+{"explore_claimed": 0, "ev": "idle_sweep", "t": 1794390896, "who": "[AAA]阿黄单防"}
+{"tabs_claimed": 2, "badged_first": 1, "retry_tabs": 1, "still_badged": 1, "ev": "mail_sweep", "t": 1794390909, "who": "[AAA]阿黄单防"}
