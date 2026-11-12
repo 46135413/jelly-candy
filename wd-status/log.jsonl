@@ -1,4 +1,3 @@
-{"cycle": 65, "score": 0.697, "at": [693, 111], "needed_back": true, "streak": 2, "ev": "modal_closed", "t": 1794348278, "who": "[CHA]领主1197490644"}
 {"cycle": 66, "streak": 3, "view": null, "ev": "modal_streak_break", "t": 1794348283, "who": "[CHA]领主1197490644"}
 {"cycle": 66, "score": 0.537, "at": [704, 88], "needed_back": true, "streak": 0, "ev": "modal_closed", "t": 1794348283, "who": "[CHA]领主1197490644"}
 {"cycle": 67, "score": 0.698, "at": [678, 126], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794348287, "who": "[CHA]领主1197490644"}
@@ -8998,3 +8997,4 @@
 {"cycle": 78, "pins_total": 6, "avatar": 0.115, "ev": "board_clear", "t": 1794494800, "who": "[AAA]笑傲AAA"}
 {"explore_claimed": 1, "ev": "idle_sweep", "t": 1794494811, "who": "[AAA]笑傲AAA"}
 {"reason": "not_town", "ev": "mail_skip", "t": 1794494827, "who": "[AAA]笑傲AAA"}
+{"cycle": 1, "ev": "frame_dead", "t": 1794524453, "who": "[CHA]领主1193343915"}
