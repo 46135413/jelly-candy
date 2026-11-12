@@ -1,32 +1,3 @@
-{"cycle": 264, "streak": 3, "view": null, "ev": "modal_streak_break", "t": 1794344217, "who": "[CHA]领主1197490644"}
-{"cycle": 264, "score": 0.695, "at": [695, 109], "needed_back": true, "streak": 0, "ev": "modal_closed", "t": 1794344217, "who": "[CHA]领主1197490644"}
-{"cycle": 265, "score": 0.698, "at": [680, 124], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794344221, "who": "[CHA]领主1197490644"}
-{"cycle": 266, "score": 0.578, "at": [704, 88], "needed_back": true, "streak": 2, "ev": "modal_closed", "t": 1794344226, "who": "[CHA]领主1197490644"}
-{"cycle": 267, "streak": 3, "view": null, "ev": "modal_streak_break", "t": 1794344230, "who": "[CHA]领主1197490644"}
-{"cycle": 267, "score": 0.698, "at": [678, 126], "needed_back": true, "streak": 0, "ev": "modal_closed", "t": 1794344230, "who": "[CHA]领主1197490644"}
-{"cycle": 268, "score": 0.696, "at": [688, 116], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794344234, "who": "[CHA]领主1197490644"}
-{"cycle": 269, "score": 0.699, "at": [701, 103], "needed_back": true, "streak": 2, "ev": "modal_closed", "t": 1794344238, "who": "[CHA]领主1197490644"}
-{"cycle": 270, "streak": 3, "view": null, "ev": "modal_streak_break", "t": 1794344243, "who": "[CHA]领主1197490644"}
-{"cycle": 270, "score": 0.697, "at": [678, 126], "needed_back": true, "streak": 0, "ev": "modal_closed", "t": 1794344243, "who": "[CHA]领主1197490644"}
-{"cycle": 271, "score": 0.566, "at": [679, 129], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794344247, "who": "[CHA]领主1197490644"}
-{"cycle": 272, "score": 0.695, "at": [677, 126], "needed_back": true, "streak": 2, "ev": "modal_closed", "t": 1794344251, "who": "[CHA]领主1197490644"}
-{"cycle": 273, "streak": 3, "view": null, "ev": "modal_streak_break", "t": 1794344256, "who": "[CHA]领主1197490644"}
-{"cycle": 273, "score": 0.696, "at": [688, 116], "needed_back": true, "streak": 0, "ev": "modal_closed", "t": 1794344256, "who": "[CHA]领主1197490644"}
-{"cycle": 274, "score": 0.697, "at": [693, 111], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794344260, "who": "[CHA]领主1197490644"}
-{"cycle": 275, "score": 0.578, "at": [704, 88], "needed_back": true, "streak": 2, "ev": "modal_closed", "t": 1794344264, "who": "[CHA]领主1197490644"}
-{"cycle": 276, "streak": 3, "view": null, "ev": "modal_streak_break", "t": 1794344268, "who": "[CHA]领主1197490644"}
-{"cycle": 276, "score": 0.566, "at": [679, 129], "needed_back": true, "streak": 0, "ev": "modal_closed", "t": 1794344268, "who": "[CHA]领主1197490644"}
-{"cycle": 277, "score": 0.696, "at": [682, 122], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794344273, "who": "[CHA]领主1197490644"}
-{"cycle": 278, "score": 0.698, "at": [697, 107], "needed_back": true, "streak": 2, "ev": "modal_closed", "t": 1794344277, "who": "[CHA]领主1197490644"}
-{"cycle": 279, "streak": 3, "view": null, "ev": "modal_streak_break", "t": 1794344281, "who": "[CHA]领主1197490644"}
-{"cycle": 279, "score": 0.696, "at": [688, 116], "needed_back": true, "streak": 0, "ev": "modal_closed", "t": 1794344281, "who": "[CHA]领主1197490644"}
-{"cycle": 280, "score": 0.578, "at": [704, 88], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794344286, "who": "[CHA]领主1197490644"}
-{"cycle": 281, "score": 0.698, "at": [678, 126], "needed_back": true, "streak": 2, "ev": "modal_closed", "t": 1794344290, "who": "[CHA]领主1197490644"}
-{"cycle": 282, "streak": 3, "view": null, "ev": "modal_streak_break", "t": 1794344294, "who": "[CHA]领主1197490644"}
-{"cycle": 282, "score": 0.695, "at": [682, 122], "needed_back": true, "streak": 0, "ev": "modal_closed", "t": 1794344294, "who": "[CHA]领主1197490644"}
-{"cycle": 283, "score": 0.694, "at": [701, 102], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794344298, "who": "[CHA]领主1197490644"}
-{"cycle": 284, "score": 0.697, "at": [678, 126], "needed_back": true, "streak": 2, "ev": "modal_closed", "t": 1794344303, "who": "[CHA]领主1197490644"}
-{"cycle": 285, "streak": 3, "view": null, "ev": "modal_streak_break", "t": 1794344307, "who": "[CHA]领主1197490644"}
 {"cycle": 285, "score": 0.578, "at": [704, 88], "needed_back": true, "streak": 0, "ev": "modal_closed", "t": 1794344307, "who": "[CHA]领主1197490644"}
 {"cycle": 286, "score": 0.695, "at": [677, 126], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794344311, "who": "[CHA]领主1197490644"}
 {"cycle": 287, "score": 0.695, "at": [691, 113], "needed_back": true, "streak": 2, "ev": "modal_closed", "t": 1794344315, "who": "[CHA]领主1197490644"}
@@ -8998,3 +8969,32 @@
 {"cycle": 14, "ev": "screen_loading", "t": 1794477013, "who": "[CHA]领主1197490644"}
 {"cycle": 15, "ev": "screen_loading", "t": 1794477023, "who": "[CHA]领主1197490644"}
 {"cycle": 16, "ev": "screen_loading", "t": 1794477034, "who": "[CHA]领主1197490644"}
+{"cycle": 17, "ev": "screen_loading", "t": 1794477044, "who": "[CHA]领主1197490644"}
+{"cycle": 18, "ev": "screen_loading", "t": 1794477054, "who": "[CHA]领主1197490644"}
+{"cycle": 19, "ev": "screen_loading", "t": 1794477065, "who": "[CHA]领主1197490644"}
+{"cycle": 20, "ev": "screen_loading", "t": 1794477075, "who": "[CHA]领主1197490644"}
+{"cycle": 21, "ev": "screen_loading", "t": 1794477085, "who": "[CHA]领主1197490644"}
+{"cycle": 22, "ev": "screen_loading", "t": 1794477096, "who": "[CHA]领主1197490644"}
+{"cycle": 23, "ev": "screen_loading", "t": 1794477106, "who": "[CHA]领主1197490644"}
+{"cycle": 24, "ev": "screen_loading", "t": 1794477116, "who": "[CHA]领主1197490644"}
+{"cycle": 25, "ev": "screen_loading", "t": 1794477126, "who": "[CHA]领主1197490644"}
+{"cycle": 26, "ev": "screen_loading", "t": 1794477137, "who": "[CHA]领主1197490644"}
+{"cycle": 27, "ev": "screen_loading", "t": 1794477147, "who": "[CHA]领主1197490644"}
+{"cycle": 28, "ev": "screen_loading", "t": 1794477157, "who": "[CHA]领主1197490644"}
+{"cycle": 29, "ev": "screen_loading", "t": 1794477168, "who": "[CHA]领主1197490644"}
+{"cycle": 30, "ev": "screen_loading", "t": 1794477178, "who": "[CHA]领主1197490644"}
+{"cycle": 31, "ev": "screen_loading", "t": 1794477188, "who": "[CHA]领主1197490644"}
+{"cycle": 32, "ev": "screen_loading", "t": 1794477199, "who": "[CHA]领主1197490644"}
+{"cycle": 33, "ev": "screen_loading", "t": 1794477209, "who": "[CHA]领主1197490644"}
+{"cycle": 34, "ev": "screen_loading", "t": 1794477219, "who": "[CHA]领主1197490644"}
+{"cycle": 35, "ev": "screen_loading", "t": 1794477230, "who": "[CHA]领主1197490644"}
+{"cycle": 36, "ev": "screen_loading", "t": 1794477240, "who": "[CHA]领主1197490644"}
+{"cycle": 37, "ev": "screen_loading", "t": 1794477250, "who": "[CHA]领主1197490644"}
+{"cycle": 38, "ev": "screen_loading", "t": 1794477261, "who": "[CHA]领主1197490644"}
+{"cycle": 39, "ev": "screen_loading", "t": 1794477271, "who": "[CHA]领主1197490644"}
+{"cycle": 40, "ev": "screen_loading", "t": 1794477281, "who": "[CHA]领主1197490644"}
+{"cycle": 41, "ev": "screen_loading", "t": 1794477292, "who": "[CHA]领主1197490644"}
+{"cycle": 42, "ev": "screen_loading", "t": 1794477302, "who": "[CHA]领主1197490644"}
+{"cycle": 43, "ev": "screen_loading", "t": 1794477312, "who": "[CHA]领主1197490644"}
+{"cycle": 44, "ev": "screen_loading", "t": 1794477323, "who": "[CHA]领主1197490644"}
+{"cycle": 45, "ev": "screen_loading", "t": 1794477333, "who": "[CHA]领主1197490644"}
