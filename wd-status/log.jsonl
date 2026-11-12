@@ -1,6 +1,3 @@
-{"cycle": 90, "streak": 3, "view": null, "ev": "modal_streak_break", "t": 1794346586, "who": "[CHA]领主1197490644"}
-{"cycle": 90, "score": 0.537, "at": [704, 88], "needed_back": true, "streak": 0, "ev": "modal_closed", "t": 1794346586, "who": "[CHA]领主1197490644"}
-{"cycle": 91, "score": 0.696, "at": [678, 126], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794346590, "who": "[CHA]领主1197490644"}
 {"cycle": 92, "score": 0.697, "at": [693, 111], "needed_back": true, "streak": 2, "ev": "modal_closed", "t": 1794346594, "who": "[CHA]领主1197490644"}
 {"cycle": 93, "streak": 3, "view": null, "ev": "modal_streak_break", "t": 1794346599, "who": "[CHA]领主1197490644"}
 {"cycle": 93, "score": 0.696, "at": [700, 104], "needed_back": true, "streak": 0, "ev": "modal_closed", "t": 1794346599, "who": "[CHA]领主1197490644"}
@@ -8998,3 +8995,6 @@
 {"cycle": 10, "at": [359, 952], "attempt": 1, "ev": "goto_tap", "t": 1794489229, "who": "[CHA]领主1197490644"}
 {"cycle": 10, "at": [359, 654], "ev": "target_btn", "t": 1794489229, "who": "[CHA]领主1197490644"}
 {"cycle": 10, "at": [134, 594], "wins_so_far": 2, "pending": 2, "ev": "sortie_sent", "t": 1794489231, "who": "[CHA]领主1197490644"}
+{"cycle": 11, "pending": 2, "blacked": 2, "ev": "pending_wait_timeout", "t": 1794489387, "who": "[CHA]领主1197490644"}
+{"cycle": 12, "score": 0.887, "at": [684, 156], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794489392, "who": "[CHA]领主1197490644"}
+{"cycle": 13, "score": 0.807, "at": [673, 172], "needed_back": true, "streak": 2, "ev": "modal_closed", "t": 1794489400, "who": "[CHA]领主1197490644"}
