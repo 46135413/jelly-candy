@@ -1,34 +1,3 @@
-{"cycle": 51, "arrived": false, "ev": "idle_to_town", "t": 1794528854, "who": "[AAA]笑傲AAAB"}
-{"screens": 3, "found": 2, "total": 5, "via": "ocr", "ev": "roster_scan", "t": 1794528915, "who": "[AAA]笑傲AAAB"}
-{"at": [315, 550], "target": "[AAA]笑傲AAA", "from_cur": "[AAA]笑傲AAAB", "ev": "rotate_card_tapped", "t": 1794528924, "who": "[AAA]笑傲AAAB"}
-{"reason": "rotate", "ev": "blacklist_cleared", "t": 1794528958, "who": "[AAA]笑傲AAA"}
-{"in_town": true, "target": "[AAA]笑傲AAA", "ev": "rotate_done", "t": 1794528958, "who": "[AAA]笑傲AAA"}
-{"cycle": 51, "ev": "rotated", "t": 1794528958, "who": "[AAA]笑傲AAA"}
-{"cycle": 52, "frm": "town", "to": "wild", "sw": 0.839, "st": 0.295, "ev": "view_switch", "t": 1794528972, "who": "[AAA]笑傲AAA"}
-{"cycle": 52, "at": [284, 817], "area": 2843, "cls": "other", "yellow_left": 4, "ev": "pin_pick", "t": 1794528976, "who": "[AAA]笑傲AAA"}
-{"cycle": 52, "at": [359, 906], "attempt": 1, "ev": "goto_tap", "t": 1794528978, "who": "[AAA]笑傲AAA"}
-{"cycle": 52, "at": [284, 817], "ev": "rescue_sent", "t": 1794528979, "who": "[AAA]笑傲AAA"}
-{"cycle": 52, "ev": "back_to_board_after_rescue", "t": 1794528989, "who": "[AAA]笑傲AAA"}
-{"cycle": 53, "at": [171, 693], "area": 2736, "cls": "other", "yellow_left": 4, "ev": "pin_pick", "t": 1794528993, "who": "[AAA]笑傲AAA"}
-{"cycle": 53, "at": [359, 952], "attempt": 1, "ev": "goto_tap", "t": 1794528994, "who": "[AAA]笑傲AAA"}
-{"cycle": 53, "at": [360, 656], "ev": "target_btn", "t": 1794528996, "who": "[AAA]笑傲AAA"}
-{"cycle": 53, "at": [171, 693], "reason": "red_warning", "blacked": 19, "ev": "blacklisted", "t": 1794528999, "who": "[AAA]笑傲AAA"}
-{"cycle": 54, "ev": "exit_popup_dismissed", "t": 1794529001, "who": "[AAA]笑傲AAA"}
-{"cycle": 55, "at": [447, 668], "area": 2734, "cls": "other", "yellow_left": 4, "ev": "pin_pick", "t": 1794529008, "who": "[AAA]笑傲AAA"}
-{"cycle": 55, "at": [359, 952], "attempt": 1, "ev": "goto_tap", "t": 1794529009, "who": "[AAA]笑傲AAA"}
-{"cycle": 55, "at": [360, 656], "ev": "target_btn", "t": 1794529009, "who": "[AAA]笑傲AAA"}
-{"cycle": 55, "at": [447, 668], "reason": "red_warning", "blacked": 20, "ev": "blacklisted", "t": 1794529011, "who": "[AAA]笑傲AAA"}
-{"cycle": 56, "ev": "exit_popup_dismissed", "t": 1794529013, "who": "[AAA]笑傲AAA"}
-{"cycle": 57, "at": [230, 671], "area": 2713, "cls": "other", "yellow_left": 4, "ev": "pin_pick", "t": 1794529020, "who": "[AAA]笑傲AAA"}
-{"cycle": 57, "at": [359, 952], "attempt": 1, "ev": "goto_tap", "t": 1794529021, "who": "[AAA]笑傲AAA"}
-{"cycle": 57, "at": [360, 656], "ev": "target_btn", "t": 1794529022, "who": "[AAA]笑傲AAA"}
-{"cycle": 57, "at": [230, 671], "reason": "red_warning", "blacked": 21, "ev": "blacklisted", "t": 1794529023, "who": "[AAA]笑傲AAA"}
-{"cycle": 58, "ev": "exit_popup_dismissed", "t": 1794529026, "who": "[AAA]笑傲AAA"}
-{"cycle": 59, "at": [117, 523], "area": 2581, "cls": "other", "yellow_left": 4, "ev": "pin_pick", "t": 1794529032, "who": "[AAA]笑傲AAA"}
-{"cycle": 59, "at": [359, 952], "attempt": 1, "ev": "goto_tap", "t": 1794529033, "who": "[AAA]笑傲AAA"}
-{"cycle": 59, "at": [360, 656], "ev": "target_btn", "t": 1794529034, "who": "[AAA]笑傲AAA"}
-{"cycle": 59, "at": [117, 523], "reason": "red_warning", "blacked": 22, "ev": "blacklisted", "t": 1794529036, "who": "[AAA]笑傲AAA"}
-{"cycle": 60, "ev": "exit_popup_dismissed", "t": 1794529038, "who": "[AAA]笑傲AAA"}
 {"cycle": 61, "at": [119, 648], "area": 2966, "cls": "yellow", "yellow_left": 4, "ev": "pin_pick", "t": 1794529045, "who": "[AAA]笑傲AAA"}
 {"cycle": 61, "at": [359, 893], "attempt": 1, "ev": "goto_tap", "t": 1794529046, "who": "[AAA]笑傲AAA"}
 {"cycle": 61, "at": [360, 656], "ev": "target_btn", "t": 1794529046, "who": "[AAA]笑傲AAA"}
@@ -8998,3 +8967,34 @@
 {"ev": "dixin_no_entry", "t": 1794606620, "who": "[CHA]领主1193343915"}
 {"task": 0, "mail": 10, "alliance": 1, "dots_clicked": 2, "build": 0, "crystal": -1, "gather": -1, "hero": -1, "pet": -1, "ev": "town_reddots_done", "t": 1794606620, "who": "[CHA]领主1193343915"}
 {"cycle": 304, "arrived": true, "ev": "idle_to_town", "t": 1794606621, "who": "[CHA]领主1193343915"}
+{"screens": 2, "found": 5, "total": 5, "via": "ocr", "missing": [], "ev": "roster_scan", "t": 1794606645, "who": "[CHA]领主1193343915"}
+{"at": [344, 684], "target": "[CHA]领主1193475194", "from_cur": "[CHA]领主1193343915", "ev": "rotate_card_tapped", "t": 1794606653, "who": "[CHA]领主1193343915"}
+{"in_town": true, "target": "[CHA]领主1193475194", "ev": "rotate_done", "t": 1794606676, "who": "[CHA]领主1193475194"}
+{"cycle": 304, "ev": "rotated", "t": 1794606676, "who": "[CHA]领主1193475194"}
+{"cycle": 305, "frm": "town", "to": "wild", "sw": 0.836, "st": 0.277, "ev": "view_switch", "t": 1794606691, "who": "[CHA]领主1193475194"}
+{"cur": 13, "cap": 200, "ev": "stamina_read", "t": 1794606700, "who": "[CHA]领主1193475194"}
+{"ev": "stamina_no_meal", "t": 1794606700, "who": "[CHA]领主1193475194"}
+{"cycle": 305, "score": 0.969, "at": [677, 169], "after": "meal", "ev": "board_modal_closed", "t": 1794606704, "who": "[CHA]领主1193475194"}
+{"cycle": 306, "score": 0.969, "at": [677, 169], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794606710, "who": "[CHA]领主1193475194"}
+{"cur": 13, "cycle": 307, "ev": "stamina_low", "t": 1794606711, "who": "[CHA]领主1193475194"}
+{"screens": 2, "found": 5, "total": 5, "via": "ocr", "missing": [], "ev": "roster_scan", "t": 1794606742, "who": "[CHA]领主1193475194"}
+{"at": [336, 1044], "target": "[AAA]笑傲小小号单防", "from_cur": "[CHA]领主1193475194", "ev": "rotate_card_tapped", "t": 1794606749, "who": "[CHA]领主1193475194"}
+{"in_town": true, "target": "[AAA]笑傲小小号单防", "ev": "rotate_done", "t": 1794606772, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 307, "reason": "stamina", "ev": "rotated", "t": 1794606772, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 308, "frm": "town", "to": "wild", "sw": 0.836, "st": 0.277, "ev": "view_switch", "t": 1794606778, "who": "[AAA]笑傲小小号单防"}
+{"cur": 8, "cap": 200, "ev": "stamina_read", "t": 1794606786, "who": "[AAA]笑傲小小号单防"}
+{"ev": "stamina_no_meal", "t": 1794606786, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 308, "score": 0.969, "at": [677, 169], "after": "meal", "ev": "board_modal_closed", "t": 1794606791, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 309, "score": 0.969, "at": [677, 169], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794606796, "who": "[AAA]笑傲小小号单防"}
+{"cur": 8, "cycle": 310, "ev": "stamina_low", "t": 1794606797, "who": "[AAA]笑傲小小号单防"}
+{"screens": 2, "found": 5, "total": 5, "via": "ocr", "missing": [], "ev": "roster_scan", "t": 1794606828, "who": "[AAA]笑傲小小号单防"}
+{"at": [308, 700], "target": "[AAA]笑傲AAA", "from_cur": "[AAA]笑傲小小号单防", "ev": "rotate_card_tapped", "t": 1794606838, "who": "[AAA]笑傲小小号单防"}
+{"in_town": true, "target": "[AAA]笑傲AAA", "ev": "rotate_done", "t": 1794606861, "who": "[AAA]笑傲AAA"}
+{"cycle": 310, "reason": "stamina", "ev": "rotated", "t": 1794606861, "who": "[AAA]笑傲AAA"}
+{"cycle": 311, "frm": "town", "to": "wild", "sw": 0.836, "st": 0.277, "ev": "view_switch", "t": 1794606866, "who": "[AAA]笑傲AAA"}
+{"cur": 64, "cap": 200, "ev": "stamina_read", "t": 1794606875, "who": "[AAA]笑傲AAA"}
+{"ev": "stamina_no_meal", "t": 1794606875, "who": "[AAA]笑傲AAA"}
+{"cycle": 311, "score": 0.969, "at": [677, 169], "after": "meal", "ev": "board_modal_closed", "t": 1794606879, "who": "[AAA]笑傲AAA"}
+{"cycle": 312, "score": 0.969, "at": [677, 169], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794606884, "who": "[AAA]笑傲AAA"}
+{"cycle": 313, "pins_total": 0, "avatar": 0.234, "ev": "board_clear", "t": 1794606886, "who": "[AAA]笑傲AAA"}
+{"explore_claimed": 1, "ev": "idle_sweep", "t": 1794606898, "who": "[AAA]笑傲AAA"}
