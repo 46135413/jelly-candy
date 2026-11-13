@@ -1,39 +1,3 @@
-{"task": 0, "mail": 2, "alliance": 4, "dots_clicked": 1, "build": 0, "crystal": -1, "gather": -1, "hero": -1, "pet": -1, "ev": "town_reddots_done", "t": 1794404198, "who": "[CHA]领主1197490644"}
-{"cycle": 50, "arrived": true, "ev": "idle_to_town", "t": 1794404198, "who": "[CHA]领主1197490644"}
-{"screens": 3, "found": 4, "total": 5, "via": "ocr", "ev": "roster_scan", "t": 1794404223, "who": "[CHA]领主1197490644"}
-{"at": [346, 966], "target": "[CHA]领主1198376138", "from_cur": "[CHA]领主1197490644", "ev": "rotate_card_tapped", "t": 1794404233, "who": "[CHA]领主1197490644"}
-{"reason": "rotate", "ev": "blacklist_cleared", "t": 1794404255, "who": "[CHA]领主1198376138"}
-{"in_town": true, "target": "[CHA]领主1198376138", "ev": "rotate_done", "t": 1794404255, "who": "[CHA]领主1198376138"}
-{"cycle": 50, "ev": "rotated", "t": 1794404255, "who": "[CHA]领主1198376138"}
-{"cycle": 51, "frm": "town", "to": "wild", "sw": 0.999, "st": 0.285, "ev": "view_switch", "t": 1794404268, "who": "[CHA]领主1198376138"}
-{"cycle": 51, "pins_total": 0, "avatar": 0.195, "ev": "board_clear", "t": 1794404271, "who": "[CHA]领主1198376138"}
-{"explore_claimed": 1, "ev": "idle_sweep", "t": 1794404282, "who": "[CHA]领主1198376138"}
-{"rounds": 0, "badge_left": 269, "ev": "task_sweep", "t": 1794404301, "who": "[CHA]领主1198376138"}
-{"tabs_claimed": 2, "badged_first": 1, "retry_tabs": 1, "still_badged": 1, "ev": "mail_sweep", "t": 1794404311, "who": "[CHA]领主1198376138"}
-{"tabs_badged": [1, 0], "claims": 4, "ev": "box_claim", "t": 1794404331, "who": "[CHA]领主1198376138"}
-{"badged": ["baoxiang", "huzhu", "lingdi", "shangdian"], "visited": ["baoxiang", "huzhu", "lingdi", "shangdian"], "claimed": 5, "back_town": true, "ev": "alliance_sweep", "t": 1794404357, "who": "[CHA]领主1198376138"}
-{"at": [692, 121], "ev": "town_dot_click", "t": 1794404361, "who": "[CHA]领主1198376138"}
-{"at": [110, 776], "ev": "build_no_upgrade_btn", "t": 1794404374, "who": "[CHA]领主1198376138"}
-{"ev": "academy_no_entry", "t": 1794404374, "who": "[CHA]领主1198376138"}
-{"ev": "dixin_no_entry", "t": 1794404375, "who": "[CHA]领主1198376138"}
-{"task": 0, "mail": 2, "alliance": 5, "dots_clicked": 1, "build": 0, "crystal": -1, "gather": -1, "hero": -1, "pet": -1, "ev": "town_reddots_done", "t": 1794404375, "who": "[CHA]领主1198376138"}
-{"cycle": 51, "arrived": true, "ev": "idle_to_town", "t": 1794404375, "who": "[CHA]领主1198376138"}
-{"cycle": 52, "frm": "town", "to": "wild", "sw": 0.999, "st": 0.285, "ev": "view_switch", "t": 1794404380, "who": "[CHA]领主1198376138"}
-{"cycle": 52, "pins_total": 0, "avatar": 0.203, "ev": "board_clear", "t": 1794404383, "who": "[CHA]领主1198376138"}
-{"explore_claimed": 0, "ev": "idle_sweep", "t": 1794404390, "who": "[CHA]领主1198376138"}
-{"rounds": 0, "badge_left": 269, "ev": "task_sweep", "t": 1794404409, "who": "[CHA]领主1198376138"}
-{"tabs_claimed": 2, "badged_first": 1, "retry_tabs": 1, "still_badged": 1, "ev": "mail_sweep", "t": 1794404419, "who": "[CHA]领主1198376138"}
-{"tabs_badged": [1, 0], "claims": 4, "ev": "box_claim", "t": 1794404439, "who": "[CHA]领主1198376138"}
-{"badged": ["baoxiang", "huzhu", "lingdi", "shangdian"], "visited": ["baoxiang", "huzhu", "lingdi", "shangdian"], "claimed": 4, "back_town": true, "ev": "alliance_sweep", "t": 1794404461, "who": "[CHA]领主1198376138"}
-{"at": [692, 121], "ev": "town_dot_click", "t": 1794404465, "who": "[CHA]领主1198376138"}
-{"at": [110, 776], "ev": "build_no_upgrade_btn", "t": 1794404478, "who": "[CHA]领主1198376138"}
-{"ev": "academy_no_entry", "t": 1794404478, "who": "[CHA]领主1198376138"}
-{"ev": "dixin_no_entry", "t": 1794404479, "who": "[CHA]领主1198376138"}
-{"task": 0, "mail": 2, "alliance": 4, "dots_clicked": 1, "build": 0, "crystal": -1, "gather": -1, "hero": -1, "pet": -1, "ev": "town_reddots_done", "t": 1794404479, "who": "[CHA]领主1198376138"}
-{"cycle": 52, "arrived": true, "ev": "idle_to_town", "t": 1794404479, "who": "[CHA]领主1198376138"}
-{"screens": 3, "found": 4, "total": 5, "via": "ocr", "ev": "roster_scan", "t": 1794404504, "who": "[CHA]领主1198376138"}
-{"at": [302, 727], "target": "[AAA]阿黄单防", "from_cur": "[CHA]领主1198376138", "ev": "rotate_card_tapped", "t": 1794404512, "who": "[CHA]领主1198376138"}
-{"in_town": true, "target": "[AAA]阿黄单防", "ev": "rotate_done", "t": 1794404537, "who": "[AAA]阿黄单防"}
 {"cycle": 52, "ev": "rotated", "t": 1794404537, "who": "[AAA]阿黄单防"}
 {"cycle": 53, "frm": "town", "to": "wild", "sw": 0.999, "st": 0.285, "ev": "view_switch", "t": 1794404549, "who": "[AAA]阿黄单防"}
 {"cycle": 53, "pins_total": 0, "avatar": 0.195, "ev": "board_clear", "t": 1794404553, "who": "[AAA]阿黄单防"}
@@ -8998,3 +8962,39 @@
 {"ev": "academy_no_entry", "t": 1794572715, "who": "[AAA]笑傲AAA"}
 {"task": 0, "mail": 10, "alliance": 0, "dots_clicked": 0, "build": 0, "crystal": 0, "gather": -1, "hero": -1, "pet": 1, "ev": "town_reddots_done", "t": 1794572715, "who": "[AAA]笑傲AAA"}
 {"cycle": 3, "arrived": true, "ev": "idle_to_town", "t": 1794572715, "who": "[AAA]笑傲AAA"}
+{"screens": 2, "found": 5, "total": 5, "via": "ocr", "missing": [], "ev": "roster_scan", "t": 1794572741, "who": "[AAA]笑傲AAA"}
+{"at": [304, 721], "target": "[AAA]笑傲AAAB", "from_cur": "[AAA]笑傲AAA", "ev": "rotate_card_tapped", "t": 1794572750, "who": "[AAA]笑傲AAA"}
+{"reason": "rotate", "ev": "blacklist_cleared", "t": 1794572780, "who": "[AAA]笑傲AAAB"}
+{"in_town": true, "target": "[AAA]笑傲AAAB", "ev": "rotate_done", "t": 1794572780, "who": "[AAA]笑傲AAAB"}
+{"cycle": 3, "ev": "rotated", "t": 1794572780, "who": "[AAA]笑傲AAAB"}
+{"cycle": 4, "frm": "town", "to": "wild", "sw": 0.836, "st": 0.277, "ev": "view_switch", "t": 1794572796, "who": "[AAA]笑傲AAAB"}
+{"cur": 37, "cap": 200, "ev": "stamina_read", "t": 1794572804, "who": "[AAA]笑傲AAAB"}
+{"claimed": 1, "at": [566, 424], "ev": "stamina_meal", "t": 1794572808, "who": "[AAA]笑傲AAAB"}
+{"cycle": 4, "score": 0.969, "at": [677, 169], "after": "meal", "ev": "board_modal_closed", "t": 1794572812, "who": "[AAA]笑傲AAAB"}
+{"cycle": 5, "score": 0.969, "at": [677, 169], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794572818, "who": "[AAA]笑傲AAAB"}
+{"cycle": 6, "pending_before": 0, "ev": "collected", "t": 1794572821, "who": "[AAA]笑傲AAAB"}
+{"cycle": 7, "at": [499, 498], "area": 3547, "cls": "yellow", "yellow_left": 2, "ev": "pin_pick", "t": 1794572824, "who": "[AAA]笑傲AAAB"}
+{"cycle": 7, "at": [359, 893], "attempt": 1, "shot": "1113_202705_1_pin.png", "ev": "goto_tap", "t": 1794572825, "who": "[AAA]笑傲AAAB"}
+{"cycle": 7, "at": [360, 656], "ev": "target_btn", "t": 1794572826, "who": "[AAA]笑傲AAAB"}
+{"cycle": 7, "at": [499, 498], "wins_so_far": 1, "pending": 1, "shot": "1113_202709_2_sortie.png", "ev": "sortie_sent", "t": 1794572829, "who": "[AAA]笑傲AAAB"}
+{"cycle": 8, "at": [440, 663], "area": 1408, "cls": "yellow", "yellow_left": 1, "ev": "pin_pick", "t": 1794572837, "who": "[AAA]笑傲AAAB"}
+{"cycle": 8, "at": [359, 952], "attempt": 1, "shot": "1113_202718_3_pin.png", "ev": "goto_tap", "t": 1794572838, "who": "[AAA]笑傲AAAB"}
+{"cycle": 8, "at": [359, 654], "ev": "target_btn", "t": 1794572839, "who": "[AAA]笑傲AAAB"}
+{"cycle": 8, "at": [440, 663], "wins_so_far": 1, "pending": 2, "shot": "1113_202722_4_sortie.png", "ev": "sortie_sent", "t": 1794572842, "who": "[AAA]笑傲AAAB"}
+{"at": [360, 1145], "ev": "anywhere_exit_tapped", "t": 1794572848, "who": "[AAA]笑傲AAAB"}
+{"cycle": 10, "pending_before": 2, "ev": "collected", "t": 1794572855, "who": "[AAA]笑傲AAAB"}
+{"at": [361, 1188], "ev": "anywhere_exit_tapped", "t": 1794572859, "who": "[AAA]笑傲AAAB"}
+{"cycle": 12, "pins_total": 0, "avatar": 0.234, "ev": "board_clear", "t": 1794572860, "who": "[AAA]笑傲AAAB"}
+{"explore_claimed": 1, "ev": "idle_sweep", "t": 1794572872, "who": "[AAA]笑傲AAAB"}
+{"tabs_claimed": 10, "badged_observed": 0, "walked": 5, "retry_walked": 5, "ev": "mail_sweep", "t": 1794572914, "who": "[AAA]笑傲AAAB"}
+{"ev": "alliance_no_badges", "t": 1794572936, "who": "[AAA]笑傲AAAB"}
+{"reason": "big_account", "ev": "build_skip", "t": 1794572944, "who": "[AAA]笑傲AAAB"}
+{"ev": "crystal_none", "t": 1794572949, "who": "[AAA]笑傲AAAB"}
+{"ev": "academy_no_entry", "t": 1794572951, "who": "[AAA]笑傲AAAB"}
+{"task": 0, "mail": 10, "alliance": 0, "dots_clicked": 0, "build": 0, "crystal": 0, "gather": -1, "hero": -1, "pet": -1, "ev": "town_reddots_done", "t": 1794572951, "who": "[AAA]笑傲AAAB"}
+{"cycle": 12, "arrived": true, "ev": "idle_to_town", "t": 1794572951, "who": "[AAA]笑傲AAAB"}
+{"screens": 2, "found": 5, "total": 5, "via": "ocr", "missing": [], "ev": "roster_scan", "t": 1794572976, "who": "[AAA]笑傲AAAB"}
+{"at": [344, 540], "target": "[CHA]领主1193343915", "from_cur": "[AAA]笑傲AAAB", "ev": "rotate_card_tapped", "t": 1794572984, "who": "[AAA]笑傲AAAB"}
+{"in_town": true, "target": "[CHA]领主1193343915", "ev": "rotate_done", "t": 1794573017, "who": "[CHA]领主1193343915"}
+{"cycle": 12, "ev": "rotated", "t": 1794573017, "who": "[CHA]领主1193343915"}
+{"cycle": 13, "frm": "town", "to": "wild", "sw": 0.836, "st": 0.277, "ev": "view_switch", "t": 1794573032, "who": "[CHA]领主1193343915"}
