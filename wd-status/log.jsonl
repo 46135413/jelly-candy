@@ -1,32 +1,3 @@
-{"tabs_badged": [1, 0], "claims": 4, "ev": "box_claim", "t": 1794397230, "who": "[CHA]领主1198376138"}
-{"badged": ["baoxiang", "huzhu", "lingdi", "shangdian", "zhanzheng"], "visited": ["baoxiang", "huzhu", "lingdi", "shangdian", "zhanzheng"], "claimed": 5, "back_town": true, "ev": "alliance_sweep", "t": 1794397261, "who": "[CHA]领主1198376138"}
-{"at": [692, 121], "ev": "town_dot_click", "t": 1794397265, "who": "[CHA]领主1198376138"}
-{"at": [110, 776], "ev": "build_no_upgrade_btn", "t": 1794397278, "who": "[CHA]领主1198376138"}
-{"ev": "pet_no_pen_flaky", "t": 1794397291, "who": "[CHA]领主1198376138"}
-{"ev": "academy_no_entry", "t": 1794397291, "who": "[CHA]领主1198376138"}
-{"ev": "dixin_no_entry", "t": 1794397292, "who": "[CHA]领主1198376138"}
-{"task": 0, "mail": 2, "alliance": 5, "dots_clicked": 1, "build": 0, "crystal": -1, "gather": -1, "hero": -1, "pet": 0, "ev": "town_reddots_done", "t": 1794397292, "who": "[CHA]领主1198376138"}
-{"cycle": 24, "arrived": true, "ev": "idle_to_town", "t": 1794397292, "who": "[CHA]领主1198376138"}
-{"screens": 2, "found": 5, "total": 5, "via": "ocr", "ev": "roster_scan", "t": 1794397314, "who": "[CHA]领主1198376138"}
-{"at": [302, 727], "target": "[AAA]阿黄单防", "from_cur": "[CHA]领主1198376138", "ev": "rotate_card_tapped", "t": 1794397322, "who": "[CHA]领主1198376138"}
-{"in_town": true, "target": "[AAA]阿黄单防", "ev": "rotate_done", "t": 1794397347, "who": "[AAA]阿黄单防"}
-{"cycle": 24, "ev": "rotated", "t": 1794397347, "who": "[AAA]阿黄单防"}
-{"cycle": 25, "frm": "town", "to": "wild", "sw": 0.999, "st": 0.285, "ev": "view_switch", "t": 1794397359, "who": "[AAA]阿黄单防"}
-{"cycle": 25, "at": [552, 618], "area": 3976, "cls": "yellow", "yellow_left": 1, "ev": "pin_pick", "t": 1794397363, "who": "[AAA]阿黄单防"}
-{"cycle": 25, "at": [359, 870], "attempt": 1, "ev": "goto_tap", "t": 1794397364, "who": "[AAA]阿黄单防"}
-{"cycle": 25, "at": [359, 627], "ev": "target_btn", "t": 1794397365, "who": "[AAA]阿黄单防"}
-{"cycle": 25, "at": [552, 618], "wins_so_far": 0, "pending": 1, "ev": "sortie_sent", "t": 1794397366, "who": "[AAA]阿黄单防"}
-{"cycle": 26, "pending_before": 1, "reason": "pending_marches", "ev": "collected", "t": 1794397389, "who": "[AAA]阿黄单防"}
-{"cycle": 27, "at": [150, 482], "area": 4357, "cls": "other", "yellow_left": 0, "ev": "pin_pick", "t": 1794397390, "who": "[AAA]阿黄单防"}
-{"cycle": 27, "at": [150, 482], "reason": "no_target_panel", "blacked": 5, "ev": "blacklisted", "t": 1794397393, "who": "[AAA]阿黄单防"}
-{"cycle": 28, "pins_total": 1, "avatar": 0.201, "ev": "board_clear", "t": 1794397397, "who": "[AAA]阿黄单防"}
-{"explore_claimed": 1, "ev": "idle_sweep", "t": 1794397408, "who": "[AAA]阿黄单防"}
-{"tabs_claimed": 4, "badged_first": 2, "retry_tabs": 2, "still_badged": 2, "ev": "mail_sweep", "t": 1794397425, "who": "[AAA]阿黄单防"}
-{"tabs_badged": [1, 0], "claims": 4, "ev": "box_claim", "t": 1794397445, "who": "[AAA]阿黄单防"}
-{"badged": ["baoxiang", "huzhu", "lingdi", "shangdian", "zhanzheng"], "visited": ["baoxiang", "huzhu", "lingdi", "shangdian", "zhanzheng"], "claimed": 5, "back_town": true, "ev": "alliance_sweep", "t": 1794397476, "who": "[AAA]阿黄单防"}
-{"opened": 0, "gifts_claimed": 0, "ev": "chat_read", "t": 1794397494, "who": "[AAA]阿黄单防"}
-{"ev": "chat_read", "t": 1794397494, "who": "[AAA]阿黄单防"}
-{"at": [581, 121], "ev": "town_dot_click", "t": 1794397498, "who": "[AAA]阿黄单防"}
 {"ev": "build_no_indicator", "t": 1794397510, "who": "[AAA]阿黄单防"}
 {"at": [371, 428], "ev": "crystal_wrong_panel", "t": 1794397516, "who": "[AAA]阿黄单防"}
 {"ev": "academy_no_entry", "t": 1794397520, "who": "[AAA]阿黄单防"}
@@ -8998,3 +8969,32 @@
 {"cycle": 83, "ev": "screen_loading", "t": 1794566109, "who": "[CHA]领主1193343915"}
 {"cycle": 84, "ev": "screen_loading", "t": 1794566119, "who": "[CHA]领主1193343915"}
 {"cycle": 85, "ev": "screen_loading", "t": 1794566129, "who": "[CHA]领主1193343915"}
+{"cycle": 86, "ev": "screen_loading", "t": 1794566140, "who": "[CHA]领主1193343915"}
+{"cycle": 87, "ev": "screen_loading", "t": 1794566150, "who": "[CHA]领主1193343915"}
+{"cycle": 88, "ev": "screen_loading", "t": 1794566160, "who": "[CHA]领主1193343915"}
+{"cycle": 89, "ev": "screen_loading", "t": 1794566171, "who": "[CHA]领主1193343915"}
+{"cycle": 90, "ev": "screen_loading", "t": 1794566181, "who": "[CHA]领主1193343915"}
+{"cycle": 91, "ev": "screen_loading", "t": 1794566191, "who": "[CHA]领主1193343915"}
+{"cycle": 92, "ev": "screen_loading", "t": 1794566202, "who": "[CHA]领主1193343915"}
+{"cycle": 93, "ev": "screen_loading", "t": 1794566212, "who": "[CHA]领主1193343915"}
+{"cycle": 94, "ev": "screen_loading", "t": 1794566222, "who": "[CHA]领主1193343915"}
+{"cycle": 95, "ev": "screen_loading", "t": 1794566233, "who": "[CHA]领主1193343915"}
+{"cycle": 96, "ev": "screen_loading", "t": 1794566243, "who": "[CHA]领主1193343915"}
+{"cycle": 97, "ev": "screen_loading", "t": 1794566253, "who": "[CHA]领主1193343915"}
+{"cycle": 98, "ev": "screen_loading", "t": 1794566264, "who": "[CHA]领主1193343915"}
+{"cycle": 99, "ev": "screen_loading", "t": 1794566274, "who": "[CHA]领主1193343915"}
+{"cycle": 100, "ev": "screen_loading", "t": 1794566284, "who": "[CHA]领主1193343915"}
+{"cycle": 101, "ev": "screen_loading", "t": 1794566295, "who": "[CHA]领主1193343915"}
+{"cycle": 102, "ev": "screen_loading", "t": 1794566305, "who": "[CHA]领主1193343915"}
+{"cycle": 103, "ev": "screen_loading", "t": 1794566315, "who": "[CHA]领主1193343915"}
+{"cycle": 104, "ev": "screen_loading", "t": 1794566326, "who": "[CHA]领主1193343915"}
+{"cycle": 105, "ev": "screen_loading", "t": 1794566336, "who": "[CHA]领主1193343915"}
+{"cycle": 106, "ev": "screen_loading", "t": 1794566346, "who": "[CHA]领主1193343915"}
+{"cycle": 107, "ev": "screen_loading", "t": 1794566357, "who": "[CHA]领主1193343915"}
+{"cycle": 108, "ev": "screen_loading", "t": 1794566367, "who": "[CHA]领主1193343915"}
+{"cycle": 109, "ev": "screen_loading", "t": 1794566377, "who": "[CHA]领主1193343915"}
+{"cycle": 110, "ev": "screen_loading", "t": 1794566388, "who": "[CHA]领主1193343915"}
+{"cycle": 111, "ev": "screen_loading", "t": 1794566398, "who": "[CHA]领主1193343915"}
+{"cycle": 112, "ev": "screen_loading", "t": 1794566408, "who": "[CHA]领主1193343915"}
+{"cycle": 113, "ev": "screen_loading", "t": 1794566419, "who": "[CHA]领主1193343915"}
+{"cycle": 114, "ev": "screen_loading", "t": 1794566429, "who": "[CHA]领主1193343915"}
