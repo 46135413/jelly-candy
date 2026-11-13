@@ -1,15 +1,3 @@
-{"ev": "stamina_no_meal", "t": 1794419670, "who": "[AAA]阿黄AAAAA"}
-{"cycle": 2, "pins_total": 2, "avatar": 0.186, "ev": "board_clear", "t": 1794419672, "who": "[AAA]阿黄AAAAA"}
-{"explore_claimed": 0, "ev": "idle_sweep", "t": 1794419681, "who": "[AAA]阿黄AAAAA"}
-{"rounds": 1, "badge_left": 0, "ev": "task_sweep", "t": 1794419705, "who": "[AAA]阿黄AAAAA"}
-{"tabs_claimed": 0, "badged_first": 0, "retry_tabs": 0, "still_badged": 0, "ev": "mail_sweep", "t": 1794419710, "who": "[AAA]阿黄AAAAA"}
-{"tabs_badged": [1, 0], "claims": 4, "ev": "box_claim", "t": 1794419730, "who": "[AAA]阿黄AAAAA"}
-{"badged": ["baoxiang", "huzhu", "lingdi", "shangdian", "zhanzheng"], "visited": ["baoxiang", "huzhu", "lingdi", "shangdian", "zhanzheng"], "claimed": 4, "back_town": true, "ev": "alliance_sweep", "t": 1794419758, "who": "[AAA]阿黄AAAAA"}
-{"opened": 0, "gifts_claimed": 0, "ev": "chat_read", "t": 1794419776, "who": "[AAA]阿黄AAAAA"}
-{"ev": "chat_read", "t": 1794419776, "who": "[AAA]阿黄AAAAA"}
-{"at": [581, 122], "ev": "town_dot_click", "t": 1794419781, "who": "[AAA]阿黄AAAAA"}
-{"ev": "build_no_indicator", "t": 1794419792, "who": "[AAA]阿黄AAAAA"}
-{"ev": "crystal_none", "t": 1794419793, "who": "[AAA]阿黄AAAAA"}
 {"remaining": 5, "ev": "pet_no_chest_dialog", "t": 1794419826, "who": "[AAA]阿黄AAAAA"}
 {"at": [622, 40], "words": ["100/100", "11,749", "免费领取", "领取", "每日8:00和16:00，可手动", "领取10个游历补给。", "今日限购：4/4", "每日限购", "消耗钻石购买游历补给，每", "1,000", "日最多购买4次。", "点击任意空白位置关闭"], "ev": "academy_plus_dialog", "t": 1794419842, "who": "[AAA]阿黄AAAAA"}
 {"at": [239, 562], "ev": "academy_free_claimed", "t": 1794419845, "who": "[AAA]阿黄AAAAA"}
@@ -8998,3 +8986,15 @@
 {"explore_claimed": 1, "ev": "idle_sweep", "t": 1794585574, "who": "[AAA]笑傲AAA"}
 {"rounds": 1, "badge_left": 0, "ev": "task_sweep", "t": 1794585601, "who": "[AAA]笑傲AAA"}
 {"tabs_claimed": 10, "badged_observed": 0, "walked": 5, "retry_walked": 5, "ev": "mail_sweep", "t": 1794585640, "who": "[AAA]笑傲AAA"}
+{"tabs_badged": [0, 0], "claims": 1, "ev": "box_claim", "t": 1794585652, "who": "[AAA]笑傲AAA"}
+{"badged": ["baoxiang", "huzhu", "lingdi", "shangdian", "zhanzheng"], "visited": ["baoxiang", "huzhu", "lingdi", "shangdian", "zhanzheng"], "claimed": 2, "back_town": true, "ev": "alliance_sweep", "t": 1794585685, "who": "[AAA]笑傲AAA"}
+{"opened": 0, "gifts_claimed": 0, "ev": "chat_read", "t": 1794585714, "who": "[AAA]笑傲AAA"}
+{"ev": "chat_read", "t": 1794585714, "who": "[AAA]笑傲AAA"}
+{"at": [690, 124], "ev": "town_dot_click", "t": 1794585719, "who": "[AAA]笑傲AAA"}
+{"reason": "big_account", "ev": "build_skip", "t": 1794585720, "who": "[AAA]笑傲AAA"}
+{"ev": "crystal_none", "t": 1794585745, "who": "[AAA]笑傲AAA"}
+{"res": "生肉", "dispatched": false, "entries": 1, "ev": "gather_searched", "t": 1794585816, "who": "[AAA]笑傲AAA"}
+{"res": "木材", "ev": "gather_panel_fail", "t": 1794585843, "who": "[AAA]笑傲AAA"}
+{"res": "煤矿", "dispatched": false, "entries": 1, "ev": "gather_searched", "t": 1794585916, "who": "[AAA]笑傲AAA"}
+{"res": "铁矿", "ev": "gather_panel_fail", "t": 1794585940, "who": "[AAA]笑傲AAA"}
+{"res_ok": 2, "ev": "gather_round_done", "t": 1794585940, "who": "[AAA]笑傲AAA"}
