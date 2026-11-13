@@ -1,23 +1,3 @@
-{"task": 0, "mail": 2, "alliance": 4, "dots_clicked": 2, "build": 0, "crystal": 0, "gather": -1, "hero": -1, "pet": -1, "ev": "town_reddots_done", "t": 1794403163, "who": "[AAA]阿黄单防"}
-{"cycle": 40, "arrived": true, "ev": "idle_to_town", "t": 1794403163, "who": "[AAA]阿黄单防"}
-{"screens": 2, "found": 5, "total": 5, "via": "ocr", "ev": "roster_scan", "t": 1794403185, "who": "[AAA]阿黄单防"}
-{"at": [325, 879], "target": "[AAA]阿黄AAAAA", "from_cur": "[AAA]阿黄单防", "ev": "rotate_card_tapped", "t": 1794403193, "who": "[AAA]阿黄单防"}
-{"in_town": true, "target": "[AAA]阿黄AAAAA", "ev": "rotate_done", "t": 1794403215, "who": "[AAA]阿黄AAAAA"}
-{"cycle": 40, "ev": "rotated", "t": 1794403215, "who": "[AAA]阿黄AAAAA"}
-{"cycle": 41, "frm": "town", "to": "wild", "sw": 0.999, "st": 0.285, "ev": "view_switch", "t": 1794403228, "who": "[AAA]阿黄AAAAA"}
-{"cycle": 41, "pins_total": 0, "avatar": 0.203, "ev": "board_clear", "t": 1794403231, "who": "[AAA]阿黄AAAAA"}
-{"explore_claimed": 1, "ev": "idle_sweep", "t": 1794403242, "who": "[AAA]阿黄AAAAA"}
-{"tabs_claimed": 2, "badged_first": 1, "retry_tabs": 1, "still_badged": 1, "ev": "mail_sweep", "t": 1794403257, "who": "[AAA]阿黄AAAAA"}
-{"tabs_badged": [1, 0], "claims": 4, "ev": "box_claim", "t": 1794403277, "who": "[AAA]阿黄AAAAA"}
-{"badged": ["baoxiang", "huzhu", "lingdi", "shangdian"], "visited": ["baoxiang", "huzhu", "lingdi", "shangdian"], "claimed": 5, "back_town": true, "ev": "alliance_sweep", "t": 1794403303, "who": "[AAA]阿黄AAAAA"}
-{"opened": 0, "gifts_claimed": 0, "ev": "chat_read", "t": 1794403323, "who": "[AAA]阿黄AAAAA"}
-{"ev": "chat_read", "t": 1794403323, "who": "[AAA]阿黄AAAAA"}
-{"at": [581, 121], "ev": "town_dot_click", "t": 1794403327, "who": "[AAA]阿黄AAAAA"}
-{"ev": "build_no_indicator", "t": 1794403338, "who": "[AAA]阿黄AAAAA"}
-{"ev": "crystal_none", "t": 1794403339, "who": "[AAA]阿黄AAAAA"}
-{"ev": "academy_no_entry", "t": 1794403339, "who": "[AAA]阿黄AAAAA"}
-{"ev": "dixin_no_entry", "t": 1794403340, "who": "[AAA]阿黄AAAAA"}
-{"task": 0, "mail": 2, "alliance": 5, "dots_clicked": 2, "build": 0, "crystal": 0, "gather": -1, "hero": -1, "pet": -1, "ev": "town_reddots_done", "t": 1794403340, "who": "[AAA]阿黄AAAAA"}
 {"cycle": 41, "arrived": true, "ev": "idle_to_town", "t": 1794403340, "who": "[AAA]阿黄AAAAA"}
 {"cycle": 42, "frm": "town", "to": "wild", "sw": 0.999, "st": 0.285, "ev": "view_switch", "t": 1794403345, "who": "[AAA]阿黄AAAAA"}
 {"cycle": 42, "pins_total": 0, "avatar": 0.203, "ev": "board_clear", "t": 1794403348, "who": "[AAA]阿黄AAAAA"}
@@ -8998,3 +8978,23 @@
 {"ev": "alliance_no_badges", "t": 1794571513, "who": "[AAA]笑傲小小号单防"}
 {"ev": "build_no_indicator", "t": 1794571534, "who": "[AAA]笑傲小小号单防"}
 {"ev": "crystal_none", "t": 1794571535, "who": "[AAA]笑傲小小号单防"}
+{"res": "生肉", "ev": "gather_no_result", "t": 1794571564, "who": "[AAA]笑傲小小号单防"}
+{"res": "木材", "ev": "gather_panel_fail", "t": 1794571587, "who": "[AAA]笑傲小小号单防"}
+{"res": "煤矿", "ev": "gather_no_result", "t": 1794571611, "who": "[AAA]笑傲小小号单防"}
+{"res": "铁矿", "ev": "gather_panel_fail", "t": 1794571633, "who": "[AAA]笑傲小小号单防"}
+{"res_ok": 0, "ev": "gather_round_done", "t": 1794571633, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 1, "score": 0.879, "at": [684, 148], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794571647, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 2, "frm": "town", "to": "wild", "sw": 0.836, "st": 0.277, "ev": "view_switch", "t": 1794571651, "who": "[AAA]笑傲小小号单防"}
+{"cur": 139, "cap": 200, "ev": "stamina_read", "t": 1794571657, "who": "[AAA]笑傲小小号单防"}
+{"ev": "stamina_no_meal", "t": 1794571657, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 2, "at": [115, 578], "area": 681, "cls": "yellow", "yellow_left": 1, "ev": "pin_pick", "t": 1794571659, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 2, "at": [115, 578], "reason": "no_target_panel", "blacked": 1, "shot": "1113_200743_2_black_no_panel.png", "ev": "blacklisted", "t": 1794571663, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 3, "score": 0.969, "at": [677, 169], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794571672, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 4, "pins_total": 2, "avatar": 0.194, "ev": "board_clear", "t": 1794571674, "who": "[AAA]笑傲小小号单防"}
+{"at": [603, 889], "ev": "explore_claim_ocr", "t": 1794571686, "who": "[AAA]笑傲小小号单防"}
+{"explore_claimed": 1, "ev": "idle_sweep", "t": 1794571688, "who": "[AAA]笑傲小小号单防"}
+{"tabs_claimed": 10, "badged_observed": 1, "walked": 5, "retry_walked": 5, "ev": "mail_sweep", "t": 1794571729, "who": "[AAA]笑傲小小号单防"}
+{"ev": "alliance_no_badges", "t": 1794571751, "who": "[AAA]笑傲小小号单防"}
+{"ev": "build_no_indicator", "t": 1794571772, "who": "[AAA]笑傲小小号单防"}
+{"ev": "crystal_none", "t": 1794571774, "who": "[AAA]笑傲小小号单防"}
+{"drew": 1, "ev": "hero_free_draw", "t": 1794571801, "who": "[AAA]笑傲小小号单防"}
