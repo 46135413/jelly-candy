@@ -1,32 +1,3 @@
-{"cycle": 29, "score": 0.779, "at": [699, 188], "needed_back": false, "streak": 2, "ev": "modal_closed", "t": 1794492552, "who": "[AAA]笑傲AAA"}
-{"cycle": 30, "at": [468, 772], "area": 1263, "cls": "yellow", "yellow_left": 1, "ev": "pin_pick", "t": 1794492556, "who": "[AAA]笑傲AAA"}
-{"cycle": 30, "at": [359, 952], "attempt": 1, "ev": "goto_tap", "t": 1794492557, "who": "[AAA]笑傲AAA"}
-{"cycle": 30, "at": [360, 656], "ev": "target_btn", "t": 1794492557, "who": "[AAA]笑傲AAA"}
-{"cycle": 30, "at": [468, 772], "reason": "red_warning_slow", "blacked": 8, "ev": "blacklisted", "t": 1794492559, "who": "[AAA]笑傲AAA"}
-{"cycle": 31, "ev": "exit_popup_dismissed", "t": 1794492562, "who": "[AAA]笑傲AAA"}
-{"cycle": 32, "pins_total": 6, "avatar": 0.117, "ev": "board_clear", "t": 1794492568, "who": "[AAA]笑傲AAA"}
-{"explore_claimed": 1, "ev": "idle_sweep", "t": 1794492580, "who": "[AAA]笑傲AAA"}
-{"reason": "not_town", "ev": "mail_skip", "t": 1794492595, "who": "[AAA]笑傲AAA"}
-{"cycle": 32, "arrived": false, "ev": "idle_to_town", "t": 1794492605, "who": "[AAA]笑傲AAA"}
-{"cycle": 33, "score": 0.837, "at": [698, 153], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794492616, "who": "[AAA]笑傲AAA"}
-{"cycle": 34, "pins_total": 6, "avatar": 0.117, "ev": "board_clear", "t": 1794492620, "who": "[AAA]笑傲AAA"}
-{"explore_claimed": 1, "ev": "idle_sweep", "t": 1794492632, "who": "[AAA]笑傲AAA"}
-{"reason": "not_town", "ev": "mail_skip", "t": 1794492647, "who": "[AAA]笑傲AAA"}
-{"cycle": 34, "arrived": false, "ev": "idle_to_town", "t": 1794492657, "who": "[AAA]笑傲AAA"}
-{"cycle": 1, "score": 0.887, "at": [684, 156], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794492939, "who": "[AAA]笑傲AAA"}
-{"cycle": 2, "score": 0.81, "at": [633, 156], "needed_back": true, "streak": 2, "ev": "modal_closed", "t": 1794492945, "who": "[AAA]笑傲AAA"}
-{"ev": "stamina_popup_fail", "t": 1794492954, "who": "[AAA]笑傲AAA"}
-{"cycle": 3, "at": [205, 424], "area": 1716, "cls": "other", "yellow_left": 0, "ev": "pin_pick", "t": 1794492954, "who": "[AAA]笑傲AAA"}
-{"cycle": 3, "at": [359, 906], "attempt": 1, "ev": "goto_tap", "t": 1794492955, "who": "[AAA]笑傲AAA"}
-{"cycle": 3, "at": [205, 424], "ev": "rescue_sent", "t": 1794492956, "who": "[AAA]笑傲AAA"}
-{"cycle": 3, "ev": "back_to_board_after_rescue", "t": 1794492966, "who": "[AAA]笑傲AAA"}
-{"cycle": 4, "pins_total": 6, "avatar": 0.125, "ev": "board_clear", "t": 1794492970, "who": "[AAA]笑傲AAA"}
-{"explore_claimed": 1, "ev": "idle_sweep", "t": 1794492982, "who": "[AAA]笑傲AAA"}
-{"reason": "not_town", "ev": "mail_skip", "t": 1794492998, "who": "[AAA]笑傲AAA"}
-{"cycle": 4, "arrived": false, "ev": "idle_to_town", "t": 1794493007, "who": "[AAA]笑傲AAA"}
-{"cycle": 5, "score": 0.837, "at": [698, 153], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794493018, "who": "[AAA]笑傲AAA"}
-{"cycle": 6, "pins_total": 6, "avatar": 0.109, "ev": "board_clear", "t": 1794493022, "who": "[AAA]笑傲AAA"}
-{"explore_claimed": 1, "ev": "idle_sweep", "t": 1794493034, "who": "[AAA]笑傲AAA"}
 {"reason": "not_town", "ev": "mail_skip", "t": 1794493050, "who": "[AAA]笑傲AAA"}
 {"cycle": 6, "arrived": false, "ev": "idle_to_town", "t": 1794493059, "who": "[AAA]笑傲AAA"}
 {"screens": 3, "found": 2, "total": 5, "via": "ocr", "ev": "roster_scan", "t": 1794493112, "who": "[AAA]笑傲AAA"}
@@ -8998,3 +8969,32 @@
 {"cycle": 190, "pins_total": 0, "avatar": 0.238, "ev": "board_clear", "t": 1794600548, "who": "[AAA]笑傲AAA"}
 {"explore_claimed": 1, "ev": "idle_sweep", "t": 1794600561, "who": "[AAA]笑傲AAA"}
 {"tabs_claimed": 10, "badged_observed": 0, "walked": 5, "retry_walked": 5, "ev": "mail_sweep", "t": 1794600602, "who": "[AAA]笑傲AAA"}
+{"badged": ["huzhu", "lingdi", "shangdian"], "visited": ["huzhu", "lingdi", "shangdian"], "claimed": 0, "back_town": true, "ev": "alliance_sweep", "t": 1794600626, "who": "[AAA]笑傲AAA"}
+{"opened": 0, "gifts_claimed": 0, "ev": "chat_read", "t": 1794600655, "who": "[AAA]笑傲AAA"}
+{"ev": "chat_read", "t": 1794600655, "who": "[AAA]笑傲AAA"}
+{"at": [690, 124], "ev": "town_dot_click", "t": 1794600660, "who": "[AAA]笑傲AAA"}
+{"reason": "big_account", "ev": "build_skip", "t": 1794600660, "who": "[AAA]笑傲AAA"}
+{"ev": "crystal_none", "t": 1794600665, "who": "[AAA]笑傲AAA"}
+{"at": [214, 976], "ev": "academy_wrong_panel", "t": 1794600673, "who": "[AAA]笑傲AAA"}
+{"ev": "dixin_no_entry", "t": 1794600679, "who": "[AAA]笑傲AAA"}
+{"task": 0, "mail": 10, "alliance": 0, "dots_clicked": 2, "build": 0, "crystal": 0, "gather": -1, "hero": -1, "pet": -1, "ev": "town_reddots_done", "t": 1794600679, "who": "[AAA]笑傲AAA"}
+{"cycle": 190, "arrived": true, "ev": "idle_to_town", "t": 1794600679, "who": "[AAA]笑傲AAA"}
+{"screens": 2, "found": 5, "total": 5, "via": "ocr", "missing": [], "ev": "roster_scan", "t": 1794600706, "who": "[AAA]笑傲AAA"}
+{"at": [298, 555], "target": "[AAA]笑傲AAAB", "from_cur": "[AAA]笑傲AAA", "ev": "rotate_card_tapped", "t": 1794600716, "who": "[AAA]笑傲AAA"}
+{"in_town": true, "target": "[AAA]笑傲AAAB", "ev": "rotate_done", "t": 1794600739, "who": "[AAA]笑傲AAAB"}
+{"cycle": 190, "ev": "rotated", "t": 1794600739, "who": "[AAA]笑傲AAAB"}
+{"cycle": 191, "frm": "town", "to": "wild", "sw": 0.836, "st": 0.277, "ev": "view_switch", "t": 1794600754, "who": "[AAA]笑傲AAAB"}
+{"cur": 49, "cap": 200, "ev": "stamina_read", "t": 1794600763, "who": "[AAA]笑傲AAAB"}
+{"ev": "stamina_no_meal", "t": 1794600763, "who": "[AAA]笑傲AAAB"}
+{"cycle": 191, "score": 0.969, "at": [677, 169], "after": "meal", "ev": "board_modal_closed", "t": 1794600767, "who": "[AAA]笑傲AAAB"}
+{"cycle": 192, "score": 0.969, "at": [677, 169], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794600773, "who": "[AAA]笑傲AAAB"}
+{"cycle": 193, "pins_total": 0, "avatar": 0.256, "ev": "board_clear", "t": 1794600775, "who": "[AAA]笑傲AAAB"}
+{"explore_claimed": 1, "ev": "idle_sweep", "t": 1794600787, "who": "[AAA]笑傲AAAB"}
+{"rounds": 1, "badge_left": 0, "ev": "task_sweep", "t": 1794600814, "who": "[AAA]笑傲AAAB"}
+{"tabs_claimed": 10, "badged_observed": 0, "walked": 5, "retry_walked": 5, "ev": "mail_sweep", "t": 1794600851, "who": "[AAA]笑傲AAAB"}
+{"tabs_badged": [0, 0], "claims": 1, "ev": "box_claim", "t": 1794600863, "who": "[AAA]笑傲AAAB"}
+{"badged": ["baoxiang", "huzhu", "lingdi", "shangdian"], "visited": ["baoxiang", "huzhu", "lingdi", "shangdian"], "claimed": 1, "back_town": true, "ev": "alliance_sweep", "t": 1794600887, "who": "[AAA]笑傲AAAB"}
+{"opened": 0, "gifts_claimed": 0, "ev": "chat_read", "t": 1794600916, "who": "[AAA]笑傲AAAB"}
+{"ev": "chat_read", "t": 1794600916, "who": "[AAA]笑傲AAAB"}
+{"at": [690, 124], "ev": "town_dot_click", "t": 1794600921, "who": "[AAA]笑傲AAAB"}
+{"reason": "big_account", "ev": "build_skip", "t": 1794600921, "who": "[AAA]笑傲AAAB"}
