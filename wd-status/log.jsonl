@@ -1,22 +1,3 @@
-{"reason": "rotate", "ev": "blacklist_cleared", "t": 1794558088, "who": "[AAA]笑傲AAAB"}
-{"in_town": true, "target": "[AAA]笑傲AAAB", "ev": "rotate_done", "t": 1794558088, "who": "[AAA]笑傲AAAB"}
-{"cycle": 57, "ev": "rotated", "t": 1794558088, "who": "[AAA]笑傲AAAB"}
-{"cycle": 58, "frm": "town", "to": "wild", "sw": 0.836, "st": 0.277, "ev": "view_switch", "t": 1794558103, "who": "[AAA]笑傲AAAB"}
-{"cycle": 58, "at": [304, 442], "area": 3577, "cls": "yellow", "yellow_left": 2, "ev": "pin_pick", "t": 1794558109, "who": "[AAA]笑傲AAAB"}
-{"cycle": 58, "at": [359, 893], "attempt": 1, "ev": "goto_tap", "t": 1794558110, "who": "[AAA]笑傲AAAB"}
-{"cycle": 58, "at": [360, 656], "ev": "target_btn", "t": 1794558111, "who": "[AAA]笑傲AAAB"}
-{"cycle": 58, "at": [304, 442], "wins_so_far": 8, "pending": 1, "ev": "sortie_sent", "t": 1794558114, "who": "[AAA]笑傲AAAB"}
-{"cycle": 59, "score": 0.966, "at": [677, 169], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794558124, "who": "[AAA]笑傲AAAB"}
-{"cycle": 60, "score": 0.905, "at": [684, 155], "needed_back": true, "streak": 2, "ev": "modal_closed", "t": 1794558130, "who": "[AAA]笑傲AAAB"}
-{"cycle": 61, "at": [440, 661], "area": 1319, "cls": "yellow", "yellow_left": 1, "ev": "pin_pick", "t": 1794558135, "who": "[AAA]笑傲AAAB"}
-{"cycle": 61, "at": [359, 952], "attempt": 1, "ev": "goto_tap", "t": 1794558136, "who": "[AAA]笑傲AAAB"}
-{"cycle": 61, "at": [359, 654], "ev": "target_btn", "t": 1794558137, "who": "[AAA]笑傲AAAB"}
-{"cycle": 61, "at": [440, 661], "n": 1, "ev": "no_target_confirm", "t": 1794558144, "who": "[AAA]笑傲AAAB"}
-{"cycle": 62, "score": 0.95, "at": [677, 170], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794558152, "who": "[AAA]笑傲AAAB"}
-{"cycle": 63, "at": [440, 657], "area": 2151, "cls": "yellow", "yellow_left": 1, "ev": "pin_pick", "t": 1794558157, "who": "[AAA]笑傲AAAB"}
-{"cycle": 63, "at": [359, 952], "attempt": 1, "ev": "goto_tap", "t": 1794558157, "who": "[AAA]笑傲AAAB"}
-{"cycle": 63, "at": [359, 654], "ev": "target_btn", "t": 1794558158, "who": "[AAA]笑傲AAAB"}
-{"cycle": 63, "at": [440, 657], "reason": "no_target_confirm_x2", "blacked": 8, "ev": "blacklisted", "t": 1794558165, "who": "[AAA]笑傲AAAB"}
 {"cycle": 64, "score": 0.952, "at": [677, 170], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794558173, "who": "[AAA]笑傲AAAB"}
 {"cycle": 65, "pending": 1, "blacked": 1, "ev": "pending_wait_timeout", "t": 1794558329, "who": "[AAA]笑傲AAAB"}
 {"cycle": 66, "pins_total": 2, "avatar": 0.189, "ev": "board_clear", "t": 1794558331, "who": "[AAA]笑傲AAAB"}
@@ -8998,3 +8979,22 @@
 {"at": [690, 124], "ev": "town_dot_click", "t": 1794658214, "who": "[AAA]笑傲小小号单防"}
 {"ev": "build_no_indicator", "t": 1794658227, "who": "[AAA]笑傲小小号单防"}
 {"ev": "crystal_none", "t": 1794658228, "who": "[AAA]笑傲小小号单防"}
+{"res": "生肉", "want": 8, "got": 7, "reads": [4, 5, 6, 7], "ev": "gather_lv_capped", "t": 1794658253, "who": "[AAA]笑傲小小号单防"}
+{"verified": true, "mode": "check", "ev": "gather_full_only", "t": 1794658256, "who": "[AAA]笑傲小小号单防"}
+{"res": "生肉", "tried": [8, 7], "got": 7, "ev": "gather_no_ore", "t": 1794658274, "who": "[AAA]笑傲小小号单防"}
+{"res": "木材", "ev": "gather_panel_fail", "t": 1794658295, "who": "[AAA]笑傲小小号单防"}
+{"res": "木材", "want": 7, "got": 5, "reads": [1, 2, 3, 4, 5], "ev": "gather_lv_capped", "t": 1794658322, "who": "[AAA]笑傲小小号单防"}
+{"verified": true, "mode": "check", "ev": "gather_full_only", "t": 1794658326, "who": "[AAA]笑傲小小号单防"}
+{"res": "木材", "tried": [8, 7], "got": 5, "ev": "gather_no_ore", "t": 1794658343, "who": "[AAA]笑傲小小号单防"}
+{"res": "煤矿", "ev": "gather_panel_fail", "t": 1794658363, "who": "[AAA]笑傲小小号单防"}
+{"verified": true, "mode": "check", "ev": "gather_full_only", "t": 1794658388, "who": "[AAA]笑傲小小号单防"}
+{"res": "煤矿", "tried": [8, 7], "got": 7, "ev": "gather_no_ore", "t": 1794658405, "who": "[AAA]笑傲小小号单防"}
+{"res": "铁矿", "ev": "gather_panel_fail", "t": 1794658425, "who": "[AAA]笑傲小小号单防"}
+{"res": "铁矿", "want": 7, "got": 5, "reads": [1, 2, 3, 4, 5], "ev": "gather_lv_capped", "t": 1794658449, "who": "[AAA]笑傲小小号单防"}
+{"verified": true, "mode": "check", "ev": "gather_full_only", "t": 1794658452, "who": "[AAA]笑傲小小号单防"}
+{"res": "铁矿", "dispatched": false, "entries": 1, "ev": "gather_searched", "t": 1794658505, "who": "[AAA]笑傲小小号单防"}
+{"res_ok": 0, "ev": "gather_round_done", "t": 1794658507, "who": "[AAA]笑傲小小号单防"}
+{"at": [215, 968], "ev": "academy_wrong_panel", "t": 1794658520, "who": "[AAA]笑傲小小号单防"}
+{"ev": "dixin_no_entry", "t": 1794658525, "who": "[AAA]笑傲小小号单防"}
+{"task": 0, "mail": 10, "alliance": 1, "dots_clicked": 2, "build": 0, "crystal": 0, "gather": 0, "hero": -1, "pet": -1, "ev": "town_reddots_done", "t": 1794658525, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 14, "arrived": true, "ev": "idle_to_town", "t": 1794658526, "who": "[AAA]笑傲小小号单防"}
