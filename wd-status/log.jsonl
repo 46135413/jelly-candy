@@ -1,21 +1,3 @@
-{"cycle": 13, "pins_total": 0, "avatar": 0.0, "ev": "board_clear", "t": 1794576522, "who": "[CHA]领主1193343915"}
-{"reason": "still_board", "ev": "idle_sweep_abort", "t": 1794576527, "who": "[CHA]领主1193343915"}
-{"cycle": 13, "arrived": false, "ev": "idle_to_town", "t": 1794576537, "who": "[CHA]领主1193343915"}
-{"reason": "stuck", "ev": "rotate_not_town", "t": 1794576537, "who": "[CHA]领主1193343915"}
-{"cycle": 14, "pins_total": 0, "avatar": 0.0, "ev": "board_clear", "t": 1794576548, "who": "[CHA]领主1193343915"}
-{"explore_claimed": 0, "ev": "idle_sweep", "t": 1794576558, "who": "[CHA]领主1193343915"}
-{"reason": "not_town", "ev": "mail_skip", "t": 1794576574, "who": "[CHA]领主1193343915"}
-{"cycle": 14, "arrived": false, "ev": "idle_to_town", "t": 1794576584, "who": "[CHA]领主1193343915"}
-{"reason": "stuck", "ev": "rotate_not_town", "t": 1794576584, "who": "[CHA]领主1193343915"}
-{"cycle": 15, "pins_total": 0, "avatar": 0.194, "ev": "board_clear", "t": 1794576594, "who": "[CHA]领主1193343915"}
-{"reason": "still_board", "ev": "idle_sweep_abort", "t": 1794576599, "who": "[CHA]领主1193343915"}
-{"cycle": 15, "arrived": false, "ev": "idle_to_town", "t": 1794576609, "who": "[CHA]领主1193343915"}
-{"reason": "stuck", "ev": "rotate_not_town", "t": 1794576609, "who": "[CHA]领主1193343915"}
-{"cycle": 16, "pins_total": 0, "avatar": 0.0, "ev": "board_clear", "t": 1794576620, "who": "[CHA]领主1193343915"}
-{"reason": "still_board", "ev": "idle_sweep_abort", "t": 1794576625, "who": "[CHA]领主1193343915"}
-{"cycle": 16, "arrived": false, "ev": "idle_to_town", "t": 1794576635, "who": "[CHA]领主1193343915"}
-{"reason": "stuck", "ev": "rotate_not_town", "t": 1794576636, "who": "[CHA]领主1193343915"}
-{"cycle": 17, "pins_total": 1, "avatar": 0.142, "ev": "board_clear", "t": 1794576647, "who": "[CHA]领主1193343915"}
 {"reason": "still_board", "ev": "idle_sweep_abort", "t": 1794576652, "who": "[CHA]领主1193343915"}
 {"cycle": 17, "arrived": false, "ev": "idle_to_town", "t": 1794576662, "who": "[CHA]领主1193343915"}
 {"reason": "stuck", "ev": "rotate_not_town", "t": 1794576662, "who": "[CHA]领主1193343915"}
@@ -8998,3 +8980,21 @@
 {"explore_claimed": 1, "ev": "idle_sweep", "t": 1794674073, "who": "[AAA]笑傲AAAB"}
 {"rounds": 1, "badge_left": 0, "ev": "task_sweep", "t": 1794674099, "who": "[AAA]笑傲AAAB"}
 {"tabs_claimed": 10, "badged_observed": 0, "walked": 5, "retry_walked": 5, "ev": "mail_sweep", "t": 1794674138, "who": "[AAA]笑傲AAAB"}
+{"tabs_badged": [0, 0], "claims": 1, "ev": "box_claim", "t": 1794674150, "who": "[AAA]笑傲AAAB"}
+{"at": [318, 1005], "ev": "perm_donated", "t": 1794674191, "who": "[AAA]笑傲AAAB"}
+{"badged": ["baoxiang", "huzhu", "keji", "lingdi", "shangdian"], "visited": ["baoxiang", "huzhu", "keji", "lingdi", "shangdian"], "claimed": 2, "back_town": true, "ev": "alliance_sweep", "t": 1794674197, "who": "[AAA]笑傲AAAB"}
+{"opened": 0, "gifts_claimed": 0, "ev": "chat_read", "t": 1794674226, "who": "[AAA]笑傲AAAB"}
+{"ev": "chat_read", "t": 1794674226, "who": "[AAA]笑傲AAAB"}
+{"at": [690, 124], "ev": "town_dot_click", "t": 1794674231, "who": "[AAA]笑傲AAAB"}
+{"reason": "big_account", "ev": "build_skip", "t": 1794674231, "who": "[AAA]笑傲AAAB"}
+{"ev": "crystal_none", "t": 1794674256, "who": "[AAA]笑傲AAAB"}
+{"res": "生肉", "band": [], "ev": "gather_lv_fail", "t": 1794674272, "who": "[AAA]笑傲AAAB"}
+{"verified": true, "mode": "check", "ev": "gather_full_only", "t": 1794674275, "who": "[AAA]笑傲AAAB"}
+{"res": "生肉", "dispatched": false, "entries": 1, "ev": "gather_searched", "t": 1794674329, "who": "[AAA]笑傲AAAB"}
+{"res": "木材", "ev": "gather_panel_fail", "t": 1794674352, "who": "[AAA]笑傲AAAB"}
+{"res": "木材", "band": [], "ev": "gather_lv_fail", "t": 1794674365, "who": "[AAA]笑傲AAAB"}
+{"verified": true, "mode": "check", "ev": "gather_full_only", "t": 1794674368, "who": "[AAA]笑傲AAAB"}
+{"res": "木材", "tried": [8, 7], "got": null, "ev": "gather_no_ore", "t": 1794674386, "who": "[AAA]笑傲AAAB"}
+{"res": "煤矿", "ev": "gather_panel_fail", "t": 1794674408, "who": "[AAA]笑傲AAAB"}
+{"verified": true, "mode": "check", "ev": "gather_full_only", "t": 1794674418, "who": "[AAA]笑傲AAAB"}
+{"res": "煤矿", "tried": [8, 7], "got": 7, "ev": "gather_no_ore", "t": 1794674437, "who": "[AAA]笑傲AAAB"}
