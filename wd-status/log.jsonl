@@ -1,20 +1,3 @@
-{"cycle": 46, "at": [360, 656], "ev": "target_btn", "t": 1794557549, "who": "[AAA]笑傲AAA"}
-{"cycle": 46, "at": [304, 440], "wins_so_far": 8, "pending": 1, "ev": "sortie_sent", "t": 1794557552, "who": "[AAA]笑傲AAA"}
-{"cycle": 47, "score": 0.966, "at": [677, 169], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794557562, "who": "[AAA]笑傲AAA"}
-{"cycle": 48, "score": 0.905, "at": [684, 155], "needed_back": true, "streak": 2, "ev": "modal_closed", "t": 1794557568, "who": "[AAA]笑傲AAA"}
-{"cycle": 49, "at": [440, 663], "area": 1329, "cls": "yellow", "yellow_left": 1, "ev": "pin_pick", "t": 1794557573, "who": "[AAA]笑傲AAA"}
-{"cycle": 49, "at": [359, 952], "attempt": 1, "ev": "goto_tap", "t": 1794557573, "who": "[AAA]笑傲AAA"}
-{"cycle": 49, "at": [359, 654], "ev": "target_btn", "t": 1794557574, "who": "[AAA]笑傲AAA"}
-{"cycle": 49, "at": [440, 663], "n": 1, "ev": "no_target_confirm", "t": 1794557581, "who": "[AAA]笑傲AAA"}
-{"cycle": 50, "score": 0.954, "at": [677, 170], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794557590, "who": "[AAA]笑傲AAA"}
-{"cycle": 51, "at": [439, 662], "area": 1280, "cls": "yellow", "yellow_left": 1, "ev": "pin_pick", "t": 1794557595, "who": "[AAA]笑傲AAA"}
-{"cycle": 51, "at": [359, 952], "attempt": 1, "ev": "goto_tap", "t": 1794557595, "who": "[AAA]笑傲AAA"}
-{"cycle": 51, "at": [359, 654], "ev": "target_btn", "t": 1794557596, "who": "[AAA]笑傲AAA"}
-{"cycle": 51, "at": [439, 662], "n": 1, "ev": "no_target_confirm", "t": 1794557603, "who": "[AAA]笑傲AAA"}
-{"cycle": 52, "score": 0.954, "at": [677, 170], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794557612, "who": "[AAA]笑傲AAA"}
-{"cycle": 53, "at": [439, 661], "area": 1261, "cls": "yellow", "yellow_left": 1, "ev": "pin_pick", "t": 1794557617, "who": "[AAA]笑傲AAA"}
-{"cycle": 53, "at": [359, 952], "attempt": 1, "ev": "goto_tap", "t": 1794557617, "who": "[AAA]笑傲AAA"}
-{"cycle": 53, "at": [359, 654], "ev": "target_btn", "t": 1794557618, "who": "[AAA]笑傲AAA"}
 {"cycle": 53, "at": [439, 661], "reason": "no_target_confirm_x2", "blacked": 7, "ev": "blacklisted", "t": 1794557625, "who": "[AAA]笑傲AAA"}
 {"cycle": 54, "score": 0.954, "at": [677, 170], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794557634, "who": "[AAA]笑傲AAA"}
 {"cycle": 55, "pending": 1, "blacked": 1, "ev": "pending_wait_timeout", "t": 1794557789, "who": "[AAA]笑傲AAA"}
@@ -8998,3 +8981,20 @@
 {"cycle": 10, "ev": "exit_popup_dismissed", "t": 1794657590, "who": "[CHA]领主1193475194"}
 {"cycle": 11, "pins_total": 1, "avatar": 0.201, "ev": "board_clear", "t": 1794657596, "who": "[CHA]领主1193475194"}
 {"explore_claimed": 1, "ev": "idle_sweep", "t": 1794657608, "who": "[CHA]领主1193475194"}
+{"tabs_claimed": 10, "badged_observed": 0, "walked": 5, "retry_walked": 5, "ev": "mail_sweep", "t": 1794657651, "who": "[CHA]领主1193475194"}
+{"tabs_badged": [0, 0], "claims": 1, "ev": "box_claim", "t": 1794657663, "who": "[CHA]领主1193475194"}
+{"badged": ["baoxiang", "huzhu", "lingdi", "shangdian", "zhanzheng"], "visited": ["baoxiang", "huzhu", "lingdi", "shangdian", "zhanzheng"], "claimed": 2, "back_town": true, "ev": "alliance_sweep", "t": 1794657697, "who": "[CHA]领主1193475194"}
+{"opened": 0, "gifts_claimed": 0, "ev": "chat_read", "t": 1794657725, "who": "[CHA]领主1193475194"}
+{"ev": "chat_read", "t": 1794657725, "who": "[CHA]领主1193475194"}
+{"at": [690, 124], "ev": "town_dot_click", "t": 1794657730, "who": "[CHA]领主1193475194"}
+{"ev": "build_no_indicator", "t": 1794657743, "who": "[CHA]领主1193475194"}
+{"verified": true, "mode": "check", "ev": "gather_full_only", "t": 1794657775, "who": "[CHA]领主1193475194"}
+{"res": "生肉", "ev": "gather_panel_fail", "t": 1794657813, "who": "[CHA]领主1193475194"}
+{"res": "生肉", "tried": [8, 7], "got": null, "ev": "gather_no_ore", "t": 1794657813, "who": "[CHA]领主1193475194"}
+{"res": "木材", "want": 8, "got": 5, "reads": [1, 2, 3, 4, 5], "ev": "gather_lv_capped", "t": 1794657836, "who": "[CHA]领主1193475194"}
+{"verified": true, "mode": "check", "ev": "gather_full_only", "t": 1794657839, "who": "[CHA]领主1193475194"}
+{"res": "木材", "tried": [8, 7], "got": 5, "ev": "gather_no_ore", "t": 1794657856, "who": "[CHA]领主1193475194"}
+{"res": "煤矿", "ev": "gather_panel_fail", "t": 1794657876, "who": "[CHA]领主1193475194"}
+{"verified": true, "mode": "check", "ev": "gather_full_only", "t": 1794657900, "who": "[CHA]领主1193475194"}
+{"res": "煤矿", "tried": [8, 7], "got": 7, "ev": "gather_no_ore", "t": 1794657918, "who": "[CHA]领主1193475194"}
+{"res": "铁矿", "ev": "gather_panel_fail", "t": 1794657938, "who": "[CHA]领主1193475194"}
