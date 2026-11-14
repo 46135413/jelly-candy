@@ -1,15 +1,3 @@
-{"screens": 3, "found": 2, "total": 5, "via": "ocr", "ev": "roster_scan", "t": 1794558498, "who": "[AAA]笑傲AAAB"}
-{"at": [315, 550], "target": "[AAA]笑傲AAA", "from_cur": "[AAA]笑傲AAAB", "ev": "rotate_card_tapped", "t": 1794558506, "who": "[AAA]笑傲AAAB"}
-{"reason": "rotate", "ev": "blacklist_cleared", "t": 1794558538, "who": "[AAA]笑傲AAA"}
-{"in_town": true, "target": "[AAA]笑傲AAA", "ev": "rotate_done", "t": 1794558538, "who": "[AAA]笑傲AAA"}
-{"cycle": 67, "ev": "rotated", "t": 1794558538, "who": "[AAA]笑傲AAA"}
-{"cycle": 68, "frm": "town", "to": "wild", "sw": 0.836, "st": 0.277, "ev": "view_switch", "t": 1794558551, "who": "[AAA]笑傲AAA"}
-{"cycle": 68, "at": [304, 441], "area": 3674, "cls": "yellow", "yellow_left": 2, "ev": "pin_pick", "t": 1794558555, "who": "[AAA]笑傲AAA"}
-{"cycle": 68, "at": [359, 893], "attempt": 1, "ev": "goto_tap", "t": 1794558556, "who": "[AAA]笑傲AAA"}
-{"cycle": 68, "at": [360, 656], "ev": "target_btn", "t": 1794558557, "who": "[AAA]笑傲AAA"}
-{"cycle": 68, "at": [304, 441], "wins_so_far": 8, "pending": 1, "ev": "sortie_sent", "t": 1794558559, "who": "[AAA]笑傲AAA"}
-{"cycle": 69, "score": 0.966, "at": [677, 169], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1794558569, "who": "[AAA]笑傲AAA"}
-{"cycle": 70, "score": 0.905, "at": [684, 155], "needed_back": true, "streak": 2, "ev": "modal_closed", "t": 1794558575, "who": "[AAA]笑傲AAA"}
 {"cycle": 71, "at": [440, 662], "area": 1281, "cls": "yellow", "yellow_left": 1, "ev": "pin_pick", "t": 1794558579, "who": "[AAA]笑傲AAA"}
 {"cycle": 71, "at": [359, 952], "attempt": 1, "ev": "goto_tap", "t": 1794558580, "who": "[AAA]笑傲AAA"}
 {"cycle": 71, "at": [359, 654], "ev": "target_btn", "t": 1794558581, "who": "[AAA]笑傲AAA"}
@@ -8998,3 +8986,15 @@
 {"res": "生肉", "want": 8, "got": 7, "reads": [4, 5, 6, 7], "ev": "gather_lv_capped", "t": 1794658776, "who": "[AAA]笑傲AAA"}
 {"verified": true, "mode": "check", "ev": "gather_full_only", "t": 1794658779, "who": "[AAA]笑傲AAA"}
 {"res": "生肉", "dispatched": false, "entries": 1, "ev": "gather_searched", "t": 1794658833, "who": "[AAA]笑傲AAA"}
+{"res": "木材", "ev": "gather_panel_fail", "t": 1794658857, "who": "[AAA]笑傲AAA"}
+{"verified": true, "mode": "check", "ev": "gather_full_only", "t": 1794658882, "who": "[AAA]笑傲AAA"}
+{"res": "木材", "dispatched": false, "entries": 1, "ev": "gather_searched", "t": 1794658937, "who": "[AAA]笑傲AAA"}
+{"res": "煤矿", "ev": "gather_panel_fail", "t": 1794658960, "who": "[AAA]笑傲AAA"}
+{"res": "煤矿", "want": 7, "got": 1, "reads": [1], "ev": "gather_lv_capped", "t": 1794658974, "who": "[AAA]笑傲AAA"}
+{"verified": true, "mode": "check", "ev": "gather_full_only", "t": 1794658977, "who": "[AAA]笑傲AAA"}
+{"res": "煤矿", "dispatched": false, "entries": 1, "ev": "gather_searched", "t": 1794659033, "who": "[AAA]笑傲AAA"}
+{"res": "铁矿", "ev": "gather_panel_fail", "t": 1794659056, "who": "[AAA]笑傲AAA"}
+{"res": "铁矿", "want": 7, "got": 5, "reads": [1, 2, 3, 4, 5], "ev": "gather_lv_capped", "t": 1794659080, "who": "[AAA]笑傲AAA"}
+{"verified": true, "mode": "check", "ev": "gather_full_only", "t": 1794659082, "who": "[AAA]笑傲AAA"}
+{"res": "铁矿", "dispatched": false, "entries": 1, "ev": "gather_searched", "t": 1794659138, "who": "[AAA]笑傲AAA"}
+{"res_ok": 0, "ev": "gather_round_done", "t": 1794659140, "who": "[AAA]笑傲AAA"}
