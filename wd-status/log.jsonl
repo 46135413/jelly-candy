@@ -1,29 +1,3 @@
-{"ev": "chat_read", "t": 1794638535, "who": "[AAA]笑傲AAAB"}
-{"at": [690, 124], "ev": "town_dot_click", "t": 1794638540, "who": "[AAA]笑傲AAAB"}
-{"reason": "big_account", "ev": "build_skip", "t": 1794638540, "who": "[AAA]笑傲AAAB"}
-{"ev": "crystal_none", "t": 1794638545, "who": "[AAA]笑傲AAAB"}
-{"at": [216, 968], "ev": "academy_wrong_panel", "t": 1794638553, "who": "[AAA]笑傲AAAB"}
-{"ev": "dixin_no_entry", "t": 1794638559, "who": "[AAA]笑傲AAAB"}
-{"task": 0, "mail": 10, "alliance": 1, "dots_clicked": 2, "build": 0, "crystal": 0, "gather": -1, "hero": -1, "pet": -1, "ev": "town_reddots_done", "t": 1794638559, "who": "[AAA]笑傲AAAB"}
-{"cycle": 24, "arrived": true, "ev": "idle_to_town", "t": 1794638559, "who": "[AAA]笑傲AAAB"}
-{"screens": 2, "found": 5, "total": 5, "via": "ocr", "missing": [], "ev": "roster_scan", "t": 1794638585, "who": "[AAA]笑傲AAAB"}
-{"at": [344, 540], "target": "[CHA]领主1193343915", "from_cur": "[AAA]笑傲AAAB", "ev": "rotate_card_tapped", "t": 1794638593, "who": "[AAA]笑傲AAAB"}
-{"target": "[CHA]领主1193343915", "ev": "rotate_unconfirmed", "t": 1794638630, "who": "[AAA]笑傲AAAB"}
-{"in_town": false, "target": "[CHA]领主1193343915", "ev": "rotate_done", "t": 1794638630, "who": "[AAA]笑傲AAAB"}
-{"cycle": 25, "pins_total": 0, "avatar": 0.0, "ev": "board_clear", "t": 1794638641, "who": "[AAA]笑傲AAAB"}
-{"reason": "still_board", "ev": "idle_sweep_abort", "t": 1794638646, "who": "[AAA]笑傲AAAB"}
-{"cycle": 25, "arrived": false, "ev": "idle_to_town", "t": 1794638656, "who": "[AAA]笑傲AAAB"}
-{"reason": "stuck", "ev": "rotate_not_town", "t": 1794638657, "who": "[AAA]笑傲AAAB"}
-{"cycle": 26, "ev": "screen_loading", "t": 1794638667, "who": "[AAA]笑傲AAAB"}
-{"cycle": 27, "ev": "screen_loading", "t": 1794638678, "who": "[AAA]笑傲AAAB"}
-{"cycle": 28, "ev": "screen_loading", "t": 1794638688, "who": "[AAA]笑傲AAAB"}
-{"cycle": 29, "ev": "screen_loading", "t": 1794638699, "who": "[AAA]笑傲AAAB"}
-{"cycle": 30, "ev": "screen_loading", "t": 1794638709, "who": "[AAA]笑傲AAAB"}
-{"cycle": 31, "ev": "screen_loading", "t": 1794638720, "who": "[AAA]笑傲AAAB"}
-{"cycle": 32, "ev": "screen_loading", "t": 1794638730, "who": "[AAA]笑傲AAAB"}
-{"cycle": 33, "ev": "screen_loading", "t": 1794638741, "who": "[AAA]笑傲AAAB"}
-{"cycle": 34, "ev": "screen_loading", "t": 1794638751, "who": "[AAA]笑傲AAAB"}
-{"cycle": 35, "ev": "screen_loading", "t": 1794638762, "who": "[AAA]笑傲AAAB"}
 {"cycle": 35, "n": 10, "ev": "screen_loading_stuck", "t": 1794638762, "who": "[AAA]笑傲AAAB"}
 {"cycle": 36, "at": [358, 1039], "streak": 1, "ev": "free_claim", "t": 1794638811, "who": "[AAA]笑傲AAAB"}
 {"cycle": 37, "frm": "town", "to": "wild", "sw": 0.836, "st": 0.277, "ev": "view_switch", "t": 1794638817, "who": "[AAA]笑傲AAAB"}
@@ -8998,3 +8972,29 @@
 {"cycle": 131, "score": 0.308, "ev": "entry_blind_wild", "t": 1794743462, "who": "[CHA]领主1193343915"}
 {"cycle": 131, "score": 0.308, "ev": "entry_blind_wild", "t": 1794743466, "who": "[CHA]领主1193343915"}
 {"cycle": 131, "tries": 4, "ev": "not_board", "t": 1794743466, "who": "[CHA]领主1193343915"}
+{"cycle": 132, "ev": "screen_frozen", "t": 1794743486, "who": "[CHA]领主1193343915"}
+{"cycle": 133, "ev": "screen_loading", "t": 1794743526, "who": "[CHA]领主1193343915"}
+{"cycle": 134, "ev": "screen_loading", "t": 1794743536, "who": "[CHA]领主1193343915"}
+{"cycle": 135, "ev": "screen_loading", "t": 1794743547, "who": "[CHA]领主1193343915"}
+{"cycle": 136, "ev": "screen_loading", "t": 1794743558, "who": "[CHA]领主1193343915"}
+{"cycle": 137, "ev": "screen_loading", "t": 1794743568, "who": "[CHA]领主1193343915"}
+{"cycle": 138, "ev": "screen_loading", "t": 1794743579, "who": "[CHA]领主1193343915"}
+{"cycle": 139, "ev": "screen_loading", "t": 1794743589, "who": "[CHA]领主1193343915"}
+{"cycle": 140, "ev": "screen_loading", "t": 1794743600, "who": "[CHA]领主1193343915"}
+{"cycle": 141, "ev": "screen_loading", "t": 1794743610, "who": "[CHA]领主1193343915"}
+{"cycle": 142, "ev": "screen_loading", "t": 1794743621, "who": "[CHA]领主1193343915"}
+{"cycle": 143, "ev": "screen_loading", "t": 1794743631, "who": "[CHA]领主1193343915"}
+{"cycle": 144, "ev": "screen_loading", "t": 1794743642, "who": "[CHA]领主1193343915"}
+{"cycle": 145, "ev": "screen_loading", "t": 1794743652, "who": "[CHA]领主1193343915"}
+{"cycle": 146, "ev": "screen_loading", "t": 1794743663, "who": "[CHA]领主1193343915"}
+{"cycle": 147, "ev": "screen_loading", "t": 1794743674, "who": "[CHA]领主1193343915"}
+{"cycle": 148, "ev": "screen_loading", "t": 1794743684, "who": "[CHA]领主1193343915"}
+{"cycle": 149, "ev": "screen_loading", "t": 1794743695, "who": "[CHA]领主1193343915"}
+{"cycle": 150, "ev": "screen_loading", "t": 1794743705, "who": "[CHA]领主1193343915"}
+{"cycle": 151, "ev": "screen_loading", "t": 1794743716, "who": "[CHA]领主1193343915"}
+{"cycle": 152, "ev": "screen_loading", "t": 1794743726, "who": "[CHA]领主1193343915"}
+{"cycle": 153, "ev": "screen_loading", "t": 1794743737, "who": "[CHA]领主1193343915"}
+{"cycle": 154, "ev": "screen_loading", "t": 1794743747, "who": "[CHA]领主1193343915"}
+{"cycle": 155, "ev": "screen_loading", "t": 1794743758, "who": "[CHA]领主1193343915"}
+{"cycle": 156, "ev": "screen_loading", "t": 1794743769, "who": "[CHA]领主1193343915"}
+{"cycle": 157, "ev": "screen_loading", "t": 1794743779, "who": "[CHA]领主1193343915"}
