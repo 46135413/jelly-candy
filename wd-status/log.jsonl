@@ -1,4 +1,3 @@
-{"cycle": 32, "at": [359, 893], "attempt": 1, "shot": "1115_213047_2_pin.png", "ev": "goto_tap", "t": 1794749447, "who": "[CHA]领主1193343915"}
 {"cycle": 32, "at": [360, 656], "ev": "target_btn", "t": 1794749448, "who": "[CHA]领主1193343915"}
 {"cycle": 32, "at": [347, 751], "reason": "red_warning", "blacked": 2, "ev": "blacklisted", "t": 1794749451, "who": "[CHA]领主1193343915"}
 {"cycle": 33, "ev": "exit_popup_dismissed", "t": 1794749453, "who": "[CHA]领主1193343915"}
@@ -8998,3 +8997,4 @@
 {"cycle": 101, "pins_total": 0, "avatar": 0.22, "ev": "board_clear", "t": 1794818170, "who": "[AAA]笑傲AAA"}
 {"reason": "still_board", "ev": "idle_sweep_abort", "t": 1794818175, "who": "[AAA]笑傲AAA"}
 {"cycle": 101, "arrived": true, "ev": "idle_to_town", "t": 1794818180, "who": "[AAA]笑傲AAA"}
+{"screens": 5, "found": 2, "total": 5, "via": "ocr", "missing": ["[CHA]领主1193343915", "[CHA]领主1193475194", "[AAA]笑傲AAAB"], "ev": "roster_scan", "t": 1794818212, "who": "[AAA]笑傲AAA"}
