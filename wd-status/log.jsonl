@@ -1,35 +1,3 @@
-{"cycle": 8, "at": [518, 360], "area": 1026, "cls": "other", "yellow_left": 1, "ev": "pin_pick", "t": 1794770350, "who": "[CHA]领主1193475194"}
-{"cycle": 8, "at": [518, 360], "reason": "no_target_panel", "blacked": 4, "shot": "1116_031915_8_black_no_panel.png", "ev": "blacklisted", "t": 1794770355, "who": "[CHA]领主1193475194"}
-{"reached_town": false, "ui_alive": false, "ev": "liveness_probe", "t": 1794770360, "who": "[CHA]领主1193475194"}
-{"cycle": 9, "at": [283, 901], "area": 1035, "cls": "other", "yellow_left": 1, "ev": "pin_pick", "t": 1794770364, "who": "[CHA]领主1193475194"}
-{"cycle": 9, "at": [283, 901], "reason": "no_target_panel", "blacked": 5, "shot": "1116_031929_10_black_no_panel.png", "ev": "blacklisted", "t": 1794770369, "who": "[CHA]领主1193475194"}
-{"cycle": 10, "at": [545, 997], "area": 917, "cls": "other", "yellow_left": 1, "ev": "pin_pick", "t": 1794770373, "who": "[CHA]领主1193475194"}
-{"cycle": 10, "at": [545, 997], "reason": "no_target_panel", "blacked": 6, "shot": "1116_031938_12_black_no_panel.png", "ev": "blacklisted", "t": 1794770378, "who": "[CHA]领主1193475194"}
-{"reached_town": false, "ui_alive": false, "ev": "liveness_probe", "t": 1794770384, "who": "[CHA]领主1193475194"}
-{"cycle": 11, "at": [253, 356], "area": 3664, "cls": "yellow", "yellow_left": 1, "ev": "pin_pick", "t": 1794770388, "who": "[CHA]领主1193475194"}
-{"cycle": 11, "at": [359, 893], "attempt": 1, "shot": "1116_031948_13_pin.png", "ev": "goto_tap", "t": 1794770389, "who": "[CHA]领主1193475194"}
-{"cycle": 11, "at": [360, 656], "ev": "target_btn", "t": 1794770390, "who": "[CHA]领主1193475194"}
-{"cycle": 11, "at": [253, 356], "reason": "red_warning", "blacked": 7, "ev": "blacklisted", "t": 1794770393, "who": "[CHA]领主1193475194"}
-{"cycle": 12, "ev": "exit_popup_dismissed", "t": 1794770396, "who": "[CHA]领主1193475194"}
-{"cycle": 13, "pins_total": 7, "avatar": 0.22, "ev": "board_clear", "t": 1794770402, "who": "[CHA]领主1193475194"}
-{"explore_claimed": 1, "ev": "idle_sweep", "t": 1794770415, "who": "[CHA]领主1193475194"}
-{"tpl": 0.859, "claim_at": [559, 1243], "claim_conf": 1.0, "ev": "mail_panel_open", "t": 1794770422, "who": "[CHA]领主1193475194"}
-{"tabs_claimed": 10, "badged_observed": 0, "walked": 5, "retry_walked": 5, "ev": "mail_sweep", "t": 1794770457, "who": "[CHA]领主1193475194"}
-{"tabs_badged": [0, 0], "claims": 0, "chest": null, "ev": "box_claim", "t": 1794770465, "who": "[CHA]领主1193475194"}
-{"tag": "huzhu", "claims": 0, "ev": "panel_green_claims", "t": 1794770471, "who": "[CHA]领主1193475194"}
-{"tag": "lingdi", "claims": 0, "ev": "panel_green_claims", "t": 1794770477, "who": "[CHA]领主1193475194"}
-{"tag": "shangdian", "claims": 0, "ev": "panel_green_claims", "t": 1794770483, "who": "[CHA]领主1193475194"}
-{"badged": ["baoxiang", "huzhu", "lingdi", "shangdian"], "visited": ["baoxiang", "huzhu", "lingdi", "shangdian"], "claimed": 0, "back_town": true, "ev": "alliance_sweep", "t": 1794770489, "who": "[CHA]领主1193475194"}
-{"opened": 0, "gifts_claimed": 0, "ev": "chat_read", "t": 1794770518, "who": "[CHA]领主1193475194"}
-{"ev": "chat_read", "t": 1794770518, "who": "[CHA]领主1193475194"}
-{"at": [690, 124], "ev": "town_dot_click", "t": 1794770522, "who": "[CHA]领主1193475194"}
-{"ev": "build_no_indicator", "t": 1794770533, "who": "[CHA]领主1193475194"}
-{"ev": "academy_no_entry", "t": 1794770534, "who": "[CHA]领主1193475194"}
-{"ev": "dixin_no_entry", "t": 1794770535, "who": "[CHA]领主1193475194"}
-{"task": 0, "mail": 10, "alliance": 0, "dots_clicked": 2, "build": 0, "crystal": -1, "gather": -1, "hero": -1, "pet": -1, "ev": "town_reddots_done", "t": 1794770535, "who": "[CHA]领主1193475194"}
-{"cycle": 13, "arrived": true, "ev": "idle_to_town", "t": 1794770535, "who": "[CHA]领主1193475194"}
-{"screens": 3, "found": 5, "total": 5, "via": "ocr", "missing": [], "ev": "roster_scan", "t": 1794770561, "who": "[CHA]领主1193475194"}
-{"at": [337, 901], "target": "[AAA]笑傲小小号单防", "from_cur": "[CHA]领主1193475194", "ev": "rotate_card_tapped", "t": 1794770569, "who": "[CHA]领主1193475194"}
 {"reason": "rotate", "ev": "blacklist_cleared", "t": 1794770599, "who": "[AAA]笑傲小小号单防"}
 {"in_town": true, "target": "[AAA]笑傲小小号单防", "ev": "rotate_done", "t": 1794770599, "who": "[AAA]笑傲小小号单防"}
 {"cycle": 13, "ev": "rotated", "t": 1794770599, "who": "[AAA]笑傲小小号单防"}
@@ -8998,3 +8966,35 @@
 {"at": [690, 124], "ev": "town_dot_click", "t": 1794890085, "who": "[AAA]笑傲AAA"}
 {"reason": "big_account", "ev": "build_skip", "t": 1794890085, "who": "[AAA]笑傲AAA"}
 {"ev": "crystal_none", "t": 1794890108, "who": "[AAA]笑傲AAA"}
+{"drew": 2, "ev": "hero_free_draw", "t": 1794890146, "who": "[AAA]笑傲AAA"}
+{"remaining": 5, "chests": 3, "ev": "pet_treasure_all_done", "t": 1794890188, "who": "[AAA]笑傲AAA"}
+{"k": 0, "kind": "question", "idx": 0, "story": "只有日复一日的训练，才能让士兵们 列阵时保持步调一致。虽说外患暂时 解除了，但永远不能掉以轻心。 你和谢尔盖一起整理了遗弃物，多少发现了一些用得上 又遇到了加雷斯，看看他在忙些什么。", "ev": "academy_event", "t": 1794890208, "who": "[AAA]笑傲AAA"}
+{"pick": 0, "opt": "19/28", "src": "explore", "reward": null, "learned_best": null, "ev": "academy_answered", "t": 1794890212, "who": "[AAA]笑傲AAA"}
+{"k": 1, "kind": "question", "idx": 1, "story": "我不会浪费时间，说服法厄同的人放 弃恶行。毕竟外交手段发挥作用的前 提，是对方保持理性，而在我看来， 又和巴尔德见面了，不知道这一次他有什么心得要分享", "ev": "academy_event", "t": 1794890218, "who": "[AAA]笑傲AAA"}
+{"pick": 0, "opt": "20/28", "src": "explore", "reward": null, "learned_best": null, "ev": "academy_answered", "t": 1794890223, "who": "[AAA]笑傲AAA"}
+{"k": 2, "kind": "none", "idx": 2, "story": "你在冒险途中遇到了莉迪亚，曙光联盟的植物学家。", "ev": "academy_event", "t": 1794890229, "who": "[AAA]笑傲AAA"}
+{"k": 2, "ev": "academy_advance", "t": 1794890233, "who": "[AAA]笑傲AAA"}
+{"k": 2, "kind": "none", "idx": 3, "story": "你在冒险途中遇到了莉迪亚，曙光联盟的植物学家。", "ev": "academy_event", "t": 1794890242, "who": "[AAA]笑傲AAA"}
+{"k": 2, "ev": "academy_advance", "t": 1794890246, "who": "[AAA]笑傲AAA"}
+{"k": 2, "kind": "none", "idx": 4, "story": "你在冒险途中遇到了莉迪亚，曙光联盟的植物学家。", "ev": "academy_event", "t": 1794890255, "who": "[AAA]笑傲AAA"}
+{"k": 2, "ev": "academy_advance", "t": 1794890259, "who": "[AAA]笑傲AAA"}
+{"k": 2, "kind": "none", "idx": 5, "story": "你在冒险途中遇到了莉迪亚，曙光联盟的植物学家。", "ev": "academy_event", "t": 1794890268, "who": "[AAA]笑傲AAA"}
+{"k": 2, "ev": "academy_advance", "t": 1794890272, "who": "[AAA]笑傲AAA"}
+{"k": 2, "kind": "none", "idx": 6, "story": "你在冒险途中遇到了莉迪亚，曙光联盟的植物学家。", "ev": "academy_event", "t": 1794890280, "who": "[AAA]笑傲AAA"}
+{"k": 2, "ev": "academy_advance", "t": 1794890284, "who": "[AAA]笑傲AAA"}
+{"k": 2, "kind": "none", "idx": 7, "story": "你在冒险途中遇到了莉迪亚，曙光联盟的植物学家。", "ev": "academy_event", "t": 1794890292, "who": "[AAA]笑傲AAA"}
+{"k": 2, "ev": "academy_advance", "t": 1794890296, "who": "[AAA]笑傲AAA"}
+{"at": [535, 1049], "stations": 5, "events": 8, "sess": 1, "supplies_start": null, "supplies_end": null, "decremented": null, "ev": "academy_done", "t": 1794890308, "who": "[AAA]笑傲AAA"}
+{"ev": "dixin_no_entry", "t": 1794890326, "who": "[AAA]笑傲AAA"}
+{"task": 1, "mail": 10, "alliance": 3, "spots": 0, "dots_clicked": 2, "build": 0, "crystal": 0, "gather": -1, "hero": 2, "pet": 0, "ev": "town_reddots_done", "t": 1794890326, "who": "[AAA]笑傲AAA"}
+{"cycle": 295, "arrived": true, "ev": "idle_to_town", "t": 1794890326, "who": "[AAA]笑傲AAA"}
+{"screens": 3, "found": 5, "total": 5, "via": "ocr", "missing": [], "ev": "roster_scan", "t": 1794890352, "who": "[AAA]笑傲AAA"}
+{"at": [313, 582], "target": "[AAA]笑傲AAAB", "from_cur": "[AAA]笑傲AAA", "ev": "rotate_card_tapped", "t": 1794890361, "who": "[AAA]笑傲AAA"}
+{"reason": "rotate", "ev": "blacklist_cleared", "t": 1794890389, "who": "[AAA]笑傲AAAB"}
+{"in_town": true, "target": "[AAA]笑傲AAAB", "ev": "rotate_done", "t": 1794890389, "who": "[AAA]笑傲AAAB"}
+{"cycle": 295, "ev": "rotated", "t": 1794890389, "who": "[AAA]笑傲AAAB"}
+{"cycle": 296, "frm": "town", "to": "wild", "sw": 0.836, "st": 0.277, "ev": "view_switch", "t": 1794890409, "who": "[AAA]笑傲AAAB"}
+{"cur": 17, "cap": 200, "ev": "stamina_read", "t": 1794890417, "who": "[AAA]笑傲AAAB"}
+{"claimed": 1, "at": [566, 424], "ev": "stamina_meal", "t": 1794890421, "who": "[AAA]笑傲AAAB"}
+{"cycle": 296, "pending_before": 0, "ev": "collected", "t": 1794890426, "who": "[AAA]笑傲AAAB"}
+{"cycle": 297, "at": [601, 440], "area": 1490, "cls": "other", "yellow_left": 0, "ev": "pin_pick", "t": 1794890428, "who": "[AAA]笑傲AAAB"}
