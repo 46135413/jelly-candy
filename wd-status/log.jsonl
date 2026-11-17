@@ -1,10 +1,3 @@
-{"cycle": 319, "score": 0.966, "at": [677, 169], "after": "meal", "ev": "board_modal_closed", "t": 1794781794, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 320, "at": [598, 443], "area": 1605, "cls": "other", "yellow_left": 0, "ev": "pin_pick", "t": 1794781795, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 320, "at": [359, 631], "ev": "target_btn", "t": 1794781797, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 320, "at": [598, 443], "reason": "target_no_transition", "blacked": 200, "ev": "blacklisted", "t": 1794781807, "who": "[AAA]笑傲小小号单防"}
-{"reached_town": false, "ui_alive": false, "ev": "liveness_probe", "t": 1794781813, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 321, "at": [165, 426], "area": 1947, "cls": "other", "yellow_left": 0, "ev": "pin_pick", "t": 1794781816, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 321, "at": [359, 631], "ev": "target_btn", "t": 1794781818, "who": "[AAA]笑傲小小号单防"}
 {"cycle": 321, "at": [165, 426], "reason": "target_no_transition", "blacked": 201, "ev": "blacklisted", "t": 1794781829, "who": "[AAA]笑傲小小号单防"}
 {"cycle": 322, "at": [283, 901], "area": 1095, "cls": "other", "yellow_left": 0, "ev": "pin_pick", "t": 1794781833, "who": "[AAA]笑傲小小号单防"}
 {"cycle": 322, "at": [359, 631], "ev": "target_btn", "t": 1794781835, "who": "[AAA]笑傲小小号单防"}
@@ -8998,3 +8991,10 @@
 {"cycle": 226, "at": [359, 952], "attempt": 1, "shot": "1117_162247_225_pin.png", "ev": "goto_tap", "t": 1794903767, "who": "[AAA]笑傲AAAB"}
 {"cycle": 226, "at": [359, 654], "ev": "target_btn", "t": 1794903768, "who": "[AAA]笑傲AAAB"}
 {"cycle": 226, "at": [167, 615], "wins_so_far": 16, "pending": 1, "shot": "1117_162250_226_sortie.png", "ev": "sortie_sent", "t": 1794903770, "who": "[AAA]笑傲AAAB"}
+{"cycle": 227, "pending": 1, "blacked": 1, "ev": "pending_wait_timeout", "t": 1794904015, "who": "[AAA]笑傲AAAB"}
+{"at": [359, 1148], "ev": "anywhere_exit_tapped", "t": 1794904017, "who": "[AAA]笑傲AAAB"}
+{"cycle": 229, "pending_before": 0, "ev": "collected", "t": 1794904023, "who": "[AAA]笑傲AAAB"}
+{"cycle": 230, "at": [182, 514], "area": 2255, "cls": "other", "yellow_left": 6, "ev": "pin_pick", "t": 1794904026, "who": "[AAA]笑傲AAAB"}
+{"cycle": 230, "at": [359, 906], "attempt": 1, "shot": "1117_162707_227_pin.png", "ev": "goto_tap", "t": 1794904027, "who": "[AAA]笑傲AAAB"}
+{"cycle": 230, "at": [359, 654], "ev": "target_btn", "t": 1794904028, "who": "[AAA]笑傲AAAB"}
+{"cycle": 230, "at": [182, 514], "wins_so_far": 17, "pending": 1, "shot": "1117_162710_228_sortie.png", "ev": "sortie_sent", "t": 1794904030, "who": "[AAA]笑傲AAAB"}
