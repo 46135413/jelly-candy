@@ -1,69 +1,3 @@
-{"cycle": 32, "ev": "modal_back_fallback", "t": 1795498322, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795498332, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 33, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795498344, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 33, "ev": "modal_back_fallback", "t": 1795498347, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795498357, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 34, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795498370, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 34, "ev": "modal_back_fallback", "t": 1795498373, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795498383, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 35, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795498395, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 35, "ev": "modal_back_fallback", "t": 1795498398, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795498411, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 36, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795498427, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 36, "ev": "modal_back_fallback", "t": 1795498430, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795498444, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 37, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795498456, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 37, "ev": "modal_back_fallback", "t": 1795498459, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795498469, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 38, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795498481, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 38, "ev": "modal_back_fallback", "t": 1795498484, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795498493, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 39, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795498506, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 39, "ev": "modal_back_fallback", "t": 1795498510, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795498519, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 40, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795498532, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 40, "ev": "modal_back_fallback", "t": 1795498535, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795498544, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 41, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795498556, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 41, "ev": "modal_back_fallback", "t": 1795498559, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795498568, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 42, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795498581, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 42, "ev": "modal_back_fallback", "t": 1795498584, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795498594, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 43, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795498606, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 43, "ev": "modal_back_fallback", "t": 1795498609, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795498619, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 44, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795498632, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 44, "ev": "modal_back_fallback", "t": 1795498635, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795498645, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 45, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795498657, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 45, "ev": "modal_back_fallback", "t": 1795498660, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795498669, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 46, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795498681, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 46, "ev": "modal_back_fallback", "t": 1795498684, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795498694, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 47, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795498706, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 47, "ev": "modal_back_fallback", "t": 1795498709, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795498718, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 48, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795498730, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 48, "ev": "modal_back_fallback", "t": 1795498734, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795498743, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 49, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795498755, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 49, "ev": "modal_back_fallback", "t": 1795498758, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795498767, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 50, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795498780, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 50, "ev": "modal_back_fallback", "t": 1795498783, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795498792, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 51, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795498805, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 51, "ev": "modal_back_fallback", "t": 1795498808, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795498817, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 52, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795498830, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 52, "ev": "modal_back_fallback", "t": 1795498833, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795498842, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 53, "score": 0.631, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795498854, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 53, "ev": "modal_back_fallback", "t": 1795498857, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795498871, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 54, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795498884, "who": "[AAA]笑傲小小号单防"}
 {"cycle": 54, "ev": "modal_back_fallback", "t": 1795498887, "who": "[AAA]笑傲小小号单防"}
 {"ev": "intel_drawer_empty", "t": 1795498897, "who": "[AAA]笑傲小小号单防"}
 {"cycle": 55, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795498910, "who": "[AAA]笑傲小小号单防"}
@@ -8998,3 +8932,69 @@
 {"cycle": 108, "ev": "modal_back_fallback", "t": 1795710048, "who": "[AAA]笑傲小小号单防"}
 {"cycle": 108, "ev": "modal_back_fallback", "t": 1795710051, "who": "[AAA]笑傲小小号单防"}
 {"cycle": 108, "tries": 4, "ev": "not_board", "t": 1795710052, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 109, "score": 0.617, "at": [670, 132], "ev": "modal_close_lowconf", "t": 1795710085, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 109, "ev": "modal_back_fallback", "t": 1795710090, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 109, "ev": "modal_back_fallback", "t": 1795710094, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 109, "tries": 4, "ev": "not_board", "t": 1795710094, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 110, "score": 0.617, "at": [670, 132], "ev": "modal_close_lowconf", "t": 1795710122, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 110, "ev": "modal_back_fallback", "t": 1795710128, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 110, "ev": "modal_back_fallback", "t": 1795710131, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 110, "tries": 4, "ev": "not_board", "t": 1795710132, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 111, "score": 0.617, "at": [670, 132], "ev": "modal_close_lowconf", "t": 1795710171, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 111, "ev": "modal_back_fallback", "t": 1795710177, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 111, "ev": "modal_back_fallback", "t": 1795710180, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 111, "tries": 4, "ev": "not_board", "t": 1795710181, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 112, "score": 0.613, "at": [670, 132], "ev": "modal_close_lowconf", "t": 1795710211, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 112, "ev": "modal_back_fallback", "t": 1795710217, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 112, "ev": "modal_back_fallback", "t": 1795710220, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 112, "tries": 4, "ev": "not_board", "t": 1795710220, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 113, "score": 0.617, "at": [670, 132], "ev": "modal_close_lowconf", "t": 1795710252, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 113, "ev": "modal_back_fallback", "t": 1795710260, "who": "[AAA]笑傲小小号单防"}
+{"n": 8, "ev": "intel_drawer_exec", "t": 1795710270, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 114, "score": 0.95, "at": [695, 140], "needed_back": false, "streak": 1, "ev": "modal_closed", "t": 1795710275, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 115, "score": 0.617, "at": [670, 132], "ev": "modal_close_lowconf", "t": 1795710281, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 115, "ev": "modal_back_fallback", "t": 1795710285, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 115, "ev": "modal_back_fallback", "t": 1795710294, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 115, "tries": 4, "ev": "not_board", "t": 1795710295, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 116, "score": 0.617, "at": [670, 132], "ev": "modal_close_lowconf", "t": 1795710334, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 116, "ev": "modal_back_fallback", "t": 1795710339, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 116, "ev": "modal_back_fallback", "t": 1795710343, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 116, "tries": 4, "ev": "not_board", "t": 1795710343, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 117, "score": 0.617, "at": [670, 132], "ev": "modal_close_lowconf", "t": 1795710369, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 117, "ev": "modal_back_fallback", "t": 1795710377, "who": "[AAA]笑傲小小号单防"}
+{"n": 8, "ev": "intel_drawer_exec", "t": 1795710388, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 118, "score": 0.95, "at": [695, 140], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1795710395, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 119, "score": 0.617, "at": [670, 132], "ev": "modal_close_lowconf", "t": 1795710401, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 119, "ev": "modal_back_fallback", "t": 1795710404, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 119, "ev": "modal_back_fallback", "t": 1795710414, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 119, "tries": 4, "ev": "not_board", "t": 1795710414, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 120, "score": 0.617, "at": [670, 132], "ev": "modal_close_lowconf", "t": 1795710453, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 120, "ev": "modal_back_fallback", "t": 1795710456, "who": "[AAA]笑傲小小号单防"}
+{"n": 8, "ev": "intel_drawer_exec", "t": 1795710467, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 121, "score": 0.95, "at": [695, 140], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1795710473, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 122, "score": 0.617, "at": [670, 132], "ev": "modal_close_lowconf", "t": 1795710478, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 122, "ev": "modal_back_fallback", "t": 1795710483, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 122, "ev": "modal_back_fallback", "t": 1795710486, "who": "[AAA]笑傲小小号单防"}
+{"n": 8, "ev": "intel_drawer_exec", "t": 1795710497, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 123, "score": 0.95, "at": [695, 140], "needed_back": false, "streak": 1, "ev": "modal_closed", "t": 1795710502, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 124, "score": 0.617, "at": [670, 132], "ev": "modal_close_lowconf", "t": 1795710507, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 124, "ev": "modal_back_fallback", "t": 1795710513, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 124, "ev": "modal_back_fallback", "t": 1795710516, "who": "[AAA]笑傲小小号单防"}
+{"n": 8, "ev": "intel_drawer_exec", "t": 1795710526, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 125, "score": 0.95, "at": [695, 140], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1795710532, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 126, "score": 0.617, "at": [670, 132], "ev": "modal_close_lowconf", "t": 1795710538, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 126, "ev": "modal_back_fallback", "t": 1795710541, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 126, "ev": "modal_back_fallback", "t": 1795710551, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 126, "tries": 4, "ev": "not_board", "t": 1795710551, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 127, "score": 0.617, "at": [670, 132], "ev": "modal_close_lowconf", "t": 1795710575, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 127, "ev": "modal_back_fallback", "t": 1795710578, "who": "[AAA]笑傲小小号单防"}
+{"n": 8, "ev": "intel_drawer_exec", "t": 1795710588, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 128, "score": 0.95, "at": [695, 140], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1795710595, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 129, "score": 0.617, "at": [670, 132], "ev": "modal_close_lowconf", "t": 1795710601, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 129, "ev": "modal_back_fallback", "t": 1795710604, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 129, "ev": "modal_back_fallback", "t": 1795710613, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 129, "tries": 4, "ev": "not_board", "t": 1795710614, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 130, "score": 0.617, "at": [670, 132], "ev": "modal_close_lowconf", "t": 1795710640, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 130, "ev": "modal_back_fallback", "t": 1795710647, "who": "[AAA]笑傲小小号单防"}
+{"n": 8, "ev": "intel_drawer_exec", "t": 1795710658, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 131, "score": 0.95, "at": [695, 140], "needed_back": true, "streak": 1, "ev": "modal_closed", "t": 1795710664, "who": "[AAA]笑傲小小号单防"}
