@@ -1,58 +1,3 @@
-{"cycle": 49, "ev": "modal_back_fallback", "t": 1795506164, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795506177, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 50, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795506194, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 50, "ev": "modal_back_fallback", "t": 1795506198, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795506211, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 51, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795506227, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 51, "ev": "modal_back_fallback", "t": 1795506230, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795506245, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 52, "score": 0.631, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795506262, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 52, "ev": "modal_back_fallback", "t": 1795506265, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795506278, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 53, "score": 0.631, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795506295, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 53, "ev": "modal_back_fallback", "t": 1795506299, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795506308, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 54, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795506321, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 54, "ev": "modal_back_fallback", "t": 1795506324, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795506337, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 55, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795506353, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 55, "ev": "modal_back_fallback", "t": 1795506356, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795506365, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 56, "score": 0.633, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795506377, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 56, "ev": "modal_back_fallback", "t": 1795506381, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795506394, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 57, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795506407, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 57, "ev": "modal_back_fallback", "t": 1795506410, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795506420, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 1, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795506471, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 1, "ev": "modal_back_fallback", "t": 1795506474, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795506483, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 2, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795506500, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 2, "ev": "modal_back_fallback", "t": 1795506503, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795506517, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 3, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795506533, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 3, "ev": "modal_back_fallback", "t": 1795506537, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795506550, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 4, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795506566, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 4, "ev": "modal_back_fallback", "t": 1795506569, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795506582, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 5, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795506599, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 5, "ev": "modal_back_fallback", "t": 1795506602, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795506615, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 6, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795506628, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 6, "ev": "modal_back_fallback", "t": 1795506631, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795506645, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 7, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795506662, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 7, "ev": "modal_back_fallback", "t": 1795506665, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795506678, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 8, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795506693, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 8, "ev": "modal_back_fallback", "t": 1795506697, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795506710, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 9, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795506724, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 9, "ev": "modal_back_fallback", "t": 1795506727, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795506740, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 10, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795506756, "who": "[AAA]笑傲小小号单防"}
-{"cycle": 10, "ev": "modal_back_fallback", "t": 1795506759, "who": "[AAA]笑傲小小号单防"}
 {"ev": "intel_drawer_empty", "t": 1795506772, "who": "[AAA]笑傲小小号单防"}
 {"cycle": 11, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795506789, "who": "[AAA]笑傲小小号单防"}
 {"cycle": 11, "ev": "modal_back_fallback", "t": 1795506792, "who": "[AAA]笑傲小小号单防"}
@@ -8998,3 +8943,58 @@
 {"cycle": 504, "ev": "screen_loading", "t": 1795799499, "who": "[AAA]笑傲小小号单防"}
 {"cycle": 505, "ev": "screen_loading", "t": 1795799510, "who": "[AAA]笑傲小小号单防"}
 {"cycle": 506, "ev": "screen_loading", "t": 1795799520, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 507, "ev": "screen_loading", "t": 1795799531, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 507, "n": 54, "ev": "screen_loading_stuck", "t": 1795799531, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 508, "ev": "screen_loading", "t": 1795799572, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 509, "ev": "screen_loading", "t": 1795799582, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 510, "ev": "screen_loading", "t": 1795799593, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 511, "ev": "screen_loading", "t": 1795799604, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 512, "ev": "screen_loading", "t": 1795799614, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 513, "ev": "screen_loading", "t": 1795799625, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 514, "ev": "screen_loading", "t": 1795799635, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 515, "ev": "screen_loading", "t": 1795799646, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 516, "ev": "screen_loading", "t": 1795799657, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 517, "ev": "screen_loading", "t": 1795799667, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 518, "ev": "screen_loading", "t": 1795799678, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 519, "ev": "screen_loading", "t": 1795799689, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 520, "ev": "screen_loading", "t": 1795799699, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 521, "ev": "screen_loading", "t": 1795799710, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 522, "ev": "screen_loading", "t": 1795799720, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 523, "ev": "screen_loading", "t": 1795799731, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 524, "ev": "screen_loading", "t": 1795799742, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 525, "ev": "screen_loading", "t": 1795799752, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 526, "ev": "screen_loading", "t": 1795799763, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 527, "ev": "screen_loading", "t": 1795799774, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 528, "ev": "screen_loading", "t": 1795799784, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 529, "ev": "screen_loading", "t": 1795799795, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 530, "ev": "screen_loading", "t": 1795799806, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 531, "ev": "screen_loading", "t": 1795799816, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 532, "ev": "screen_loading", "t": 1795799827, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 533, "ev": "screen_loading", "t": 1795799838, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 534, "ev": "screen_loading", "t": 1795799848, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 535, "ev": "screen_loading", "t": 1795799859, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 536, "ev": "screen_loading", "t": 1795799869, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 537, "ev": "screen_loading", "t": 1795799880, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 538, "ev": "screen_loading", "t": 1795799891, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 539, "ev": "screen_loading", "t": 1795799901, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 540, "ev": "screen_loading", "t": 1795799912, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 541, "ev": "screen_loading", "t": 1795799923, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 542, "ev": "screen_loading", "t": 1795799933, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 543, "ev": "screen_loading", "t": 1795799944, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 544, "ev": "screen_loading", "t": 1795799954, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 545, "ev": "screen_loading", "t": 1795799965, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 546, "ev": "screen_loading", "t": 1795799976, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 547, "ev": "screen_loading", "t": 1795799986, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 548, "ev": "screen_loading", "t": 1795799997, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 549, "ev": "screen_loading", "t": 1795800008, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 550, "ev": "screen_loading", "t": 1795800018, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 551, "ev": "screen_loading", "t": 1795800029, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 552, "ev": "screen_loading", "t": 1795800040, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 553, "ev": "screen_loading", "t": 1795800050, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 554, "ev": "screen_loading", "t": 1795800061, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 555, "ev": "screen_loading", "t": 1795800071, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 556, "ev": "screen_loading", "t": 1795800082, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 557, "ev": "screen_loading", "t": 1795800093, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 558, "ev": "screen_loading", "t": 1795800103, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 559, "ev": "screen_loading", "t": 1795800114, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 560, "ev": "screen_loading", "t": 1795800125, "who": "[AAA]笑傲小小号单防"}
