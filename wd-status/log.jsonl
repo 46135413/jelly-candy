@@ -1,5 +1,3 @@
-{"cycle": 40, "ev": "modal_back_fallback", "t": 1795500626, "who": "[AAA]笑傲小小号单防"}
-{"ev": "intel_drawer_empty", "t": 1795500635, "who": "[AAA]笑傲小小号单防"}
 {"cycle": 41, "score": 0.63, "at": [696, 129], "ev": "modal_close_lowconf", "t": 1795500648, "who": "[AAA]笑傲小小号单防"}
 {"cycle": 41, "ev": "modal_back_fallback", "t": 1795500651, "who": "[AAA]笑傲小小号单防"}
 {"ev": "intel_drawer_empty", "t": 1795500660, "who": "[AAA]笑傲小小号单防"}
@@ -8998,3 +8996,5 @@
 {"cycle": 19, "tries": 4, "ev": "not_board", "t": 1795716181, "who": "[AAA]笑傲小小号单防"}
 {"cycle": 20, "tries": 4, "ev": "not_board", "t": 1795716228, "who": "[AAA]笑傲小小号单防"}
 {"cycle": 21, "tries": 4, "ev": "not_board", "t": 1795716276, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 1, "n": 1, "ev": "screen_black", "t": 1795793481, "who": "[AAA]笑傲小小号单防"}
+{"cycle": 2, "n": 2, "ev": "screen_black", "t": 1795793486, "who": "[AAA]笑傲小小号单防"}
